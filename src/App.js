@@ -1,25 +1,34 @@
-import logo from './logo.svg';
+// src/App.js
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Categories from './components/Categories';
+import FeaturedProducts from './components/FeaturedProducts';
+import Hero from './components/Hero';
+import Reviews from './components/Reviews'; 
+import Footer from './components/Footer';
+import AnnouncementBar from './components/AnnouncementBar';
+import CategoryPage from './components/CategoryPage';
+import ProductList from './components/ProductList';
+import ProductDetail from './components/ProductDetail';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <Router>
+            <div>
+                  <AnnouncementBar /> {/* Colocamos el anuncio encima de la navbar */}
+                <Navbar />
+                <Routes>
+                    <Route path="/" element={<><Hero />  <FeaturedProducts /> <Categories /> <Reviews /></>} />
+                    <Route path="/:category" element={<CategoryPage />} /> {/* Ruta dinámica para las categorías */}
+                     <Route path="/" element={<ProductList />} /> {/* Página de lista de productos */}
+                    <Route path="/product/:productId" element={<ProductDetail />} /> {/* Página de detalles del producto */}
+                </Routes>
+                 <Footer /> {/* Agregamos el footer al final */}
+            </div>
+        </Router>
+    );
+};
 
 export default App;

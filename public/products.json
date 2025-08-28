@@ -1,0 +1,429 @@
+[
+  {
+    "id": "1",
+    "title": "Crema Capilar Cacao",
+    "price": 52900,
+    "image": "/images/CuidadoCapilar/CREMA-CAPILAR-CACAO.png",
+    "description": "Hemos potenciado nuestras fórmulas extrayendo bajo un modelo sustentable los componentes más nutritivos de la naturaleza con el fin de que los productos que lleguen a tus manos sean beneficiosos para ti.\nGracias al Cacao, y demás extractos botánicos, esta formulación hidrata, nutre y revitaliza las fibras capilares, recuperando su suavidad y brillo natural, constituyendo un completo tratamiento para cabellos desvitalizados, maltratados y/o secos.\nIdeal para cabellos oscuros.",
+    "usage": "Después de lavar el cabello aplicar una cantidad suficiente. En cabellos grasos, aplicar de medios a puntas. En cabellos secos, aplicar desde la raíz. Dejar actuar mínimo por 5 minutos y enjuagar.\nPara una hidratación y nutrición profunda, dejar actuar de 30 a 40 minutos y enjuagar con abundante agua. Si se quiere una mayor reparación de la fibra capilar, dejar aplicado mínimo por 2 horas.",
+    "images": [
+      "/images/CuidadoCapilar/CREMA-CAPILAR-CACAO.png",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/NUTRITIVA-CAPILAR-CACAO-700x700.png"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Crema Capilar Chocolate Y Coco",
+    "price": 52900,
+    "image": "/images/CuidadoCapilar/CREMA-NUTRITIVA-CAPILAR-CHOCOLATE-Y-COCO.png",
+    "description": "Hemos potenciado nuestras fórmulas extrayendo bajo un modelo sustentable los componentes más nutritivos de la naturaleza con el fin de que los productos que lleguen a tus manos sean beneficiosos para ti.\nGracias al Cacao, y demás extractos botánicos, esta formulación hidrata, nutre y revitaliza las fibras capilares, recuperando su suavidad y brillo natural, constituyendo un completo tratamiento para cabellos desvitalizados, maltratados y/o secos.\nIdeal para cabellos oscuros.",
+    "usage": "Después de lavar el cabello aplicar una cantidad suficiente. En cabellos grasos, aplicar de medios a puntas. En cabellos secos, aplicar desde la raíz. Dejar actuar mínimo por 5 minutos y enjuagar.\nPara una hidratación y nutrición profunda, dejar actuar de 30 a 40 minutos y enjuagar con abundante agua. Si se quiere una mayor reparación de la fibra capilar, dejar aplicado mínimo por 2 horas.",
+    "images": [
+      "/images/CuidadoCapilar/CREMA-NUTRITIVA-CAPILAR-CHOCOLATE-Y-COCO.png",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/NUTRITIVA-CAPILAR-CACAO-700x700.png"
+    ]
+  },
+   {
+    "id": "3",
+    "title": "Shampoo Natural Coco y Almendras 280 mL",
+    "price": 40900,
+    "image": "/images/CuidadoCapilar/SHAMPOO-COCO-280.png",
+    "description": "Formula con espumantes 100% biodegradables derivados de glucosas vegetales que limpian, hidratan y restauran la fibra capilar, protegiendo el color, aportando sedosidad y realzando el brillo natural del cabello. Libre de sal, sulfatos y amidas.Ideal para cabello seco.",
+    "usage": "Aplícalo con suaves masajes sobre el cabello húmedo hasta que salga espuma. Enjuágalo con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/SHAMPOO-COCO-280.png",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/SHAMPOO-COCO-ALMENDRAS.png"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Shampoo Natural Romero 280 mL",
+    "price": 40900,
+    "image": "/images/CuidadoCapilar/SHAMPOO-ROMERO.png",
+    "description": "Aplícalo con suaves masajes sobre el cabello húmedo hasta que salga espuma. Enjuágalo con abundante agua.",
+    "usage": "Aplícalo con suaves masajes sobre el cabello húmedo hasta que salga espuma. Enjuágalo con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/SHAMPOO-ROMERO.png",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/SHAMPOO-ROMERO-1.png"
+    ]
+  },
+   {
+    "id": "5",
+    "title": "Tónico Capilar con Complejo con Aminoácidos 60 mL",
+    "price": 58900,
+    "image": "/images/CuidadoCapilar/tonico.jpg",
+    "description": "Tónico Capilar con Complejo con Aminoácidos 60 mL cantidad Fórmula libre de alcohol etílico, enriquecida con aminoácidos y extractos bioactivos derivados de romero, maca, ortiga y quina, los cuales hidratan, humectan, suavizan y aportan brillo al cabello.",
+    "usage": "Aplícalo con suaves masajes sobre el cabello húmedo hasta que salga espuma. Enjuágalo con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/tonico.jpg",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/TONICO-CAPILAR-1.png",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/TONICO-CAPILAR.png"
+    ]
+  },
+   {
+    "id": "6",
+    "title": "Desodorante Natural Té Verde 60mL",
+    "price": 27900,
+    "image": "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
+    "description": "Elaborados con alumbre potásico, magnesio y extractos botánicos, ingredientes naturales con propiedades desodorizantes que protegen eficazmente de los malos olores, brindando hidratación y máximo cuidado de la piel.",
+    "usage": "Aplicar una fina capa sobre la piel limpia y seca.  Reaplicar las veces que sean necesarias para una mayor protección.",
+    "images": [
+      "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/DESODORANTES.png"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Desodorante Natural Calendula Y Manzanilla 60mL",
+    "price": 27900,
+    "image": "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
+    "description": "Elaborados con alumbre potásico, magnesio y extractos botánicos, ingredientes naturales con propiedades desodorizantes que protegen eficazmente de los malos olores, brindando hidratación y máximo cuidado de la piel.",
+    "usage": "Aplicar una fina capa sobre la piel limpia y seca.  Reaplicar las veces que sean necesarias para una mayor protección.",
+    "images": [
+      "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/DESODORANTES.png"
+    ]
+  },
+ {
+    "id": "8",
+    "title": "Jabón Artesanal Arroz 100 g",
+    "price": 22900,
+    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
+    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel seca.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
+    "images": [
+      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png"
+    ]
+  },
+   {
+    "id": "9",
+    "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
+    "price": 22900,
+    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
+    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada, con barros y/o espinillas.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
+    "images": [
+      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Jabón Artesanal Aloe Vera  100 g",
+    "price": 22900,
+    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
+    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png"
+    ]
+  },
+   {
+    "id": "11",
+    "title": "Crema Contorno Ojos con Ácido Hialurónico 30 mL",
+    "price": 79900,
+    "image": "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
+    "description": "Sus ingredientes activos incrementan la producción de colágeno y elastina nutriendo, hidratando y suavizando la delicada piel del contorno de los ojos, previniendo y reduciendo arrugas, ojeras y líneas de expresión.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en el área de los ojos con suaves masajes de afuera hacia adentro. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
+      "/images/CuidadoFacial/Detalle/contorno de ojos.jpg",
+      "/images/CuidadoFacial/Detalle/CREMA-CONTORNO-DE-OJOS-CON-ACIDO-HIALURONICO.png"
+    ]
+  },
+   {
+    "id": "12",
+    "title": "Crema Regeneradora con Complejos de Aminoácidos 50 mLL",
+    "price": 99900,
+    "image": "/images/CuidadoFacial/Detalle/regeneradora.jpg",
+    "description": "Enriquecida con ácido hialurónico de origen vegano, un poderoso complejo de aminoácidos esenciales, extracto de uchuva, vitamina E y aloe vera, ingredientes que nutren y restauran la barrera protectora de la piel. Hidrata, nutre, regenera y suaviza las líneas de expresión.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/regeneradora.jpg",
+      "/images/CuidadoFacial/Detalle/CREMA-REGENERADORA-1.png",
+      "/images/CuidadoFacial/CREMA-REGENERADORA.png"
+    ]
+  },
+   {
+    "id": "13",
+    "title": "Sérum Facial Con Vitamina C Mayakú 50 mL",
+    "price": 124900,
+    "image": "/images/CuidadoFacial/Detalle/serum.jpg",
+    "description": "Suero facial a base de extractos botánicos, ácido hialurónico y vitamina C liposomada de última generación rica en antioxidantes que protegen las células cutáneas de los radicales libres.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente el Sérum antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/serum.jpg",
+      "/images/CuidadoFacial/Detalle/DERMATOLOGICA.jpg",
+      "/images/CuidadoFacial/Detalle/VITAMINA C.jpg",
+      "/images/CuidadoFacial/SERUM-VITAMINA-C.png"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Leche Desmaquilladora Arroz 120 mL",
+    "price": 37900,
+    "image": "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
+    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza. Ideal para piel seca",
+    "usage": "Aplicar todas las noches sobre el rostro y el cuello, haciendo masajes circulares, retirar con un algodón o pañito hasta que se retiren todas las impurezas de la piel.",
+    "images": [
+      "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
+      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
+    ]
+  },
+    {
+    "id": "15",
+    "title": "Leche Desmaquilladora Uva y Argán 120 mL",
+    "price": 37900,
+    "image": "/images/CuidadoFacial/LECHE-UVA.png",
+    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza.",
+    "usage": "Aplicar todas las noches sobre el rostro y el cuello, haciendo masajes circulares, retirar con un algodón o pañito hasta que se retiren todas las impurezas de la piel.",
+    "images": [
+      "/images/CuidadoFacial/LECHE-UVA.png",
+      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
+    ]
+  },
+    {
+    "id": "16",
+    "title": "Leche Desmaquilladora Perejil 120 mL",
+    "price": 37900,
+    "image": "/images/CuidadoFacial/LECHE-PEREJIL.png",
+    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza. Ideal para unificar el tono de la piel.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/LECHE-PEREJIL.png",
+      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
+    ]
+  },
+   {
+    "id": "17",
+    "title": "Leche Limpiadora Caléndula y Manzanilla 120 mL",
+    "price":  42900,
+    "image": "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
+    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humectan, nutre y suaviza.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
+      "/images/CuidadoFacial/Detalle/LIMPIADORA-DE-CALENDULA-Y-MANZANILLA.png"
+    ]
+  },
+    {
+    "id": "18",
+    "title": "Mascarilla Aloe Vera 60 mL",
+    "price":  19900,
+    "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
+    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro ",
+    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
+      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
+    ]
+  },
+    {
+    "id": "19",
+    "title": "Mascarilla Calendula Y Manzanilla 60mL",
+    "price":  19900,
+    "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
+    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro! ",
+    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
+    "images": [
+      "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
+      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
+    ]
+  },
+   {
+    "id": "20",
+    "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
+    "price":  73900,
+    "image": "/images/CuidadoFacial/Detalle/protector.jpg",
+    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro! ",
+    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/protector.jpg",
+      "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
+      "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
+    ]
+  },
+   {
+    "id": "21",
+    "title": "Sérum Antiedad 30 mL",
+    "price":  64900,
+    "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
+    "description": "Formulación con Colágeno y Elastina que ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/protector.jpg",
+      "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
+      "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Tónico Natural Rosas 120 mL",
+    "price":  31900,
+    "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
+    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para todo tipo de piel",
+    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
+    "images": [
+      "/images/CuidadoFacial/TONICO-ROSAS.png",
+      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
+    "price":  31900,
+    "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
+    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
+    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
+    "images": [
+      "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
+      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
+    ]
+  },
+   {
+    "id": "24",
+    "title": "Tónico Natural Té Verde 120 mL",
+    "price":  31900,
+    "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
+    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
+    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
+    "images": [
+      "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
+      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
+    ]
+  },
+     {
+    "id": "25",
+    "title": "Brillo Labial Morning Kiss",
+    "price":  32000,
+    "image": "/images/Maquillaje/brilloLabial.jpg",
+    "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
+    "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
+    "images": [
+      "/images/Maquillaje/brilloLabial.jpg",
+      "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
+    ]
+  },
+   {
+    "id": "26",
+    "title": "Corrector Facial Piel Canela - Toffee",
+    "price":  42000,
+    "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
+    "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa. ",
+    "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
+    "images": [
+      "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
+      "/images/Maquillaje/Detalle/Detalle3Maquillaje.png",
+      "/images/Maquillaje/Detalle/Detalle4Maquillaje.png"
+    ]
+  },
+   {
+    "id": "27",
+    "title": "Corrector Facial Tono Medio - Latte",
+    "price":  42000,
+    "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
+    "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
+    "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
+    "images": [
+      "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
+      "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Corrector Facial Piel Super Clara - Vainilla",
+    "price":  42000,
+    "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
+    "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
+    "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
+    "images": [
+      "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
+      "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Polvo Matificante",
+    "price":  42000,
+    "image": "/images/Maquillaje/polvoMatificante.jpg",
+    "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
+    "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "images": [
+      "/images/Maquillaje/polvoMatificante.jpg",
+      "/images/Maquillaje/Detalle/Detalle5Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Hidratante y Protector Labial Frutos Rojos",
+    "price":  13900,
+    "image": "/images/Maquillaje/polvoMatificante.jpg",
+    "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
+    "usage": "Aplicar una capa fina en los labios, varias veces al día.",
+    "images": [
+      "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-FRUTOS-ROJOS.png",
+      "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle9Maquillaje.png"
+    ]
+  },
+   {
+    "id": "31",
+    "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
+    "price":  13900,
+    "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
+    "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
+    "usage": "Aplicar una capa fina en los labios, varias veces al día.",
+    "images": [
+      "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
+      "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg"
+    ]
+  },
+    {
+    "id": "32",
+    "title": "Hidratante y Protector Labial Menta ",
+    "price":  13900,
+    "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
+    "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
+    "usage": "Aplicar una capa fina en los labios, varias veces al día.",
+    "images": [
+      "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
+      "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg"
+    ]
+  },
+     {
+    "id": "33",
+    "title": "Rubor Rosa",
+    "price":  49500,
+    "image": "/images/Maquillaje/RuborRosa.png",
+    "description": "El Rubor Chirpy Makeup que define su rostro y aporta un aspecto radiante y saludable. Su textura aterciopelada brinda a la piel un acabado natural, formulado con aceites de ricino y jojoba que nutren y suavizan la piel, evitando sequedad, fecula de maíz que garantiza una larga duración en el rostro con un acabado fresco y natural. Tono Rosa",
+    "ingredients": "Aceite de ricino, aceite de jojoba, fecula de maiz, acido estearico, vitamina e, oxido de zinc, benzoato de sodio y óxidos de hierro (pigmentos minerales).",
+    "caracteristics":"Rubor elaborado con ingredientes de origen natural, 100% veganos, libres de crueldad animal y con envases eco conscientes.",
+    "usage":"Aplicar uniformemente sobre el rostro, puede usarse como sombra, rubor y labial a toquecitos.Aplicando la barra directamente sobre el rostro o con los dedos para activar el producto, difuminar con los dedos o con brocha.",
+    "images": [
+      "/images/Maquillaje/RuborRosa.png",
+      "/images/Maquillaje/Detalle/Detalle10Maquillaje.png",
+      "/images/Maquillaje/Detalle/RuborRosa2.png"
+    ]
+  },
+   {
+    "id": "34",
+    "title": "Rubor tono coral",
+    "price":  49500,
+    "image": "/images/Maquillaje/RuborCoral.png",
+    "description": "El Rubor Chirpy Makeup que define su rostro y aporta un aspecto radiante y saludable. Su textura aterciopelada brinda a la piel un acabado natural, formulado con aceites de ricino y jojoba que nutren y suavizan la piel, evitando sequedad, fecula de maíz que garantiza una larga duración en el rostro con un acabado fresco y natural. Tono Coral",
+    "ingredients": "Aceite de ricino, aceite de jojoba, fecula de maiz, acido estearico, vitamina e, oxido de zinc, benzoato de sodio y óxidos de hierro (pigmentos minerales).",
+    "caracteristics":"Rubor elaborado con ingredientes de origen natural, 100% veganos, libres de crueldad animal y con envases eco conscientes.",
+    "usage":"Aplicar uniformemente sobre el rostro, puede usarse como sombra, rubor y labial a toquecitos.Aplicando la barra directamente sobre el rostro o con los dedos para activar el producto, difuminar con los dedos o con brocha.",
+    "images": [
+      "/images/Maquillaje/RuborCoral.png",
+      "/images/Maquillaje/Detalle/Detalle10Maquillaje.png",
+      "/images/Maquillaje/Detalle/RuborCoral2.png"
+    ]
+  }
+
+
+]

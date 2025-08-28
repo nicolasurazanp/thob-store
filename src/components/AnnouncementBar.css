@@ -1,0 +1,36 @@
+/* src/components/AnnouncementBar.css */
+.announcement-bar {
+    background-color: #1d3f2e; /* Color verde */
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed; /* Esto asegura que el anuncio permanezca fijo */
+    top: 0; /* Asegura que esté en la parte superior */
+    left: 0; /* Asegura que esté alineado a la izquierda */
+    right: 0; /* Asegura que esté alineado a la derecha */
+    z-index: 1000; /* Hace que esté encima de otros elementos */
+    font-size: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.announcement-content {
+    display: flex;
+    align-items: center;
+}
+
+.instagram-icon {
+    margin-right: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.announcement-content span {
+    font-weight: bold;
+}
+
+/* Asegura que la navbar no se solape con el anuncio */
+body {
+    padding-top: 40px; /* Ajuste según la altura del anuncio */
+}

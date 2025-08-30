@@ -1,6 +1,5 @@
-// src/components/Footer.js
 import React from 'react';
-import { FaWhatsapp, FaInstagram, FaFacebook } from 'react-icons/fa'; // Importamos los íconos
+import { FaWhatsapp, FaInstagram, FaFacebook, FaTiktok } from 'react-icons/fa'; // Importamos el ícono de TikTok
 
 import './Footer.css'; // Estilos para el footer
 
@@ -18,6 +17,9 @@ const Footer = () => {
                     </p>
                     <p>
                         <FaFacebook /> <a href="https://www.facebook.com/organica.store.hierbabuena" target="_blank" rel="noopener noreferrer">Facebook: orgánica Store Hierbabuena</a>
+                    </p>
+                    <p>
+                        <FaTiktok /> <a href="https://www.tiktok.com/@t.organica_hierbabuena" target="_blank" rel="noopener noreferrer">TikTok: @t.organica_hierbabuena</a>
                     </p>
                 </div>
                 <div className="footer-logo">

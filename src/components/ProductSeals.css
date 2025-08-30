@@ -1,0 +1,35 @@
+.product-seals {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.seal-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.seal-item {
+    flex: 1 1 200px;
+    display: flex;
+    align-items: flex-start;
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.seal-item img {
+    max-width: 60px;
+    margin-right: 12px;
+}
+
+.seal-item p {
+    flex: 1;
+    margin: 0;
+    font-size: 14px;
+    color: #555;
+}

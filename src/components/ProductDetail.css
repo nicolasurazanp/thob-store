@@ -1,7 +1,7 @@
 .product-detail {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+     display: flex; 
+     justify-content: center; 
+     margin-top: 20px; 
 }
 
 .product-gallery {
@@ -77,4 +77,47 @@
 .product-info p {
     font-size: 16px;
     line-height: 1.6;
+}
+
+.product-seals {
+    margin-top: 30px;
+    background-color: #f9f9f9; /* Fondo gris suave para la sección de sellos */
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column; /* Cambiado a columna para apilar verticalmente */
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.product-seals h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.seal-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around; /* Para asegurarse de que los sellos se distribuyan bien */
+}
+
+.seal-item {
+    display: flex;
+    align-items: center;
+    max-width: 250px;
+    flex: 1 1 25%; /* Permite que los sellos se ajusten según el espacio */
+    text-align: center;
+}
+
+.seal-item img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.seal-item p {
+    font-size: 14px;
+    line-height: 1.4;
 }

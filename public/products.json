@@ -9,7 +9,14 @@
     "images": [
       "/images/CuidadoCapilar/CREMA-CAPILAR-CACAO.png",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/NUTRITIVA-CAPILAR-CACAO-700x700.png"
-    ]
+    ],
+      "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
     "id": "2",
@@ -21,7 +28,14 @@
     "images": [
       "/images/CuidadoCapilar/CREMA-NUTRITIVA-CAPILAR-CHOCOLATE-Y-COCO.png",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/NUTRITIVA-CAPILAR-CACAO-700x700.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
     "id": "3",
@@ -33,21 +47,35 @@
     "images": [
       "/images/CuidadoCapilar/SHAMPOO-COCO-280.png",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/SHAMPOO-COCO-ALMENDRAS.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
     "id": "4",
     "title": "Shampoo Natural Romero 280 mL",
     "price": 40900,
     "image": "/images/CuidadoCapilar/SHAMPOO-ROMERO.png",
-    "description": "Aplícalo con suaves masajes sobre el cabello húmedo hasta que salga espuma. Enjuágalo con abundante agua.",
+    "description": "Formula con espumantes 100% biodegradables derivados de glucosas vegetales que limpian, hidratan y restauran la fibra capilar, protegiendo el color, aportando sedosidad y realzando el brillo natural del cabello. Libre de sal, sulfatos y amidas. Ideal Para todo tipo de cabello.",
     "usage": "Aplícalo con suaves masajes sobre el cabello húmedo hasta que salga espuma. Enjuágalo con abundante agua.",
     "images": [
       "/images/CuidadoCapilar/SHAMPOO-ROMERO.png",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/SHAMPOO-ROMERO-1.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-   {
+  {
     "id": "5",
     "title": "Tónico Capilar con Complejo con Aminoácidos 60 mL",
     "price": 58900,
@@ -58,10 +86,85 @@
       "/images/CuidadoCapilar/tonico.jpg",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/TONICO-CAPILAR-1.png",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/TONICO-CAPILAR.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+{
+    "id": "6",
+    "title": "Acondicionador Solido",
+    "price": 24000,
+    "image": "//images/CuidadoCapilar/CuidadoCapilarDetalle/acondicionador.webp",
+    "description":[ "El más aclamado por todos ustedes ha llegado.",
+    "Nuestro acondicionador sólido esta diseñado para dejar tu cabello suave para un cepillado sin fricción, ¿lo mejor? no contamina, no esta diseñado con BTMs  y nos aseguramos que sus compuestos no contaminarán la vida marina.",
+    "Sentiras la suavidad desde su primer uso"
+    ],
+    "usage": "Solo debes aplicarlo de raíz a punta (si tienes cabello seco) o de medio a punta (si tienes cabello con tendencia grasa), dejar reposar por 1 mínuto y procedes a enjuagar.",
+    "storage": "Mantener seco entre usos. Recomendamos guardar el acondicionador Oiris en una jabonera con buen drenaje.",
+    "images": [
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/acondicionador.webp",
+      "/images/CuidadoCapilar/AcondicionadorsolidoOiris_540x.webp"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Cera Para Peinar",
+    "price": 12000,
+    "image": "/images/CuidadoCapilar/CuidadoCapilarDetalle/CeraParaPeinarOiris-1_720x.webp",
+    "description":"Nuestra cera para peinar es 100% natural y contiene cera de abejas. Está hecha específicamente para nutrir tu cabello y dejarlo brillante al peinarse. Todos pueden usarlo, porque este producto es unisex.",
+    "usage": "Para usarlo, frota la cera 100% natural con las manos hasta derretirla. Cuando obtengas la cantidad deseada aplica sobre el cabello ligeramente húmedo.",
+    "ingredients": "Cera de abeja, Manteca de cacao, Aceite de ricino, Aceite de coco, Aceite de almendras. alcohol cetearílico (derivado natural de los aceites).",
+    "images": [
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/CeraParaPeinarOiris-1_720x.webp",
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/CeraParaPeinarOiris-2_720x.webp",
+      "/images/CuidadoCapilar/CeraPeinarOiris_540x.webp"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "6",
+    "id": "8",
+    "title": "Shampoo Rise & Shine Verde Romero (Anticaspa)",
+    "price": 24000,
+    "image": "/images/CuidadoCapilar/ShampooAnticaspaSolo_720x.webp",
+    "description":"¡Libérate de la caspa de forma natural con el Shampoo Rise & Shine Verde Romero! Gracias al Aceite de Ricino, Romero y Flor de Sauco que humectan tu cuero cabelludo y controlan los microorganismos causantes de la caspa.",
+    "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/ShampooAnticaspaSolo_720x.webp"
+
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  
+   {
+     "_comment": "Fin Categoria Capilar - Inicio Categoria Corporal"
+   },
+
+  {
+    "id": "11",
     "title": "Desodorante Natural Té Verde 60mL",
     "price": 27900,
     "image": "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
@@ -70,10 +173,17 @@
     "images": [
       "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/DESODORANTES.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "7",
+    "id": "12",
     "title": "Desodorante Natural Calendula Y Manzanilla 60mL",
     "price": 27900,
     "image": "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
@@ -82,10 +192,17 @@
     "images": [
       "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/DESODORANTES.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
- {
-    "id": "8",
+  {
+    "id": "13",
     "title": "Jabón Artesanal Arroz 100 g",
     "price": 22900,
     "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
@@ -93,10 +210,17 @@
     "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
     "images": [
       "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-   {
-    "id": "9",
+  {
+    "id": "14",
     "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
     "price": 22900,
     "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
@@ -104,10 +228,17 @@
     "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
     "images": [
       "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "10",
+    "id": "15",
     "title": "Jabón Artesanal Aloe Vera  100 g",
     "price": 22900,
     "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
@@ -115,10 +246,102 @@
     "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
     "images": [
       "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "16",
+    "title": "Jabón Corporal Coco 100 g",
+    "price": 10000,
+    "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/Coco_720x.webp",
+    "description": "Este jabón (90gr) contiene una mayor concentración de aceite de coco y contiene adicionalmente Leche de coco. El coco es una fruta rica en potasio, hierro, magnesio, fósforo, cobre y zinc, lo que le confiere un valor nutricional ejemplar. El producto protegerá su piel de las agresiones externas y la dejará suave mientras libera un aroma exótico. Indicado para todo tipo de pieles.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/Coco_720x.webp",
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/coco_4b2d6f03-69f2-48d2-9c75-e25a751edb48_720x.webp",
+      "/images/CuidadoCorporal/JabonCorporalCoco_540x.webp"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "17",
+    "title": "Jabón Corporal Aloe Vera g",
+    "price": 10000,
+    "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA1.webp",
+    "description": "Un jabón 100% natural de 90 gramos que contiene todas las propiedades calmantes y curativas del Aloe Vera. Se puede usar en pieles sensibles e irritadas ya que ayuda a suavizar tu piel.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA1.webp",
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA2.webp",
+      "/images/CuidadoCorporal/JabonCorporalAloeVera.webp"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+ {
+    "id": "18",
+    "title": "Jabón Corporal Avena g",
+    "price": 10000,
+    "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/AVENA1.webp",
+    "description": "Este jabón de avena 100% natural (90 gramos) es recomendado para las pieles más frágiles, intolerantes y atópicas al dejar la piel flexible e hidratada. La avena es un ingrediente 100% natural que alivia las inflamaciones causadas por agresiones externas o problemas de la piel como quemaduras de sol, picaduras de insectos, eczema, psoriasis, rosácea o cicatrices.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/AVENA1.webp",
+      "/images/CuidadoCorporal/JabonCorporalAvena_540x.webp"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "11",
+    "id": "19",
+    "title": "Jabón Corporal De Café ",
+    "price": 10000,
+    "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe1.webp",
+    "description": "Además de su ligero efecto exfoliante, este jabón (90gr) de café estimula la circulación sanguínea y ayuda a la piel a liberarse de la grasa drenándola. El café también tiene propiedades antioxidantes que ayudan a preservar la juventud de la piel.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe1.webp",
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe2.webp",
+      "/images/CuidadoCorporal/JabonCorporalCafe_540x.webp"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+
+
+{
+  "_comment": "Fin Categoria Corporal - Inicio Categoria Facial"
+},
+
+  {
+    "id": "20",
     "title": "Crema Contorno Ojos con Ácido Hialurónico 30 mL",
     "price": 79900,
     "image": "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
@@ -128,10 +351,17 @@
       "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
       "/images/CuidadoFacial/Detalle/contorno de ojos.jpg",
       "/images/CuidadoFacial/Detalle/CREMA-CONTORNO-DE-OJOS-CON-ACIDO-HIALURONICO.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-   {
-    "id": "12",
+  {
+    "id": "21",
     "title": "Crema Regeneradora con Complejos de Aminoácidos 50 mLL",
     "price": 99900,
     "image": "/images/CuidadoFacial/Detalle/regeneradora.jpg",
@@ -141,10 +371,17 @@
       "/images/CuidadoFacial/Detalle/regeneradora.jpg",
       "/images/CuidadoFacial/Detalle/CREMA-REGENERADORA-1.png",
       "/images/CuidadoFacial/CREMA-REGENERADORA.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-   {
-    "id": "13",
+  {
+    "id": "22",
     "title": "Sérum Facial Con Vitamina C Mayakú 50 mL",
     "price": 124900,
     "image": "/images/CuidadoFacial/Detalle/serum.jpg",
@@ -155,10 +392,17 @@
       "/images/CuidadoFacial/Detalle/DERMATOLOGICA.jpg",
       "/images/CuidadoFacial/Detalle/VITAMINA C.jpg",
       "/images/CuidadoFacial/SERUM-VITAMINA-C.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "14",
+    "id": "23",
     "title": "Leche Desmaquilladora Arroz 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
@@ -167,10 +411,17 @@
     "images": [
       "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
       "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-    {
-    "id": "15",
+  {
+    "id": "24",
     "title": "Leche Desmaquilladora Uva y Argán 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-UVA.png",
@@ -179,10 +430,17 @@
     "images": [
       "/images/CuidadoFacial/LECHE-UVA.png",
       "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-    {
-    "id": "16",
+  {
+    "id": "25",
     "title": "Leche Desmaquilladora Perejil 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-PEREJIL.png",
@@ -191,10 +449,17 @@
     "images": [
       "/images/CuidadoFacial/LECHE-PEREJIL.png",
       "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-   {
-    "id": "17",
+  {
+    "id": "26",
     "title": "Leche Limpiadora Caléndula y Manzanilla 120 mL",
     "price":  42900,
     "image": "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
@@ -203,10 +468,17 @@
     "images": [
       "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
       "/images/CuidadoFacial/Detalle/LIMPIADORA-DE-CALENDULA-Y-MANZANILLA.png"
-    ]
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
-    {
-    "id": "18",
+  {
+    "id": "27",
     "title": "Mascarilla Aloe Vera 60 mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
@@ -215,10 +487,17 @@
     "images": [
       "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
       "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
     {
-    "id": "19",
+    "id": "28",
     "title": "Mascarilla Calendula Y Manzanilla 60mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
@@ -227,36 +506,57 @@
     "images": [
       "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
       "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "20",
+    "id": "29",
     "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
     "price":  73900,
     "image": "/images/CuidadoFacial/Detalle/protector.jpg",
-    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro! ",
+    "description": "Que nunca te falte en tu rutina diaria la protección de tu piel, cuídala de manera natural. Su fórmula con ingredientes activos naturales de origen vegetal y mineral es de fácil absorción. Actúa como una barrera física brindando una adecuada protección solar contra los rayos UVA / UVB y/o cualquier fuente de luz  artificial, cuidándote sin ocasionar efectos secundarios. Protege y suaviza la piel. Ideal Para todo Tipo de piel.",
     "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
     "images": [
       "/images/CuidadoFacial/Detalle/protector.jpg",
       "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
       "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
-    ]
+    ],
+ "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "21",
+    "id": "30",
     "title": "Sérum Antiedad 30 mL",
     "price":  64900,
     "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
     "description": "Formulación con Colágeno y Elastina que ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
     "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
     "images": [
-      "/images/CuidadoFacial/Detalle/protector.jpg",
-      "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
-      "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
-    ]
+      "/images/CuidadoFacial/Detalle/serum.jpg",
+      "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
+      "/images/CuidadoFacial/Detalle/SERUM-ANTIEDAD-1.png"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "22",
+    "id": "31",
     "title": "Tónico Natural Rosas 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
@@ -265,10 +565,17 @@
     "images": [
       "/images/CuidadoFacial/TONICO-ROSAS.png",
       "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "23",
+    "id": "32",
     "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
@@ -277,10 +584,17 @@
     "images": [
       "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
       "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "24",
+    "id": "33",
     "title": "Tónico Natural Té Verde 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
@@ -289,10 +603,136 @@
     "images": [
       "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
       "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
+   {
+    "id": "34",
+    "title": "Pasta Dental Sólida",
+    "price":  27000,
+    "image": "/images/CuidadoFacial/PastaDentalOiris.webp",
+    "description": "Esta pasta sólida (25gr) es el próximo paso más hacia una vida con cero residuos. La arcilla blanca y el carbonato de calcio tienen propiedades purificadoras y limpiadoras que respetan el esmalte de tus dientes. El aceite de coco ayuda a reducir la placa dental. Y  las gotas de menta piperita te dejarán una sensación de frescura. Todos los ingredientes son de origen natural. No apto para mujeres embarazadas y niños menores de 6 años.",
+    "usage": "Humedece el cepillo de dientes y frótalo suavemente en la pasta dental hasta obtener la espuma deseada, lava los dientes y enjuaga. ",
+    "images": [
+      "/images/CuidadoFacial/Detalle/Pasta_dentalq.webp",
+      "/images/CuidadoFacial/PastaDentalOiris.webp"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+{
+    "id": "35",
+    "title": "Jabón De Arroz",
+    "price":  13000,
+    "image": "/images/CuidadoFacial/Detalle/arroz1.webp",
+    "description": "Este Jabón de Arroz de 55 gr, 100% natural y hecho a mano, contiene polvo de arroz como ingrediente principal. El polvo de arroz tiene propiedades antioxidantes, ayuda a iluminar e igualar la tez, a difumina las arrugas, reducir el aspecto de los poros dilatados y ayuda a eliminar manchas. Este jabón Oiris es perfecto para para pieles sensibles, irritadas, con acné o granos e incluso para la piel del bebé.",
+    "usage": "Humedece el rostro,  frota el jabón con las manos hasta obtener un poco de espuma y aplica utilizando las yemas de los dedos.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/arroz1.webp",
+      "/images/CuidadoFacial/JabonArrozOiris_540x.webp"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+{
+    "id": "36",
+    "title": "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)",
+    "price":  14000,
+    "image": "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
+    "description": "Gracias al Aguacate y Karité, este jabón es un poderoso antioxidante para tu piel. Experimenta todas sus bondades y siente tu piel completamente hidratada y tersa. Con el uso continuo, te ayudará a evitar y disminuir las líneas de expresión.",
+    "usage": "Distribuir el jabón por el rostro. Dejar actuar mínimo durante 2 minutos. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
+      "/images/CuidadoFacial/JabonAntiageNatiu_720x.webp"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+{
+    "id": "37",
+    "title": "Jabón Purify para el Acné (Natiú Artesanal)",
+    "price":  14000,
+    "image": "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
+    "description": "Te ayuda a combatir las bacterias que causan el acné, funciona como un antibiótico natural en tu piel, favorece la limpieza de los poros y regula la producción de las glándulas sebáceas. Es uno de los favoritos Natiú porque te hace sonreír con plena confianza",
+    "usage": "Frotar el jabón en las manos y aplicar la espuma en el rostro. Dejar actuar con suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
+      "/images/CuidadoFacial/JabonPurify1.jpg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "38",
+    "title": "Jabón Baby (Natiú Artesanal)",
+    "price":  14000,
+    "image": "/images/CuidadoFacial/JabonBaby.jpg",
+    "description": "Con manzanilla y avena, nuestro Jabón Artesanal Baby es un delicado jabón antimicrobiano y es un hidratante natural. Repara las pieles y humecta suavemente, por lo cual es indicado para bebés, niños, adultos mayores y piel muy delicada.",
+    "usage": "Distribuir el jabón por cuerpo y rostro. Dejar actuar durante algunos segundos. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoFacial/JabonBaby.jpg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+    {
+    "id": "39",
+    "title": "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)",
+    "price":  14000,
+    "image": "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
+    "description": "El Jabón Shaving Coral está indicado para rasurar cualquier zona de la piel, incluyendo zona íntima. Ideal para reemplazar cualquier espuma sintética que utilices para afeitar ya que te deja la piel suave e hidratada, como si utilizaras after shave o crema hidratante.",
+    "usage": "Humedecer el jabón y frotar hasta hacer suficiente espuma. Aplicar la espuma sobre el área a tratar. Deslizar la cuchilla suavemente y repetir la acción si es necesario. Al finalizar, aplicar nuevamente abundante espuma y enjuagar.",
+    "images": [
+      "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
+      "/images/CuidadoFacial/JabonCoralDepilar1.jpg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+
+
+   {
+  "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
+},
+   
      {
-    "id": "25",
+    "id": "40",
     "title": "Brillo Labial Morning Kiss",
     "price":  32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
@@ -302,10 +742,17 @@
       "/images/Maquillaje/brilloLabial.jpg",
       "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "26",
+    "id": "41",
     "title": "Corrector Facial Piel Canela - Toffee",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
@@ -315,36 +762,57 @@
       "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
       "/images/Maquillaje/Detalle/Detalle3Maquillaje.png",
       "/images/Maquillaje/Detalle/Detalle4Maquillaje.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "27",
+    "id": "42",
     "title": "Corrector Facial Tono Medio - Latte",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
-    "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
-    "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
+    "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa. ",
+    "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
     "images": [
       "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
       "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "28",
+    "id": "43",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
-    "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
-    "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
+    "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa.",
+    "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
     "images": [
       "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
       "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "29",
+    "id": "44",
     "title": "Polvo Matificante",
     "price":  42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -355,10 +823,59 @@
       "/images/Maquillaje/Detalle/Detalle5Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
   {
-    "id": "30",
+    "id": "45",
+    "title": "Polvo Matificante Latte",
+    "price":  42000,
+    "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
+    "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
+    "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "images": [
+      "/images/Maquillaje/PolvoMatificanteLatte.webp",
+      "/images/Maquillaje/Detalle/Detalle5Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "46",
+    "title": "Polvo Matificante Vainilla",
+    "price":  42000,
+    "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
+    "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
+    "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "images": [
+      "/images/Maquillaje/PolvoMatificanteVainilla.webp",
+      "/images/Maquillaje/Detalle/Detalle5Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
+      "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "47",
     "title": "Hidratante y Protector Labial Frutos Rojos",
     "price":  13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -368,10 +885,17 @@
       "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-FRUTOS-ROJOS.png",
       "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle9Maquillaje.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "31",
+    "id": "48",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
@@ -380,10 +904,17 @@
     "images": [
       "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
       "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
     {
-    "id": "32",
+    "id": "49",
     "title": "Hidratante y Protector Labial Menta ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
@@ -392,10 +923,17 @@
     "images": [
       "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
       "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
      {
-    "id": "33",
+    "id": "50",
     "title": "Rubor Rosa",
     "price":  49500,
     "image": "/images/Maquillaje/RuborRosa.png",
@@ -407,10 +945,17 @@
       "/images/Maquillaje/RuborRosa.png",
       "/images/Maquillaje/Detalle/Detalle10Maquillaje.png",
       "/images/Maquillaje/Detalle/RuborRosa2.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   },
    {
-    "id": "34",
+    "id": "51",
     "title": "Rubor tono coral",
     "price":  49500,
     "image": "/images/Maquillaje/RuborCoral.png",
@@ -422,8 +967,73 @@
       "/images/Maquillaje/RuborCoral.png",
       "/images/Maquillaje/Detalle/Detalle10Maquillaje.png",
       "/images/Maquillaje/Detalle/RuborCoral2.png"
-    ]
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "52",
+    "title": "Recarga Polvo Matificante Latte",
+    "price":  21000,
+    "image": "/images/Maquillaje/recargapolvolatte.webp",
+    "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
+    "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
+    "caracteristics":"Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
+    "usage":"Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "images": [
+      "/images/Maquillaje/recargapolvolatte.webp"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "53",
+    "title": "Recarga Polvo Matificante Toffe",
+    "price":  21000,
+    "image": "/images/Maquillaje/recargapolvotoffe.webp",
+    "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
+    "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
+    "caracteristics":"Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
+    "usage":"Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "images": [
+      "/images/Maquillaje/recargapolvotoffe.webp"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "54",
+    "title": "Recarga Polvo Matificante Vainilla",
+    "price":  21000,
+    "image": "/images/Maquillaje/recargapolvovainilla.webp",
+    "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
+    "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
+    "caracteristics":"Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
+    "usage":"Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "images": [
+      "/images/Maquillaje/recargapolvovainilla.webp"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   }
-
-
 ]

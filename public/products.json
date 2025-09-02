@@ -143,10 +143,11 @@
     "id": "8",
     "title": "Shampoo Rise & Shine Verde Romero (Anticaspa)",
     "price": 24000,
-    "image": "/images/CuidadoCapilar/ShampooAnticaspaSolo_720x.webp",
+    "image": "/images/CuidadoCapilar/CuidadoCapilarDetalle/shampooAnticaspa2Image.jpeg",
     "description":"¡Libérate de la caspa de forma natural con el Shampoo Rise & Shine Verde Romero! Gracias al Aceite de Ricino, Romero y Flor de Sauco que humectan tu cuero cabelludo y controlan los microorganismos causantes de la caspa.",
     "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
     "images": [
+      "/images/CuidadoCapilar/CuidadoCapilarDetalle/shampooAnticaspa2Image.jpeg",
       "/images/CuidadoCapilar/ShampooAnticaspaSolo_720x.webp"
 
     ],
@@ -541,7 +542,7 @@
     "price":  73900,
     "image": "/images/CuidadoFacial/Detalle/protector.jpg",
     "description": "Que nunca te falte en tu rutina diaria la protección de tu piel, cuídala de manera natural. Su fórmula con ingredientes activos naturales de origen vegetal y mineral es de fácil absorción. Actúa como una barrera física brindando una adecuada protección solar contra los rayos UVA / UVB y/o cualquier fuente de luz  artificial, cuidándote sin ocasionar efectos secundarios. Protege y suaviza la piel. Ideal Para todo Tipo de piel.",
-    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
+    "usage": "Aplicar en el rostro y cuello una fina capa del protector solar y masajear hasta su completa absorción.",
     "images": [
       "/images/CuidadoFacial/Detalle/protector.jpg",
       "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
@@ -744,6 +745,25 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
+    {
+    "id": "39",
+    "title": "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
+    "price":  52900,
+    "image": "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
+    "description": "Humecta, nutre, suaviza y combate los radicales libres que ocasionan el envejecimiento prematuro, previniendo la aparición de arrugas y atenuando las líneas de expresión. Ayuda a unificar el tono de la piel y a mejorar la textura incrementando su firmeza y elasticidad. Para todo tipo de piel, especialmente piel seca o madura.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
+      "/images/CuidadoFacial/Detalle/Crema Facial con Ácido Hialurónico y Colágeno 60 mL 2 Detalle.jpeg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
 
 
    {
@@ -751,7 +771,7 @@
 },
    
      {
-    "id": "39",
+    "id": "40",
     "title": "Brillo Labial Morning Kiss",
     "price":  32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
@@ -771,7 +791,7 @@
     }
   },
    {
-    "id": "40",
+    "id": "41",
     "title": "Corrector Facial Piel Canela - Toffee",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
@@ -791,7 +811,7 @@
     }
   },
    {
-    "id": "41",
+    "id": "42",
     "title": "Corrector Facial Tono Medio - Latte",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
@@ -811,7 +831,7 @@
     }
   },
   {
-    "id": "42",
+    "id": "43",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
@@ -831,7 +851,7 @@
     }
   },
   {
-    "id": "43",
+    "id": "44",
     "title": "Polvo Matificante",
     "price":  42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -852,7 +872,7 @@
     }
   },
   {
-    "id": "44",
+    "id": "45",
     "title": "Polvo Matificante Latte",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
@@ -873,7 +893,7 @@
     }
   },
   {
-    "id": "45",
+    "id": "46",
     "title": "Polvo Matificante Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
@@ -894,7 +914,7 @@
     }
   },
   {
-    "id": "46",
+    "id": "47",
     "title": "Hidratante y Protector Labial Frutos Rojos",
     "price":  13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -914,7 +934,7 @@
     }
   },
    {
-    "id": "47",
+    "id": "48",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
@@ -933,7 +953,7 @@
     }
   },
     {
-    "id": "48",
+    "id": "49",
     "title": "Hidratante y Protector Labial Menta ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
@@ -952,7 +972,7 @@
     }
   },
      {
-    "id": "49",
+    "id": "50",
     "title": "Rubor Rosa",
     "price":  49500,
     "image": "/images/Maquillaje/RuborRosa.png",
@@ -974,7 +994,7 @@
     }
   },
    {
-    "id": "50",
+    "id": "51",
     "title": "Rubor tono coral",
     "price":  49500,
     "image": "/images/Maquillaje/RuborCoral.png",
@@ -996,7 +1016,7 @@
     }
   },
    {
-    "id": "51",
+    "id": "52",
     "title": "Recarga Polvo Matificante Latte",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
@@ -1016,7 +1036,7 @@
     }
   },
    {
-    "id": "52",
+    "id": "53",
     "title": "Recarga Polvo Matificante Toffe",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
@@ -1036,7 +1056,7 @@
     }
   },
    {
-    "id": "53",
+    "id": "54",
     "title": "Recarga Polvo Matificante Vainilla",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",

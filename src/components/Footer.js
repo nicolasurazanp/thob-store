@@ -16,7 +16,7 @@ const Footer = () => {
                         <FaInstagram /> <a href="https://www.instagram.com/t.o_hierbabuena/" target="_blank" rel="noopener noreferrer">Instagram: t.o_hierbabuena</a>
                     </p>
                     <p>
-                        <FaFacebook /> <a href="https://www.facebook.com/organica.store.hierbabuena" target="_blank" rel="noopener noreferrer">Facebook: orgánica Store Hierbabuena</a>
+                        <FaFacebook /> <a href="https://www.facebook.com/share/17A3g5AYeH/" target="_blank" rel="noopener noreferrer">Tienda orgánica hierbabuena </a>
                     </p>
                     <p>
                         <FaTiktok /> <a href="https://www.tiktok.com/@t.organica_hierbabuena" target="_blank" rel="noopener noreferrer">TikTok: @t.organica_hierbabuena</a>

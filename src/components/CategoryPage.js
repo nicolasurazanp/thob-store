@@ -51,24 +51,26 @@ const CategoryPage = () => {
             { id: 35, name: "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)", brand: "TOHB", price: 14000, image: "/images/CuidadoFacial/JabonAntiageNatiu_720x.webp" },
             { id: 36, name: "Jabón Purify para el Acné (Natiú Artesanal)", brand: "TOHB", price: 14000, image: "/images/CuidadoFacial/JabonPurify1.jpg" },
             { id: 37, name: "Jabón Baby (Natiú Artesanal)", brand: "TOHB", price: 14000, image: "/images/CuidadoFacial/JabonBaby.jpg" },
-            { id: 38, name: "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)", brand: "TOHB", price: 14000, image: "/images/CuidadoFacial/JabonCoralDepilar1.jpg" }
+            { id: 38, name: "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)", brand: "TOHB", price: 14000, image: "/images/CuidadoFacial/JabonCoralDepilar1.jpg" },
+            { id: 39, name: "Crema Facial con Ácido Hialurónico y Colágeno 60 mL", brand: "TOHB", price: 52900, image: "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg" },
+
         ],
          "maquillaje": [
-            { id: 39, name: "Brillo Labial Morning Kiss", brand: "TOHB", price: 32000, image: "/images/Maquillaje/brilloLabial.jpg" },
-            { id: 40, name: "Corrector Facial Piel Canela - Toffee", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png" },
-            { id: 41, name: "Corrector Facial Tono Medio - Latte", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png" },
-            { id: 42, name: "Corrector Facial Piel super clara - Vainilla", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png" },
-            { id: 43, name: "Polvo Matificante Toffe", brand: "TOHB", price: 42000, image: "/images/Maquillaje/polvoMatificante.jpg" },
-            { id: 44, name: "Polvo Matificante Latte", brand: "TOHB", price: 42000, image: "/images/Maquillaje/PolvoMatificanteLatte.webp" },
-            { id: 45, name: "Polvo Matificante Vainilla", brand: "TOHB", price: 42000, image: "/images/Maquillaje/PolvoMatificanteVainilla.webp" },
-            { id: 46, name: "Hidratante y Protector Labial Frutos Rojos", brand: "TOHB", price: 13900, image: "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-FRUTOS-ROJOS.png" },
-            { id: 47, name: "Hidratante y Protector Labial Caléndula y Manzanilla ", brand: "TOHB", price: 13900, image: "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png" },
-            { id: 48, name: "Hidratante y Protector Labial Menta", brand: "TOHB", price: 13900, image: "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png" },
-            { id: 49, name: "Rubor Rosa", brand: "TOHB", price: 49500, image: "/images/Maquillaje/RuborRosa.png" },
-            { id: 50, name: "Rubor tono coral", brand: "TOHB", price: 49500, image: "/images/Maquillaje/RuborCoral.png" },
-            { id: 51, name: "Recarga Polvo Matificante Latte", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvolatte.webp" },
-            { id: 52, name: "Recarga Polvo Matificante Toffe", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvotoffe.webp" },
-            { id: 53, name: "Recarga Polvo Matificante Vainilla", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvovainilla.webp" }
+            { id: 40, name: "Brillo Labial Morning Kiss", brand: "TOHB", price: 32000, image: "/images/Maquillaje/brilloLabial.jpg" },
+            { id: 41, name: "Corrector Facial Piel Canela - Toffee", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png" },
+            { id: 42, name: "Corrector Facial Tono Medio - Latte", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png" },
+            { id: 43, name: "Corrector Facial Piel super clara - Vainilla", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png" },
+            { id: 44, name: "Polvo Matificante Toffe", brand: "TOHB", price: 42000, image: "/images/Maquillaje/polvoMatificante.jpg" },
+            { id: 45, name: "Polvo Matificante Latte", brand: "TOHB", price: 42000, image: "/images/Maquillaje/PolvoMatificanteLatte.webp" },
+            { id: 46, name: "Polvo Matificante Vainilla", brand: "TOHB", price: 42000, image: "/images/Maquillaje/PolvoMatificanteVainilla.webp" },
+            { id: 47, name: "Hidratante y Protector Labial Frutos Rojos", brand: "TOHB", price: 13900, image: "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-FRUTOS-ROJOS.png" },
+            { id: 48, name: "Hidratante y Protector Labial Caléndula y Manzanilla ", brand: "TOHB", price: 13900, image: "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png" },
+            { id: 49, name: "Hidratante y Protector Labial Menta", brand: "TOHB", price: 13900, image: "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png" },
+            { id: 50, name: "Rubor Rosa", brand: "TOHB", price: 49500, image: "/images/Maquillaje/RuborRosa.png" },
+            { id: 51, name: "Rubor tono coral", brand: "TOHB", price: 49500, image: "/images/Maquillaje/RuborCoral.png" },
+            { id: 52, name: "Recarga Polvo Matificante Latte", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvolatte.webp" },
+            { id: 53, name: "Recarga Polvo Matificante Toffe", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvotoffe.webp" },
+            { id: 54, name: "Recarga Polvo Matificante Vainilla", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvovainilla.webp" }
         ],
         // Agregar más categorías...
     }), []); 

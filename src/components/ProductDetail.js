@@ -71,7 +71,7 @@ const ProductDetail = () => {
                             <li>Ciudades principales de 1 a 4 días hábiles.</li>
                             <li>En Bogota recibes entre 1 y 2 días hábiles.</li>
                             <li>Resto del país de 3 a 8 días hábiles.</li>
-                            <li>Por compras mayores a $150.000 el envío es GRATIS.</li>
+                            <li>Por compras mayores a $18s0.000 el envío es GRATIS.</li>
                             <li>Somos una marca Colombiana.</li>
                         </ul>
                     </div>

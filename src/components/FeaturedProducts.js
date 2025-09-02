@@ -6,8 +6,8 @@ const FeaturedProducts = () => {
     const products = [
         {
             id: 1,
-            video: "/videos/jabonArtesanalVideo.mp4",  // Asegúrate de tener los videos en la carpeta public/videos
-            title: "Jabon Artesanal"
+            video: "/videos/Desodorantes.mp4",  // Asegúrate de tener los videos en la carpeta public/videos
+            title: "Desodorantes"
         },
         {
             id: 2,
@@ -17,7 +17,7 @@ const FeaturedProducts = () => {
         {
             id: 3,
             video: "/videos/ruborVideo.mp4",
-            title: "Brillo Labial Morning Kiss"
+            title: "Rubor 3 en 1"
         }
     ];
 

@@ -8,7 +8,7 @@ const Categories = () => {
         { id: 1, name: 'Cuidado Capilar', image: '/images/General/cuidadoCapilar.webp', link: '/cuidado-capilar' },
         { id: 2, name: 'Cuidado Corporal', image: '/images/General/CuidadoCorporal.png', link: '/cuidado-corporal' },
         { id: 3, name: 'Cuidado Facial', image: '/images/General/cuidadoFacial.webp', link: '/cuidado-facial' },
-        { id: 4, name: 'Maquillaje', image: '/images/General/CategoriaMaquillaje.png', link: '/maquillaje' }
+        { id: 4, name: 'Maquillaje', image: '/images/General/NuevaImagenCategoriaMaquillaje.jpeg', link: '/maquillaje' }
     ];
 
     return (

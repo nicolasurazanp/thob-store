@@ -158,13 +158,33 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
+   {
+    "id": "9",
+    "title": "Champú Sólido de Naranja",
+    "price": 16000,
+    "image": "/images/CuidadoCapilar/ChampuNaranjaOiris40gr_540x.webp",
+    "description":"Champú sólido 100% natural esta diseñado para restaurar la suavidad y el brillo de tu cabello. Este champú dejará un ligero olor a naranja y es ideal para cabellos grasos, voluminosos, opacos y ásperos. La arcilla blanca en este champú es perfecta para balancear la el cebo en el cabello graso, y cuando se combina con el polvo de naranja desencadenan propiedades desenredantes. El aceite de coco ayuda a fortalecer el cabello dañado y le da brillo. El aceite de ricino estimula el crecimiento del cabello.",
+    "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/ChampuNaranjaOiris40gr_540x.webp"
+
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  
   
    {
      "_comment": "Fin Categoria Capilar - Inicio Categoria Corporal"
    },
 
   {
-    "id": "11",
+    "id": "10",
     "title": "Desodorante Natural Té Verde 60mL",
     "price": 27900,
     "image": "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
@@ -183,7 +203,7 @@
     }
   },
   {
-    "id": "12",
+    "id": "11",
     "title": "Desodorante Natural Calendula Y Manzanilla 60mL",
     "price": 27900,
     "image": "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
@@ -202,66 +222,12 @@
     }
   },
   {
-    "id": "13",
-    "title": "Jabón Artesanal Arroz 100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel seca.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
-    "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "14",
-    "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada, con barros y/o espinillas.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
-    "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "15",
-    "title": "Jabón Artesanal Aloe Vera  100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
-    "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "16",
+    "id": "12",
     "title": "Jabón Corporal Coco 100 g",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/Coco_720x.webp",
     "description": "Este jabón (90gr) contiene una mayor concentración de aceite de coco y contiene adicionalmente Leche de coco. El coco es una fruta rica en potasio, hierro, magnesio, fósforo, cobre y zinc, lo que le confiere un valor nutricional ejemplar. El producto protegerá su piel de las agresiones externas y la dejará suave mientras libera un aroma exótico. Indicado para todo tipo de pieles.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "usage": "Frotar por el cuerpo realizando suaves masajes y enjuagar con agua",
     "images": [
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/Coco_720x.webp",
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/coco_4b2d6f03-69f2-48d2-9c75-e25a751edb48_720x.webp",
@@ -276,12 +242,12 @@
     }
   },
   {
-    "id": "17",
+    "id": "13",
     "title": "Jabón Corporal Aloe Vera g",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA1.webp",
     "description": "Un jabón 100% natural de 90 gramos que contiene todas las propiedades calmantes y curativas del Aloe Vera. Se puede usar en pieles sensibles e irritadas ya que ayuda a suavizar tu piel.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "usage": "Frotar por el cuerpo realizando suaves masajes y enjuagar con agua",
     "images": [
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA1.webp",
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA2.webp",
@@ -296,12 +262,12 @@
     }
   },
  {
-    "id": "18",
+    "id": "14",
     "title": "Jabón Corporal Avena g",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/AVENA1.webp",
     "description": "Este jabón de avena 100% natural (90 gramos) es recomendado para las pieles más frágiles, intolerantes y atópicas al dejar la piel flexible e hidratada. La avena es un ingrediente 100% natural que alivia las inflamaciones causadas por agresiones externas o problemas de la piel como quemaduras de sol, picaduras de insectos, eczema, psoriasis, rosácea o cicatrices.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "usage": "Frotar por el cuerpo realizando suaves masajes y enjuagar con agua",
     "images": [
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/AVENA1.webp",
       "/images/CuidadoCorporal/JabonCorporalAvena_540x.webp"
@@ -315,12 +281,12 @@
     }
   },
    {
-    "id": "19",
+    "id": "15",
     "title": "Jabón Corporal De Café ",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe1.webp",
     "description": "Además de su ligero efecto exfoliante, este jabón (90gr) de café estimula la circulación sanguínea y ayuda a la piel a liberarse de la grasa drenándola. El café también tiene propiedades antioxidantes que ayudan a preservar la juventud de la piel.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "usage": "Frotar por el cuerpo realizando suaves masajes y enjuagar con agua",
     "images": [
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe1.webp",
       "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe2.webp",
@@ -341,7 +307,61 @@
 },
 
   {
-    "id": "20",
+    "id": "16",
+    "title": "Jabón Artesanal Arroz 100 g",
+    "price": 22900,
+    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
+    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel seca.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
+    "images": [
+      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "17",
+    "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
+    "price": 22900,
+    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
+    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada, con barros y/o espinillas.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
+    "images": [
+      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "18",
+    "title": "Jabón Artesanal Aloe Vera  100 g",
+    "price": 22900,
+    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
+    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada.",
+    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "19",
     "title": "Crema Contorno Ojos con Ácido Hialurónico 30 mL",
     "price": 79900,
     "image": "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
@@ -361,7 +381,7 @@
     }
   },
   {
-    "id": "21",
+    "id": "20",
     "title": "Crema Regeneradora con Complejos de Aminoácidos 50 mLL",
     "price": 99900,
     "image": "/images/CuidadoFacial/Detalle/regeneradora.jpg",
@@ -381,7 +401,7 @@
     }
   },
   {
-    "id": "22",
+    "id": "21",
     "title": "Sérum Facial Con Vitamina C Mayakú 50 mL",
     "price": 124900,
     "image": "/images/CuidadoFacial/Detalle/serum.jpg",
@@ -402,7 +422,7 @@
     }
   },
   {
-    "id": "23",
+    "id": "22",
     "title": "Leche Desmaquilladora Arroz 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
@@ -421,7 +441,7 @@
     }
   },
   {
-    "id": "24",
+    "id": "23",
     "title": "Leche Desmaquilladora Uva y Argán 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-UVA.png",
@@ -440,7 +460,7 @@
     }
   },
   {
-    "id": "25",
+    "id": "24",
     "title": "Leche Desmaquilladora Perejil 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-PEREJIL.png",
@@ -459,7 +479,7 @@
     }
   },
   {
-    "id": "26",
+    "id": "25",
     "title": "Leche Limpiadora Caléndula y Manzanilla 120 mL",
     "price":  42900,
     "image": "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
@@ -478,7 +498,7 @@
     }
   },
   {
-    "id": "27",
+    "id": "26",
     "title": "Mascarilla Aloe Vera 60 mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
@@ -497,7 +517,7 @@
     }
   },
     {
-    "id": "28",
+    "id": "27",
     "title": "Mascarilla Calendula Y Manzanilla 60mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
@@ -516,7 +536,7 @@
     }
   },
    {
-    "id": "29",
+    "id": "28",
     "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
     "price":  73900,
     "image": "/images/CuidadoFacial/Detalle/protector.jpg",
@@ -536,14 +556,13 @@
     }
   },
    {
-    "id": "30",
+    "id": "29",
     "title": "Sérum Antiedad 30 mL",
     "price":  64900,
     "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
     "description": "Formulación con Colágeno y Elastina que ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
     "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
     "images": [
-      "/images/CuidadoFacial/Detalle/serum.jpg",
       "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
       "/images/CuidadoFacial/Detalle/SERUM-ANTIEDAD-1.png"
     ],
@@ -556,7 +575,7 @@
     }
   },
   {
-    "id": "31",
+    "id": "30",
     "title": "Tónico Natural Rosas 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
@@ -575,7 +594,7 @@
     }
   },
   {
-    "id": "32",
+    "id": "31",
     "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
@@ -594,7 +613,7 @@
     }
   },
    {
-    "id": "33",
+    "id": "32",
     "title": "Tónico Natural Té Verde 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
@@ -613,7 +632,7 @@
     }
   },
    {
-    "id": "34",
+    "id": "33",
     "title": "Pasta Dental Sólida",
     "price":  27000,
     "image": "/images/CuidadoFacial/PastaDentalOiris.webp",
@@ -632,7 +651,7 @@
     }
   },
 {
-    "id": "35",
+    "id": "34",
     "title": "Jabón De Arroz",
     "price":  13000,
     "image": "/images/CuidadoFacial/Detalle/arroz1.webp",
@@ -651,7 +670,7 @@
     }
   },
 {
-    "id": "36",
+    "id": "35",
     "title": "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
@@ -670,7 +689,7 @@
     }
   },
 {
-    "id": "37",
+    "id": "36",
     "title": "Jabón Purify para el Acné (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
@@ -689,7 +708,7 @@
     }
   },
   {
-    "id": "38",
+    "id": "37",
     "title": "Jabón Baby (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/JabonBaby.jpg",
@@ -707,7 +726,7 @@
     }
   },
     {
-    "id": "39",
+    "id": "38",
     "title": "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
@@ -732,7 +751,7 @@
 },
    
      {
-    "id": "40",
+    "id": "39",
     "title": "Brillo Labial Morning Kiss",
     "price":  32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
@@ -752,7 +771,7 @@
     }
   },
    {
-    "id": "41",
+    "id": "40",
     "title": "Corrector Facial Piel Canela - Toffee",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
@@ -772,7 +791,7 @@
     }
   },
    {
-    "id": "42",
+    "id": "41",
     "title": "Corrector Facial Tono Medio - Latte",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
@@ -792,7 +811,7 @@
     }
   },
   {
-    "id": "43",
+    "id": "42",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
@@ -812,7 +831,7 @@
     }
   },
   {
-    "id": "44",
+    "id": "43",
     "title": "Polvo Matificante",
     "price":  42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -833,7 +852,7 @@
     }
   },
   {
-    "id": "45",
+    "id": "44",
     "title": "Polvo Matificante Latte",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
@@ -854,7 +873,7 @@
     }
   },
   {
-    "id": "46",
+    "id": "45",
     "title": "Polvo Matificante Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
@@ -875,7 +894,7 @@
     }
   },
   {
-    "id": "47",
+    "id": "46",
     "title": "Hidratante y Protector Labial Frutos Rojos",
     "price":  13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -895,7 +914,7 @@
     }
   },
    {
-    "id": "48",
+    "id": "47",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
@@ -914,7 +933,7 @@
     }
   },
     {
-    "id": "49",
+    "id": "48",
     "title": "Hidratante y Protector Labial Menta ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
@@ -933,7 +952,7 @@
     }
   },
      {
-    "id": "50",
+    "id": "49",
     "title": "Rubor Rosa",
     "price":  49500,
     "image": "/images/Maquillaje/RuborRosa.png",
@@ -955,7 +974,7 @@
     }
   },
    {
-    "id": "51",
+    "id": "50",
     "title": "Rubor tono coral",
     "price":  49500,
     "image": "/images/Maquillaje/RuborCoral.png",
@@ -977,7 +996,7 @@
     }
   },
    {
-    "id": "52",
+    "id": "51",
     "title": "Recarga Polvo Matificante Latte",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
@@ -997,7 +1016,7 @@
     }
   },
    {
-    "id": "53",
+    "id": "52",
     "title": "Recarga Polvo Matificante Toffe",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
@@ -1017,7 +1036,7 @@
     }
   },
    {
-    "id": "54",
+    "id": "53",
     "title": "Recarga Polvo Matificante Vainilla",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",

@@ -764,14 +764,50 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
-
+{
+    "id": "40",
+    "title": "Complejo Revitalizante 60 mL",
+    "price":  55900,
+    "image": "/images/CuidadoFacial/Complejo1.jpeg",
+    "description": "Fórmula con ingredientes bio-activos que hidratan, nutren, protegen y suavizan la piel regenerando y mejorando su apariencia. Evita la pérdida de agua. Ideal para todo tipo de piel, especialmente piel delicada, con barros y/o espinillas.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/Complejo1.jpeg",
+      "/images/CuidadoFacial/Detalle/Complejo2.jpeg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+{
+    "id": "41",
+    "title": "Crema Facial con Aloe Vera y Pepino 60 mL",
+    "price":  49900,
+    "image": "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg",
+    "description": "Enriquecida con ingredientes activos naturales que permiten recuperar la humedad natural de la piel y devolver su suavidad, luminosidad, firmeza y tersura. Ayuda a atenuar líneas de expresión, fortalecer la barrera cutánea y unificar el tono de la piel. Ideal para piel mixta y/o grasa.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "images": [
+      "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg",
+      "/images/CuidadoFacial/Detalle/CremaFacialAloeVeraYPepino2.jpeg"
+    ],
+  "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
    {
   "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
 },
    
      {
-    "id": "40",
+    "id": "42",
     "title": "Brillo Labial Morning Kiss",
     "price":  32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
@@ -791,7 +827,7 @@
     }
   },
    {
-    "id": "41",
+    "id": "43",
     "title": "Corrector Facial Piel Canela - Toffee",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
@@ -811,7 +847,7 @@
     }
   },
    {
-    "id": "42",
+    "id": "44",
     "title": "Corrector Facial Tono Medio - Latte",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
@@ -831,7 +867,7 @@
     }
   },
   {
-    "id": "43",
+    "id": "45",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
@@ -851,7 +887,7 @@
     }
   },
   {
-    "id": "44",
+    "id": "46",
     "title": "Polvo Matificante",
     "price":  42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -872,7 +908,7 @@
     }
   },
   {
-    "id": "45",
+    "id": "47",
     "title": "Polvo Matificante Latte",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
@@ -893,7 +929,7 @@
     }
   },
   {
-    "id": "46",
+    "id": "48",
     "title": "Polvo Matificante Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
@@ -914,7 +950,7 @@
     }
   },
   {
-    "id": "47",
+    "id": "49",
     "title": "Hidratante y Protector Labial Frutos Rojos",
     "price":  13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -934,7 +970,7 @@
     }
   },
    {
-    "id": "48",
+    "id": "50",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
@@ -953,7 +989,7 @@
     }
   },
     {
-    "id": "49",
+    "id": "51",
     "title": "Hidratante y Protector Labial Menta ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
@@ -972,7 +1008,7 @@
     }
   },
      {
-    "id": "50",
+    "id": "52",
     "title": "Rubor Rosa",
     "price":  49500,
     "image": "/images/Maquillaje/RuborRosa.png",
@@ -994,7 +1030,7 @@
     }
   },
    {
-    "id": "51",
+    "id": "53",
     "title": "Rubor tono coral",
     "price":  49500,
     "image": "/images/Maquillaje/RuborCoral.png",
@@ -1016,7 +1052,7 @@
     }
   },
    {
-    "id": "52",
+    "id": "54",
     "title": "Recarga Polvo Matificante Latte",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
@@ -1036,7 +1072,7 @@
     }
   },
    {
-    "id": "53",
+    "id": "55",
     "title": "Recarga Polvo Matificante Toffe",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
@@ -1056,7 +1092,7 @@
     }
   },
    {
-    "id": "54",
+    "id": "56",
     "title": "Recarga Polvo Matificante Vainilla",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",

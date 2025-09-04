@@ -9,8 +9,8 @@
 }
 
 .logo img {
-    width: 40px;
-    height: 40px;
+    width: 100px;  /* Aumentamos el tamaño del logo */
+    height: auto;   /* Mantenemos la proporción del logo */
     margin-right: 10px;
 }
 

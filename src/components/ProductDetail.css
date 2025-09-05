@@ -121,3 +121,18 @@
     font-size: 14px;
     line-height: 1.4;
 }
+
+/* Estilo para el banner de descuento */
+.discount-banner {
+    background-color: #006414; /* Puedes usar otro color llamativo */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.discount-banner h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}

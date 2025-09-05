@@ -491,6 +491,10 @@ const ProductDetail = () => {
 
     return (
         <>
+        {/* Título llamativo con descuento */}
+            <div className="discount-banner">
+                <h1>¡10% Descuento en tu primera compra!</h1>
+            </div>
             <div className="product-detail">
                 <div className="product-gallery">
                     <div className="main-image">

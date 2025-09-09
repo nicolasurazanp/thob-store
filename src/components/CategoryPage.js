@@ -1,11 +1,15 @@
+// src/components/CategoryPage.js
 import React, { useState, useEffect, useMemo } from 'react';
-import { useParams, useNavigate } from 'react-router-dom'; // Importa `useNavigate`
+import { useParams, useNavigate } from 'react-router-dom'; // Asegúrate de usar useNavigate
 import './CategoryPage.css';
 
-const CategoryPage = () => {
+const CategoryPage = ({ addToCart }) => {
     const { category } = useParams(); // Obtener la categoría de la URL
-    const navigate = useNavigate(); // Inicializa `useNavigate` para navegación programática
+    const navigate = useNavigate(); // Navegar entre rutas
     const [sortedProducts, setSortedProducts] = useState([]);
+
+    // Si `category` es undefined o null, podemos mostrar un mensaje de error o simplemente no mostrar nada
+    const categoryName = category ? category.replace('-', ' ').toUpperCase() : "Categoría no disponible"; 
 
     // Memorizar los productos por categoría
     const productsByCategory = useMemo(() => ({
@@ -76,7 +80,7 @@ const CategoryPage = () => {
         // Agregar más categorías...
     }), []); 
 
-    // Filtro de productos por precio
+ // Filtro de productos por precio
     const sortProducts = (order) => {
         const sorted = [...(productsByCategory[category] || [])].sort((a, b) => {
             if (order === 'asc') return a.price - b.price;
@@ -100,38 +104,38 @@ const CategoryPage = () => {
     };
 
     return (
-        <div>
-            <div className="category-page">
-                <h2>{category.replace('-', ' ').toUpperCase()}</h2>
-                
-                {/* Filtro de precio */}
-                <div className="filter-section">
-                    <h3>Filtrar:</h3>
-                    <select onChange={(e) => sortProducts(e.target.value)}>
-                        <option value="asc">Precio: Bajo a Alto</option>
-                        <option value="desc">Precio: Alto a Bajo</option>
-                    </select>
-                </div>
+        <div className="category-page">
+            <h2>{categoryName}</h2>
+            
+            {/* Filtro de precio */}
+            <div className="filter-section">
+                <h3>Filtrar:</h3>
+                <select onChange={(e) => sortProducts(e.target.value)}>
+                    <option value="asc">Precio: Bajo a Alto</option>
+                    <option value="desc">Precio: Alto a Bajo</option>
+                </select>
+            </div>
 
-                {/* Cards de productos */}
-                <div className="product-list">
-                    {sortedProducts.length === 0 ? (
-                        <p>No se encontraron productos en esta categoría.</p>
-                    ) : (
-                        sortedProducts.map(product => (
-                            <div 
-                                key={product.id} 
-                                className="product-card" 
-                                onClick={() => handleProductClick(product.id)} // Evento `onClick` para redirigir
-                            >
-                                <img src={product.image} alt={product.name} />
-                                <h4>{product.name}</h4>
-                                <p>{product.brand}</p>
-                                <p>Desde: ${product.price}</p>
-                            </div>
-                        ))
-                    )}
-                </div>
+            {/* Cards de productos */}
+            <div className="product-list">
+                {sortedProducts.length === 0 ? (
+                    <p>No se encontraron productos en esta categoría.</p>
+                ) : (
+                    sortedProducts.map(product => (
+                        <div 
+                            key={product.id} // Asegúrate de usar la propiedad 'id' como 'key'
+                            className="product-card"
+                            onClick={() => handleProductClick(product.id)} // Redirigir a la página del producto
+                        >
+                            <img src={product.image} alt={product.name} />
+                            <h4>{product.name}</h4>
+                            <p>{product.brand}</p>
+                            <p>Desde: ${product.price}</p>
+                            {/* Ahora el botón lleva a la página de detalles */}
+                            <button>Ver Detalles</button>
+                        </div>
+                    ))
+                )}
             </div>
         </div>
     );

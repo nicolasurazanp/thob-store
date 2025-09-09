@@ -1,13 +1,9 @@
+// src/components/ProductDetail.js
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import './ProductDetail.css';
 import ProductSeals from './ProductSeals'; // Importamos el componente de los sellos
 import Reviews from './Reviews'; // Importamos el componente de las reseñas
-
-const ProductDetail = () => {
-    const { productId } = useParams(); // Obtener el ID del producto de la URL
-    const [product, setProduct] = useState(null);
-    const [currentImage, setCurrentImage] = useState(''); // Estado para la imagen seleccionada
 
     // Definimos los sellos específicos para cada producto
     const sealsByProduct = {
@@ -457,6 +453,11 @@ const ProductDetail = () => {
         // Puedes agregar más productos y sellos aquí...
     };
 
+  const ProductDetail = ({ addToCart }) => {
+    const { productId } = useParams(); // Obtener el ID del producto de la URL
+    const [product, setProduct] = useState(null);
+    const [currentImage, setCurrentImage] = useState(''); // Estado para la imagen seleccionada 
+
     useEffect(() => {
         console.log('productId:', productId); // Verificamos el productId recibido de la URL
 
@@ -491,7 +492,7 @@ const ProductDetail = () => {
 
     return (
         <>
-        {/* Título llamativo con descuento */}
+            {/* Título llamativo con descuento */}
             <div className="discount-banner">
                 <h1>¡10% Descuento en tu primera compra!</h1>
             </div>
@@ -517,7 +518,8 @@ const ProductDetail = () => {
                 <div className="product-info">
                     <h2>{product.title}</h2>
                     <p className="price">${product.price}</p>
-                    <button className="add-to-cart">Agregar al carrito</button>
+                    {/* Agregar al carrito en la página de detalles */}
+                    <button className="add-to-cart" onClick={() => addToCart(product)}>Agregar al carrito</button>
 
                     {/* Aquí se agrega la nueva lista de información de envío */}
                     <div className="shipping-info">
@@ -543,7 +545,7 @@ const ProductDetail = () => {
             <div className="reviews-section">
                 <Reviews />
             </div>
-            
+
             {/* Div externo para los sellos, debe estar dentro del Fragment */}
             <div className="product-seals-section">
                 <ProductSeals seals={productSeals} /> {/* Pasamos los sellos específicos como prop */}

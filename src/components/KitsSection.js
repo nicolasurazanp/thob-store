@@ -62,9 +62,44 @@ const KitsSection = () => {
       image: "/images/KitsTOHB/KIT LUCE HERMOSA EN SOLO 3 PASOS.jpeg",
       products: [
         "Corrector facial para unificar",
-        "Jabón artesanal de arroz",
         "Rubor 3 en 1",
         "Polvo matificante para sellar el maquillaje con acabado natural"
+      ]
+    },
+    {
+      id: 6,
+      name: "KIT RUTINA FACIAL AVANZADO",
+      price: "$304700",
+      description: "Una rutina consciente para pieles que quieren sentirse y verse renovadas. Este kit es para ti si buscas algo más que cuidado: quieres resultados visibles, sensaciones naturales y una experiencia que conecte con tu piel en cada paso.",
+      image: "/images/KitsTOHB/Kit Rutina Facil Avanzado.jpeg",
+      products: [
+        "Crema Regeneradora con Complejos de Aminoácidos 50 mL  ",
+        " Sérum Facial Con Vitamina C Mayakú 50 mL",
+        " Crema Contorno Ojos con Ácido Hialurónico 30 mL"
+      ]
+    },
+    {
+      id: 7,
+      name: "KIT CUIDADO CORPORAL",
+      price: "$128800",
+      description: "Este kit es para ti si buscas una experiencia de cuidado corporal completa, que nutra y revitalice tu piel desde la ducha hasta la hidratación final.",
+      image: "/images/KitsTOHB/Kit Cuidado Corporal.jpeg",
+      products: [
+        "Pasta Dental Solida",
+        " Protector Solar con Extractos Botánicos / SPF 50+ de 80 ml",
+        "Desodorante Natural Caléndula y Manzanilla 60 mL ",
+        "Descuento del 5%"
+      ]
+    },
+    {
+      id: 8,
+      name: "KIT CUIDADO CAPILAR",
+      price: "$93800",
+      description: "Formula con espumantes 100% biodegradables derivados de glucosas vegetales que limpian, hidratan y restauran la fibra capilar, protegiendo el color, aportando sedosidad y realzando el brillo natural del cabello. Libre de sal, sulfatos y amidas. ",
+      image: "/images/KitsTOHB/Kit Cuidado Capilar.jpeg",
+      products: [
+        "Crema Nutritiva Capilar Chocolate Y Coco 500 mL",
+        "Shampoo Natural Romero 280 mL  "
       ]
     }
   ];

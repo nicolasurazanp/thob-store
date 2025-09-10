@@ -15,6 +15,11 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
     const subtotal = calculateSubtotal();
     const total = subtotal; // Aquí puedes agregar impuestos o descuentos si lo deseas
 
+    // Formateador para COP
+    const formatCOP = (value) => {
+        return new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', minimumFractionDigits: 0 }).format(value);
+    };
+
     // Maneja el cambio de cantidad (sumar o restar)
     const handleQuantityChange = (product, quantity) => {
         console.log('handleQuantityChange llamada');
@@ -89,7 +94,7 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                                                     </button>
                                                 </div>
                                             </td>
-                                            <td>${item.price}</td>
+                                            <td>{formatCOP(item.price)}</td>
                                             <td>
                                                 <button onClick={() => removeFromCart(item)} className="remove-btn">
                                                     Eliminar
@@ -107,11 +112,11 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                         <div className="invoice-section">
                             <div className="invoice-line">
                                 <p>Subtotal</p>
-                                <p>${subtotal.toFixed(2)}</p>
+                                <p>{formatCOP(subtotal)}</p>
                             </div>
                             <div className="invoice-line">
                                 <p>Total</p>
-                                <p>${total.toFixed(2)}</p>
+                                <p>{formatCOP(total)}</p>
                             </div>
                         </div>
                         <div className="checkout-section">
@@ -119,8 +124,8 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                                 className="checkout-btn"
                                 onClick={() => {
                                     const numeroWhatsApp = '573182333137'; // Número de WhatsApp actualizado
-                                    const productos = cartItems.map(item => `• ${item.name || item.title} x${item.quantity} ($${item.price} c/u)`).join('%0A');
-                                    const mensaje = `¡Hola! 👋%0AQuiero realizar mi pedido en TOHB Store:%0A%0A${productos}%0A%0A🛒 Total a pagar: $${total.toFixed(2)}%0A%0A¿Me puedes ayudar con el proceso de compra? ¡Gracias!`;
+                                    const productos = cartItems.map(item => `• ${item.name || item.title} x${item.quantity} (${formatCOP(item.price)} c/u)`).join('%0A');
+                                    const mensaje = `¡Hola! 👋%0AQuiero realizar mi pedido en TOHB Store:%0A%0A${productos}%0A%0A🛒 Total a pagar: ${formatCOP(total)}%0A%0A¿Me puedes ayudar con el proceso de compra? ¡Gracias!`;
                                     const url = `https://wa.me/${numeroWhatsApp}?text=${mensaje}`;
                                     window.open(url, '_blank');
                                 }}

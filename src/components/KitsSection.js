@@ -1,8 +1,14 @@
 // src/components/KitsSection.js
+
 import React from 'react';
 import './KitsSection.css';
 
-const KitsSection = () => {
+// Formateador para COP
+const formatCOP = (value) => {
+  return new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', minimumFractionDigits: 0 }).format(value);
+};
+
+const KitsSection = ({ addToCart }) => {
   const kits = [
     {
       id: 1,
@@ -113,7 +119,7 @@ const KitsSection = () => {
             <img src={kit.image} alt={kit.name} className="kit-image" />
             <div className="kit-details">
               <h3 className="kit-name">{kit.name}</h3>
-              <p className="kit-price">{kit.price}</p>
+              <p className="kit-price">{formatCOP(Number(kit.price.replace(/[^\d]/g, '')))}</p>
               <p className="kit-description">{kit.description}</p>
 
               {/* Lista de productos dentro del kit */}
@@ -126,7 +132,24 @@ const KitsSection = () => {
                 </ul>
               </div>
 
-              <button className="kit-button">Comprar Ahora</button>
+              <button
+                className="kit-button"
+                onClick={() => {
+                  // Convertir el precio a número
+                  const priceNumber = Number(kit.price.replace(/[^\d]/g, ''));
+                  // Estructura del producto para el carrito
+                  const kitForCart = {
+                    id: kit.id,
+                    name: kit.name,
+                    price: priceNumber,
+                    image: kit.image,
+                    quantity: 1
+                  };
+                  addToCart(kitForCart);
+                }}
+              >
+                Comprar Ahora
+              </button>
             </div>
           </div>
         ))}

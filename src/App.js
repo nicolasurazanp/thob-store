@@ -53,7 +53,7 @@ const App = () => {
         <AnnouncementBar />
         <Navbar cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />
         <Routes>
-          <Route path="/" element={<><Hero /> <FeaturedProducts /> <KitsSection /> <Categories /> <Reviews /></>} />
+          <Route path="/" element={<><Hero /> <FeaturedProducts /> <KitsSection addToCart={addToCart} /> <Categories /> <Reviews /></>} />
           <Route path="/:category" element={<CategoryPage addToCart={addToCart} />} />
           <Route path="/cart" element={<CartPage cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />} /> {/* Agrega CartPage */}
           <Route path="/product/:productId" element={<ProductDetail addToCart={addToCart} />} />

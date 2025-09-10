@@ -103,10 +103,14 @@ const CategoryPage = ({ addToCart }) => {
         navigate(`/product/${productId}`); // Redirige a la página del producto
     };
 
+    // Formateador para COP
+    const formatCOP = (value) => {
+        return new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', minimumFractionDigits: 0 }).format(value);
+    };
+
     return (
         <div className="category-page">
             <h2>{categoryName}</h2>
-            
             {/* Filtro de precio */}
             <div className="filter-section">
                 <h3>Filtrar:</h3>
@@ -123,15 +127,14 @@ const CategoryPage = ({ addToCart }) => {
                 ) : (
                     sortedProducts.map(product => (
                         <div 
-                            key={product.id} // Asegúrate de usar la propiedad 'id' como 'key'
+                            key={product.id}
                             className="product-card"
-                            onClick={() => handleProductClick(product.id)} // Redirigir a la página del producto
+                            onClick={() => handleProductClick(product.id)}
                         >
                             <img src={product.image} alt={product.name} />
                             <h4>{product.name}</h4>
                             <p>{product.brand}</p>
-                            <p>Desde: ${product.price}</p>
-                            {/* Ahora el botón lleva a la página de detalles */}
+                            <p>Desde: {formatCOP(product.price)}</p>
                             <button>Ver Detalles</button>
                         </div>
                     ))

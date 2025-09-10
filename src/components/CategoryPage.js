@@ -135,7 +135,7 @@ const CategoryPage = ({ addToCart }) => {
                             <h4>{product.name}</h4>
                             <p>{product.brand}</p>
                             <p>Desde: {formatCOP(product.price)}</p>
-                            <button>Ver Detalles</button>
+                            <button className="details-btn">Ver Detalles</button>
                         </div>
                     ))
                 )}

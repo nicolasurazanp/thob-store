@@ -1,21 +1,30 @@
 .contacto-page {
-  min-height: 100vh;
+  min-height: unset;
   display: flex;
   flex-direction: column;
   background: #fff;
 }
 
 .contacto-image-container {
-  flex: 1;
   width: 100vw;
-  height: 100vh;
+  max-width: 100%;
   overflow: hidden;
-  margin-bottom: 30px; /* Espacio para que no quede pegada al footer */
+  margin-bottom: 0;
 }
 
 .contacto-image {
   width: 100vw;
-  height: 65vw;
+  max-width: 100%;
+  height: auto;
   object-fit: cover;
   display: block;
+}
+
+@media (max-width: 768px) {
+  .contacto-image {
+    height: 45vw;
+    min-height: 320px;
+    max-height: 500px;
+    object-fit: cover;
+  }
 }

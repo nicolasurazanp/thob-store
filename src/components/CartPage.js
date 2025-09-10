@@ -1,12 +1,15 @@
 // src/components/CartPage.js
 import React from 'react';
-import { Link } from 'react-router-dom';
 import './CartPage.css';
 
 const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
     // Calcular el subtotal
     const calculateSubtotal = () => {
-        return cartItems.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+        return cartItems.reduce((sum, item) => {
+            const price = Number(item.price) || 0;
+            const quantity = Number(item.quantity) || 0;
+            return sum + (price * quantity);
+        }, 0);
     };
 
     const subtotal = calculateSubtotal();
@@ -112,9 +115,18 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                             </div>
                         </div>
                         <div className="checkout-section">
-                            <Link to="/checkout">
-                                <button className="checkout-btn">Finalizar Compra</button>
-                            </Link>
+                            <button
+                                className="checkout-btn"
+                                onClick={() => {
+                                    const numeroWhatsApp = '573182333137'; // Número de WhatsApp actualizado
+                                    const productos = cartItems.map(item => `• ${item.name || item.title} x${item.quantity} ($${item.price} c/u)`).join('%0A');
+                                    const mensaje = `¡Hola! 👋%0AQuiero realizar mi pedido en TOHB Store:%0A%0A${productos}%0A%0A🛒 Total a pagar: $${total.toFixed(2)}%0A%0A¿Me puedes ayudar con el proceso de compra? ¡Gracias!`;
+                                    const url = `https://wa.me/${numeroWhatsApp}?text=${mensaje}`;
+                                    window.open(url, '_blank');
+                                }}
+                            >
+                                Finalizar Compra
+                            </button>
                         </div>
                     </div>
                 </div>

@@ -519,7 +519,19 @@ import Reviews from './Reviews'; // Importamos el componente de las reseñas
                     <h2>{product.title}</h2>
                     <p className="price">${product.price}</p>
                     {/* Agregar al carrito en la página de detalles */}
-                    <button className="add-to-cart" onClick={() => addToCart(product)}>Agregar al carrito</button>
+                    <button
+                        className="add-to-cart"
+                        onClick={() => {
+                            const productToCart = {
+                                ...product,
+                                quantity: 1,
+                                image: product.images && product.images[0] ? product.images[0] : '',
+                            };
+                            addToCart(productToCart);
+                        }}
+                    >
+                        Agregar al carrito
+                    </button>
 
                     {/* Aquí se agrega la nueva lista de información de envío */}
                     <div className="shipping-info">

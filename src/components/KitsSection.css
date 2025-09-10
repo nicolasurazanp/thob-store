@@ -39,7 +39,7 @@
 
 .kit-image {
   width: 100%;
-  height: 250px;
+  height: 50vh;
   object-fit: cover; /* Ajusta la imagen sin distorsionarla */
   border-bottom: 1px solid #eee;
 }

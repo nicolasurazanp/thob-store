@@ -1,4 +1,4 @@
-/* src/components/FeaturedProducts.css */
+/* Estilos generales de la sección de productos destacados */
 .featured-products {
     text-align: center;
     padding: 40px 0;
@@ -10,7 +10,7 @@
     font-size: 28px;
     font-weight: bold;
     margin-bottom: 10px;
-    text-align: left; /* Alineamos el título a la izquierda */
+    text-align: left;
     margin-left: 75px;
 }
 
@@ -18,8 +18,8 @@
     font-size: 16px;
     color: #555;
     margin-bottom: 30px;
-    text-align: left; /* Alineamos el título a la izquierda */
-        margin-left: 75px;
+    text-align: left;
+    margin-left: 75px;
 }
 
 .product-list {
@@ -50,4 +50,61 @@
     font-size: 18px;
     color: #333;
     margin-bottom: 10px;
+}
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+    .featured-products {
+        padding: 20px 10px; /* Reducir el padding para pantallas más pequeñas */
+    }
+
+    .featured-products h2 {
+        font-size: 24px; /* Reducir el tamaño del título */
+        margin-left: 20px; /* Reducir el margen izquierdo */
+    }
+
+    .featured-products p {
+        font-size: 14px; /* Reducir el tamaño del párrafo */
+        margin-left: 20px; /* Reducir el margen izquierdo */
+    }
+
+    .product-list {
+        flex-direction: column; /* Apilar los productos verticalmente */
+        gap: 20px; /* Espacio entre los productos */
+    }
+
+    .product-card {
+        width: 90%; /* Ajustar el ancho de los productos a un 90% para que se adapten mejor */
+        margin: 0 auto; /* Centrar los productos */
+    }
+
+    .product-card h3 {
+        font-size: 16px; /* Reducir el tamaño del texto de los productos */
+    }
+}
+
+/* Media Queries para pantallas más pequeñas (menos de 480px de ancho) */
+@media (max-width: 480px) {
+    .featured-products {
+        padding: 15px 10px; /* Reducir aún más el padding */
+    }
+
+    .featured-products h2 {
+        font-size: 22px; /* Reducir más el tamaño del título */
+        margin-left: 10px; /* Reducir aún más el margen izquierdo */
+    }
+
+    .featured-products p {
+        font-size: 12px; /* Reducir más el tamaño del párrafo */
+        margin-left: 10px; /* Reducir aún más el margen izquierdo */
+    }
+
+    .product-card {
+        width: 100%; /* Hacer que los productos ocupen todo el ancho disponible */
+        margin: 0 auto; /* Centrar los productos */
+    }
+
+    .product-card h3 {
+        font-size: 14px; /* Reducir el tamaño del texto de los productos */
+    }
 }

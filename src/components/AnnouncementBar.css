@@ -1,4 +1,4 @@
-/* src/components/AnnouncementBar.css */
+/* Estilos para la barra de anuncio */
 .announcement-bar {
     background-color: #1d3f2e; /* Color verde */
     color: white;
@@ -6,7 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    position: fixed; /* Esto asegura que el anuncio permanezca fijo */
+    position: fixed; /* Mantener la barra fija en la parte superior */
     top: 0; /* Asegura que esté en la parte superior */
     left: 0; /* Asegura que esté alineado a la izquierda */
     right: 0; /* Asegura que esté alineado a la derecha */
@@ -18,6 +18,7 @@
 .announcement-content {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .instagram-icon {
@@ -33,4 +34,46 @@
 /* Asegura que la navbar no se solape con el anuncio */
 body {
     padding-top: 40px; /* Ajuste según la altura del anuncio */
+}
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 768px) {
+    .announcement-bar {
+        padding: 8px 16px; /* Reducir el padding para pantallas más pequeñas */
+        font-size: 14px; /* Reducir el tamaño de la fuente */
+    }
+
+    .instagram-icon {
+        margin-right: 8px; /* Reducir el margen */
+        font-size: 18px; /* Reducir el tamaño del ícono */
+    }
+
+    .announcement-content {
+        flex-direction: column; /* Cambiar la dirección de los elementos para que se apilen */
+        text-align: center; /* Centrar el texto */
+    }
+
+    .announcement-content span {
+        margin-top: 5px; /* Agregar espacio entre el ícono y el texto */
+    }
+}
+
+/* Media Queries para dispositivos muy pequeños (por ejemplo, teléfonos en modo retrato) */
+@media (max-width: 480px) {
+    .announcement-bar {
+        padding: 6px 12px; /* Reducir aún más el padding */
+        font-size: 12px; /* Reducir el tamaño de la fuente aún más */
+    }
+
+    .instagram-icon {
+        font-size: 16px; /* Reducir el tamaño del ícono aún más */
+    }
+
+    .announcement-content {
+        flex-direction: column; /* Seguir apilando los elementos */
+    }
+
+    .announcement-content span {
+        margin-top: 4px; /* Ajustar el margen superior */
+    }
 }

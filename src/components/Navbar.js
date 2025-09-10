@@ -1,22 +1,33 @@
-// src/components/Navbar.js
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import { faShoppingCart, faBars } from '@fortawesome/free-solid-svg-icons'; // Agregamos el ícono de hamburguesa
 import './Navbar.css';
 
-const Navbar = ({ cartItems, addToCart, removeFromCart }) => {
+const Navbar = ({ cartItems }) => {
   const [productsDropdownOpen, setProductsDropdownOpen] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false); // Estado para el menú hamburguesa
 
   // Función para alternar el estado del dropdown de productos
   const toggleProductsDropdown = () => setProductsDropdownOpen(!productsDropdownOpen);
 
+  // Función para alternar el estado del menú hamburguesa
+  const toggleMenu = () => setMenuOpen(!menuOpen);
+
   return (
     <nav className="navbar">
+      {/* Menú hamburguesa (solo en móvil) */}
+      <div className="menu-icon" onClick={toggleMenu}>
+        <FontAwesomeIcon icon={faBars} size="lg" />
+      </div>
+
+      {/* Logo */}
       <div className="logo">
         <img src="/images/General/logoTOHB.png" alt="THOB Logo" />
       </div>
-      <ul className="nav-links">
+
+      {/* Menú de navegación */}
+      <ul className={`nav-links ${menuOpen ? 'open' : ''}`}>
         <li><Link to="/">Inicio</Link></li>
         <li className="dropdown">
           <button className="dropbtn" onClick={toggleProductsDropdown}>
@@ -31,7 +42,7 @@ const Navbar = ({ cartItems, addToCart, removeFromCart }) => {
             </div>
           )}
         </li>
-  <li><Link to="/contacto">Contacto</Link></li>
+        <li><Link to="/contacto">Contacto</Link></li>
       </ul>
 
       {/* Ícono de carrito */}

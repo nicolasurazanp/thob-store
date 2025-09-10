@@ -10,34 +10,40 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: center; /* Asegura que los sellos se distribuyan bien */
+    justify-content: center;
+    /* Asegura que los sellos se distribuyan bien */
 }
 
 .seal-item {
     width: 200px;
     height: 200px;
-    perspective: 1000px; /* Esto permite la perspectiva del flip */
+    perspective: 1000px;
+    /* Esto permite la perspectiva del flip */
 }
 
 .seal-card {
     width: 100%;
     height: 100%;
     position: relative;
-    transform-style: preserve-3d; /* Mantener la apariencia en 3D */
+    transform-style: preserve-3d;
+    /* Mantener la apariencia en 3D */
     transition: transform 0.5s;
 }
 
 .seal-card:hover {
-    transform: rotateY(180deg); /* Voltear la tarjeta al pasar el ratón */
+    transform: rotateY(180deg);
+    /* Voltear la tarjeta al pasar el ratón */
 }
 
-.seal-card-front, .seal-card-back {
+.seal-card-front,
+.seal-card-back {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    backface-visibility: hidden; /* Ocultar la parte trasera cuando se voltea */
+    backface-visibility: hidden;
+    /* Ocultar la parte trasera cuando se voltea */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -56,12 +62,15 @@
     padding: 12px;
     font-size: 14px;
     color: #555;
-    transform: rotateY(180deg); /* Voltear la parte trasera para que quede oculta inicialmente */
+    transform: rotateY(180deg);
+    /* Voltear la parte trasera para que quede oculta inicialmente */
 }
 
 .seal-card-front img {
-    max-width: 100px; /* Hacemos la imagen más grande */
-    max-height: 100px; /* Aseguramos que no se desborde */
+    max-width: 100px;
+    /* Hacemos la imagen más grande */
+    max-height: 100px;
+    /* Aseguramos que no se desborde */
     margin-right: 12px;
 }
 
@@ -71,6 +80,7 @@
     font-size: 14px;
     color: #555;
 }
+
 .seal-item img {
     width: 50%;
     height: 50%;

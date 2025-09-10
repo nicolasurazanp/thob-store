@@ -1,4 +1,4 @@
-/* src/components/Footer.css */
+/* Estilos generales del footer */
 .footer {
     background-color: #333; /* Fondo oscuro */
     color: #fff; /* Texto blanco */
@@ -12,11 +12,13 @@
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
+    flex-wrap: wrap; /* Asegura que los elementos se ajusten a pantallas más pequeñas */
 }
 
 .footer-contact {
     text-align: left;
     flex: 1;
+    margin-bottom: 20px; /* Espacio inferior para evitar que se peguen al logo */
 }
 
 .footer-contact h3 {
@@ -53,4 +55,57 @@
 
 .footer-bottom p {
     margin: 0;
+}
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column; /* Apilar los elementos verticalmente */
+        align-items: center; /* Centrar los elementos */
+        text-align: center; /* Asegurar que los textos estén centrados */
+    }
+
+    .footer-contact {
+        text-align: center; /* Centrar los textos en pantallas pequeñas */
+        margin-bottom: 30px; /* Espacio inferior adicional */
+    }
+
+    .footer-contact h3 {
+        font-size: 20px; /* Reducir el tamaño del título */
+    }
+
+    .footer-contact p {
+        font-size: 14px; /* Reducir el tamaño del texto */
+    }
+
+    .footer-logo img {
+        width: 120px; /* Reducir el tamaño del logo */
+    }
+
+    .footer-bottom p {
+        font-size: 12px; /* Reducir el tamaño del texto de los derechos reservados */
+    }
+}
+
+/* Ajustes para pantallas muy pequeñas (móviles en modo retrato) */
+@media (max-width: 480px) {
+    .footer-content {
+        padding: 20px 10px; /* Reducir el padding para pantallas más pequeñas */
+    }
+
+    .footer-logo img {
+        width: 100px; /* Reducir el tamaño del logo aún más */
+    }
+
+    .footer-contact h3 {
+        font-size: 18px; /* Reducir aún más el tamaño del título */
+    }
+
+    .footer-contact p {
+        font-size: 12px; /* Reducir aún más el tamaño del texto */
+    }
+
+    .footer-bottom p {
+        font-size: 10px; /* Reducir el tamaño del texto de los derechos reservados */
+    }
 }

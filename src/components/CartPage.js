@@ -55,22 +55,15 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                             </thead>
                             <tbody>
                                 {cartItems.map((item, index) => {
-                                    console.log(`Item ${index}:`, item); // Mostrar los productos en consola
-
-                                    // Obtener el nombre del producto, que puede estar en "name" o "title"
-                                    const productName = item.name || item.title || "Producto sin nombre"; // Usar "name" o "title", o "Producto sin nombre" si no existe
-
+                                    const productName = item.name || item.title || "Producto sin nombre";
                                     return (
                                         <tr key={index}>
-                                            {/* Celda para el nombre del producto */}
                                             <td>
                                                 <div className="cart-item">
                                                     <img src={item.image} alt={productName} className="cart-item-image" />
-                                                    {/* Mostrar el nombre del producto */}
                                                     <span>{productName}</span>
                                                 </div>
                                             </td>
-                                            {/* Celda para la cantidad */}
                                             <td>
                                                 <div className="quantity-container">
                                                     <button
@@ -82,7 +75,7 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                                                     </button>
                                                     <input
                                                         type="number"
-                                                        value={item.quantity || 1} // Si quantity es null o undefined, asignar 1
+                                                        value={item.quantity || 1}
                                                         readOnly
                                                         className="quantity-input"
                                                     />
@@ -94,7 +87,9 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
                                                     </button>
                                                 </div>
                                             </td>
-                                            <td>{formatCOP(item.price)}</td>
+                                            <td>
+                                                {formatCOP(item.price)}
+                                            </td>
                                             <td>
                                                 <button onClick={() => removeFromCart(item)} className="remove-btn">
                                                     Eliminar

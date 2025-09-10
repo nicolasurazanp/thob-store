@@ -1,7 +1,9 @@
+/* Estilos generales para la vista detallada del producto */
 .product-detail {
-     display: flex; 
-     justify-content: center; 
-     margin-top: 20px; 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    flex-wrap: wrap; /* Asegura que el contenido se ajuste en pantallas pequeñas */
 }
 
 .product-gallery {
@@ -74,10 +76,28 @@
     margin-top: 20px;
 }
 
+/* Ajustes para el texto en la sección de detalles del producto */
 .product-info p {
     font-size: 16px;
     line-height: 1.6;
+    word-wrap: break-word; /* Asegura que el texto se ajuste correctamente */
+    overflow-wrap: break-word; /* Para asegurar que las palabras largas se ajusten */
 }
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 768px) {
+    .product-info p {
+        font-size: 14px; /* Reducir el tamaño del texto en pantallas pequeñas */
+    }
+}
+
+/* Ajustes para pantallas muy pequeñas (móviles en modo retrato) */
+@media (max-width: 480px) {
+    .product-info p {
+        font-size: 12px; /* Reducir aún más el tamaño del texto */
+    }
+}
+
 
 .product-seals {
     margin-top: 30px;
@@ -136,3 +156,235 @@
     font-weight: bold;
     margin: 0;
 }
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 768px) {
+    /* La vista detallada del producto debe acomodarse en pantallas más pequeñas */
+    .product-detail {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .product-gallery {
+        flex-direction: column; /* Las imágenes de la galería se apilan verticalmente */
+        margin-right: 0;
+    }
+
+    .main-image img {
+        width: 100%; /* Asegura que la imagen ocupe todo el ancho disponible */
+        max-width: 400px; /* Limitar el tamaño máximo de la imagen */
+    }
+
+    .image-thumbnails {
+        flex-direction: row; /* Mostrar las miniaturas en fila */
+        justify-content: center;
+    }
+
+    .thumbnail {
+        width: 60px; /* Reducir el tamaño de las miniaturas */
+        height: 60px;
+        margin-right: 10px; /* Añadir espacio entre miniaturas */
+    }
+
+    .product-info {
+        max-width: 100%; /* La información del producto debe ocupar todo el espacio disponible */
+        margin-left: 0;
+        text-align: center; /* Centrar la información del producto */
+    }
+
+    .product-info h2 {
+        font-size: 20px; /* Reducir el tamaño del título */
+    }
+
+    .product-info .price {
+        font-size: 18px; /* Reducir el tamaño del precio */
+    }
+
+    .product-info button {
+        padding: 10px;
+        font-size: 14px; /* Reducir el tamaño del botón */
+    }
+
+    .product-seals {
+        padding: 10px;
+    }
+
+    .product-seals h3 {
+        font-size: 20px; /* Reducir el tamaño del título de la sección de sellos */
+    }
+
+    .seal-item {
+        flex: 1 1 45%; /* Ajustar los sellos para que se acomoden bien */
+        margin-bottom: 10px;
+    }
+
+    .seal-item p {
+        font-size: 12px; /* Reducir el tamaño del texto */
+    }
+
+    .discount-banner h1 {
+        font-size: 20px; /* Reducir el tamaño del texto del banner */
+    }
+}
+
+/* Ajustes para pantallas muy pequeñas (móviles en modo retrato) */
+@media (max-width: 480px) {
+    .product-detail {
+        padding: 10px;
+    }
+
+    .product-gallery {
+        flex-direction: column; /* Asegurarse de que las imágenes se apilen verticalmente */
+    }
+
+    .main-image img {
+        width: 100%; /* Asegurarse de que la imagen ocupe todo el ancho */
+        height: auto;
+    }
+
+    .product-info h2 {
+        font-size: 18px; /* Reducir el tamaño del título */
+    }
+
+    .product-info .price {
+        font-size: 16px; /* Reducir el tamaño del precio */
+    }
+
+    .product-info button {
+        padding: 8px;
+        font-size: 12px; /* Reducir el tamaño del botón */
+    }
+
+    .product-seals h3 {
+        font-size: 18px; /* Reducir el tamaño del título de los sellos */
+    }
+
+    .seal-item p {
+        font-size: 10px; /* Reducir aún más el tamaño del texto */
+    }
+}
+
+/* Estilo para el banner de descuento */
+.discount-banner {
+    background-color: #006414; /* Puedes usar otro color llamativo */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.discount-banner h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 768px) {
+    .discount-banner {
+        padding: 8px; /* Reducir el padding en dispositivos móviles */
+        margin-right: -0.5vh;
+    }
+
+    .discount-banner h1 {
+        font-size: 20px; /* Reducir el tamaño de la fuente */
+    }
+}
+
+/* Ajustes para pantallas muy pequeñas (por ejemplo, teléfonos en modo retrato) */
+@media (max-width: 480px) {
+    .discount-banner {
+        padding: 6px; /* Reducir aún más el padding */
+        margin-right: -0.5vh;
+    }
+
+    .discount-banner h1 {
+        font-size: 18px; /* Reducir aún más el tamaño del texto */
+    }
+}
+
+
+/* Estilo para la información de envío y textos */
+.shipping-info {
+    margin-bottom: 20px;
+    word-wrap: break-word; /* Asegura que el texto se ajuste y no se desborde */
+    overflow-wrap: break-word; /* Previene que el texto se desborde horizontalmente */
+}
+
+.shipping-info p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    word-wrap: break-word; /* Evita que el texto se corte fuera de la pantalla */
+}
+
+.shipping-info ul {
+    padding-left: 20px;
+    font-size: 16px;
+    list-style-position: inside; /* Asegura que los puntos se alineen correctamente */
+}
+
+.shipping-info ul li {
+    margin-bottom: 8px;
+    word-wrap: break-word; /* Asegura que el texto dentro de los ítems no se desborde */
+}
+
+h3 {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 768px) {
+    /* Ajuste de la información de envío */
+    .shipping-info p {
+        font-size: 16px; /* Reducir el tamaño del texto de envío */
+    }
+
+    .shipping-info ul {
+        padding-left: 15px; /* Reducir el padding de la lista */
+    }
+
+    .shipping-info ul li {
+        font-size: 14px; /* Reducir el tamaño de los ítems de la lista */
+        margin-bottom: 6px; /* Reducir el espacio entre los ítems */
+    }
+
+    h3 {
+        font-size: 20px; /* Reducir el tamaño del título */
+    }
+
+    p {
+        font-size: 14px; /* Reducir el tamaño del texto general */
+    }
+}
+
+/* Ajustes para pantallas muy pequeñas (móviles en modo retrato) */
+@media (max-width: 480px) {
+    .shipping-info p {
+        font-size: 14px; /* Reducir aún más el tamaño del texto de envío */
+    }
+
+    .shipping-info ul li {
+        font-size: 12px; /* Reducir aún más el tamaño de los ítems de la lista */
+        margin-bottom: 5px; /* Reducir el espacio entre los ítems */
+    }
+
+    h3 {
+        font-size: 18px; /* Reducir aún más el tamaño del título */
+    }
+
+    p {
+        font-size: 12px; /* Reducir el tamaño del texto general */
+    }
+}
+

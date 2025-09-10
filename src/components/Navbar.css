@@ -1,4 +1,4 @@
-/* src/components/Navbar.css */
+/* Navbar */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -6,20 +6,25 @@
     padding: 10px 20px;
     background-color: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
+/* Logo */
 .logo img {
-    width: 100px;  /* Aumentamos el tamaño del logo */
-    height: auto;   /* Mantenemos la proporción del logo */
+    width: 100px;
+    height: auto;
     margin-right: 10px;
 }
 
+/* Menú de navegación */
 .nav-links {
     display: flex;
     list-style-type: none;
     gap: 20px;
+    margin-left: auto;
 }
 
+/* Estilos de los enlaces */
 .nav-links li {
     position: relative;
 }
@@ -34,7 +39,7 @@
     color: #4CAF50;
 }
 
-/* Dropdown styles */
+/* Dropdown */
 .dropdown {
     position: relative;
 }
@@ -79,19 +84,15 @@
     color: #4CAF50;
 }
 
-.cart-icon {
-    position: relative;
-    cursor: pointer;
-}
-
+/* Carrito */
 .cart-icon {
     position: relative;
     cursor: pointer;
 }
 
 .cart-icon .fa-shopping-cart {
-    font-size: 24px; /* Ajustamos el tamaño del ícono */
-    color: #333; /* Color del ícono */
+    font-size: 24px;
+    color: #333;
 }
 
 .cart-count {
@@ -103,4 +104,40 @@
     border-radius: 50%;
     padding: 5px;
     font-size: 12px;
+}
+
+/* Menú hamburguesa */
+.menu-icon {
+    display: none; /* Ocultar el ícono por defecto */
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none; /* Ocultar los enlaces en pantallas pequeñas */
+        flex-direction: column;
+        position: absolute;
+        top: 60px; /* Colocar debajo de la navbar */
+        left: 0;
+        right: 0;
+        background-color: white;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .nav-links.open {
+        display: flex; /* Mostrar cuando el menú hamburguesa está abierto */
+    }
+
+    .menu-icon {
+        display: block; /* Mostrar el ícono de hamburguesa en pantallas pequeñas */
+    }
+
+    .logo {
+        flex: 1; /* Aseguramos que el logo esté centrado */
+        text-align: center;
+    }
+
+    .cart-icon {
+        order: 1; /* Aseguramos que el carrito esté al final */
+    }
 }

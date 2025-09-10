@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Contacto from './components/Contacto';
 import Categories from './components/Categories';
 import FeaturedProducts from './components/FeaturedProducts';
 import Hero from './components/Hero';
@@ -55,8 +56,9 @@ const App = () => {
         <Routes>
           <Route path="/" element={<><Hero /> <FeaturedProducts /> <KitsSection addToCart={addToCart} /> <Categories /> <Reviews /></>} />
           <Route path="/:category" element={<CategoryPage addToCart={addToCart} />} />
-          <Route path="/cart" element={<CartPage cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />} /> {/* Agrega CartPage */}
+          <Route path="/cart" element={<CartPage cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />} />
           <Route path="/product/:productId" element={<ProductDetail addToCart={addToCart} />} />
+          <Route path="/contacto" element={<Contacto />} />
         </Routes>
         <Footer />
       </div>

@@ -1,0 +1,21 @@
+.contacto-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+}
+
+.contacto-image-container {
+  flex: 1;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  margin-bottom: 30px; /* Espacio para que no quede pegada al footer */
+}
+
+.contacto-image {
+  width: 100vw;
+  height: 65vw;
+  object-fit: cover;
+  display: block;
+}

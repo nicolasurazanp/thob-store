@@ -31,7 +31,7 @@ const Navbar = ({ cartItems, addToCart, removeFromCart }) => {
             </div>
           )}
         </li>
-        <li><Link to="#contact">Contacto</Link></li>
+  <li><Link to="/contacto">Contacto</Link></li>
       </ul>
 
       {/* Ícono de carrito */}

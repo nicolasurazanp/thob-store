@@ -8,7 +8,7 @@ const AnnouncementBar = () => {
         <div className="announcement-bar">
             <div className="announcement-content">
                 <FaInstagram className="instagram-icon" />
-                <span>Envíos GRATIS por compras superiores a $180.000</span>
+                <span>Envíos GRATIS por compras superiores a $180.000 &nbsp;|&nbsp; Compra mínima 70.000</span>
             </div>
         </div>
     );

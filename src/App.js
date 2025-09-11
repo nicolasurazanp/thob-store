@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Alert from './components/Alert';
 import Contacto from './components/Contacto';
 import Categories from './components/Categories';
 import FeaturedProducts from './components/FeaturedProducts';
@@ -15,28 +16,35 @@ import CartPage from './components/CartPage';  // Asegúrate de importar CartPag
 import KitsSection from './components/KitsSection';
 import './App.css';
 
+
 const App = () => {
   const [cart, setCart] = useState(() => {
     const savedCart = localStorage.getItem('cart');
     return savedCart ? JSON.parse(savedCart) : [];
   });
+  const [alert, setAlert] = useState("");
+
+  // Función para mostrar alerta visual
+  const showAlert = (msg) => {
+    setAlert(msg);
+    setTimeout(() => setAlert(""), 2000);
+  };
 
   // Función para agregar productos al carrito (incluyendo cantidades)
   const addToCart = (product) => {
     setCart((prevCart) => {
       const productIndex = prevCart.findIndex((item) => item.id === product.id);
-
+      let updatedCart;
       if (productIndex !== -1) {
-        const updatedCart = [...prevCart];
-        updatedCart[productIndex].quantity = product.quantity; // Actualizar cantidad
-        localStorage.setItem('cart', JSON.stringify(updatedCart));
-        return updatedCart;
+        updatedCart = [...prevCart];
+        updatedCart[productIndex].quantity = product.quantity;
       } else {
-        const updatedCart = [...prevCart, product]; // Si no existe el producto, se agrega
-        localStorage.setItem('cart', JSON.stringify(updatedCart));
-        return updatedCart;
+        updatedCart = [...prevCart, product];
       }
+      localStorage.setItem('cart', JSON.stringify(updatedCart));
+      return updatedCart;
     });
+    showAlert("Producto agregado correctamente al carrito");
   };
 
   // Función para eliminar un producto del carrito
@@ -52,6 +60,7 @@ const App = () => {
     <Router>
       <div>
         <AnnouncementBar />
+        <Alert message={alert} onClose={() => setAlert("")} />
         <Navbar cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />
         <Routes>
           <Route path="/" element={<><Hero /> <FeaturedProducts /> <KitsSection addToCart={addToCart} /> <Categories /> <Reviews /></>} />

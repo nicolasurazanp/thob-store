@@ -140,7 +140,7 @@
 
     .nav-links.open {
         height: auto;
-        min-height: 180px;
+        min-height: 400px;
         opacity: 1;
         pointer-events: auto;
         box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);

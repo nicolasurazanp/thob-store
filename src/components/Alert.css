@@ -1,0 +1,51 @@
+.alert-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.15);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.alert-box {
+  margin-top: 80px;
+  background: #fff;
+  color: #388e3c;
+  border: 2px solid #4caf50;
+  border-radius: 10px;
+  padding: 18px 32px 18px 18px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  animation: alert-fade-in 0.3s;
+}
+
+.alert-close {
+  background: none;
+  border: none;
+  color: #d32f2f;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+@keyframes alert-fade-in {
+  from { opacity: 0; transform: translateY(-30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 768px) {
+  .alert-box {
+    margin-top: 60px;
+    font-size: 1rem;
+    padding: 14px 18px 14px 14px;
+    border-radius: 8px;
+  }
+}

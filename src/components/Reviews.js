@@ -10,7 +10,8 @@ const Reviews = () => {
             body: "Este producto cambió mi rutina de cuidado personal. Lo recomiendo totalmente.",
             reviewer: "Laura P.",
             date: "15 de agosto de 2025",
-            rating: 5
+            rating: 5,
+            avatar: "https://randomuser.me/api/portraits/women/1.jpg"
         },
         {
             id: 2,
@@ -18,15 +19,17 @@ const Reviews = () => {
             body: "He notado resultados desde el primer uso. ¡Muy efectivo y natural!",
             reviewer: "Carlos M.",
             date: "20 de agosto de 2025",
-            rating: 5
+            rating: 5,
+            avatar: "/images/General/fotoContactohombre1.jpg"
         },
         {
             id: 3,
             title: "Excelente calidad",
             body: "Calidad de 10, y el envase es súper práctico. Sin duda seguiré comprando.",
-            reviewer: "María G.",
+            reviewer: "Manuel G.",
             date: "22 de agosto de 2025",
-            rating: 5
+            rating: 5,
+            avatar: "/images/General/fotoContactohombre2.jpg"
         }
     ];
 
@@ -46,7 +49,7 @@ const Reviews = () => {
                         <p>{review.body}</p>
                         <div className="review-footer">
                             <div className="reviewer">
-                                <img src="https://randomuser.me/api/portraits/women/1.jpg" alt={review.reviewer} className="review-avatar" />
+                                <img src={review.avatar} alt={review.reviewer} className="review-avatar" />
                                 <span>{review.reviewer}</span>
                             </div>
                             <span className="review-date">{review.date}</span>

@@ -178,14 +178,52 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-  
+  {
+    "id": "10",
+    "title": "Shampoo Rise & Shine Azabache Laurel",
+    "price": 25000,
+    "image": "/images/CuidadoCapilar/cabelloGraso.jpg",
+    "description":" Limpia profundamente tu cabello con el Shampoo Cabello Graso. Con Aceite de Coco, Carbón Activado de Coco y Laurel que te ayudan a regular la grasa de tu cuero cabelludo.",
+    "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/cabelloGraso.jpg"
+
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+
+   {
+    "id": "11",
+    "title": "Shampoo Caída",
+    "price": 37000,
+    "image": "/images/CuidadoCapilar/ShampooCaida.jpg",
+    "description":"  ¡Fortalece tu cabello y limpia delicadamente con el Shampoo Caída! Cargado de Aceite de Argán, Flor de Cayeno y Arcilla Roja que milenariamente nutren tus folículos pilosos, refuerzan tus hebras capilares y te ayudan a devolver el vigor a tu cabello.",
+    "usage": "  Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
+    "images": [
+      "/images/CuidadoCapilar/ShampooCaida.jpg"
+
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
   
    {
      "_comment": "Fin Categoria Capilar - Inicio Categoria Corporal"
    },
 
   {
-    "id": "10",
+    "id": "12",
     "title": "Desodorante Natural Té Verde 60mL",
     "price": 27900,
     "image": "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
@@ -204,7 +242,7 @@
     }
   },
   {
-    "id": "11",
+    "id": "13",
     "title": "Desodorante Natural Calendula Y Manzanilla 60mL",
     "price": 27900,
     "image": "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
@@ -223,7 +261,7 @@
     }
   },
   {
-    "id": "12",
+    "id": "14",
     "title": "Jabón Corporal Coco 100 g",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/Coco_720x.webp",
@@ -243,7 +281,7 @@
     }
   },
   {
-    "id": "13",
+    "id": "15",
     "title": "Jabón Corporal Aloe Vera g",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/ALOEVERA1.webp",
@@ -263,7 +301,7 @@
     }
   },
  {
-    "id": "14",
+    "id": "16",
     "title": "Jabón Corporal Avena g",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/AVENA1.webp",
@@ -282,7 +320,7 @@
     }
   },
    {
-    "id": "15",
+    "id": "17",
     "title": "Jabón Corporal De Café ",
     "price": 10000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/Cafe1.webp",
@@ -301,14 +339,70 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
+ 
+{
+    "id": "18",
+    "title": "Crema Humectante Sólida",
+    "price": 20000,
+    "image": "/images/CuidadoCorporal/cremaHumentanteSolida.jpg",
+    "description": "Nuestra crema humectante sólida nutre profundamente tu piel gracias a la combinación de manteca de cacao, aceite de ricino y aceite de coco que la forma en un aliado para pieles secas, dañadas o deshidratadas.También sirve para combatir el envejecimiento de la piel. Este producto no obstruirá los poros de la piel, al contrario, nutrirá profundamente y dejará que la piel respire.",
+    "usage": " Aplica directamente sobre tu piel en pequeñas áreas para luego extender con las manos. Ideal para pieles normales o secas, se puede aplicar en el cuerpo como barra de masaje, no usar en rostro.",
+    "images": [
+      "/images/CuidadoCorporal/cremaHumentanteSolida.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
 
+  {
+    "id": "19",
+    "title": "Jabón exfoliante De Limón y Amapola",
+    "price": 14000,
+    "image": "/images/CuidadoCorporal/JabonExfolianteLimon.jpg",
+    "description": "Nuestro jabón exfoliante con notas de limón tiene una frescura en su fragancia.  Dejará tu piel suave y calmada gracias a las semillas de la amapola y el limón. También ofrecerá un efecto anticelulítico ayudando a combatir el envejecimiento de la piel.",
+    "usage": " El exfoliante corporal puede usarse 2 o 3 veces por semana en la ducha.Aplica suavemente el jabón directamente sobre la piel con suaves movimientos circulares para no irritarla.Una vez que hayas aplicado el exfoliante, enjuaga. ",
+    "images": [
+      "/images/CuidadoCorporal/JabonExfolianteLimon.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+
+  {
+    "id": "20",
+    "title": "Jabón exfoliante De Café y Canela",
+    "price": 14000,
+    "image": "/images/CuidadoCorporal/jabonExfolianteCafe.jpg",
+    "description": "Este jabón (55gr) con aromas de café y canela proporciona un suave pero profundo efecto exfoliante dejando la piel regenerada y libre de impurezas, gracias en gran parte a los granos de café.",
+    "usage": "El exfoliante corporal puede usarse 2 o 3 veces por semana en la ducha. Aplica suavemente el jabón directamente sobre la piel con suaves movimientos circulares para no irritarla. Una vez que hayas aplicado el exfoliante, enjuaga.",
+    "images": [
+      "/images/CuidadoCorporal/jabonExfolianteCafe.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
 
 {
   "_comment": "Fin Categoria Corporal - Inicio Categoria Facial"
 },
 
   {
-    "id": "16",
+    "id": "21",
     "title": "Jabón Artesanal Arroz 100 g",
     "price": 22900,
     "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
@@ -326,7 +420,7 @@
     }
   },
   {
-    "id": "17",
+    "id": "22",
     "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
     "price": 22900,
     "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
@@ -344,7 +438,7 @@
     }
   },
   {
-    "id": "18",
+    "id": "23",
     "title": "Jabón Artesanal Aloe Vera  100 g",
     "price": 22900,
     "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
@@ -362,7 +456,7 @@
     }
   },
   {
-    "id": "19",
+    "id": "24",
     "title": "Crema Contorno Ojos con Ácido Hialurónico 30 mL",
     "price": 79900,
     "image": "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
@@ -382,7 +476,7 @@
     }
   },
   {
-    "id": "20",
+    "id": "25",
     "title": "Crema Regeneradora con Complejos de Aminoácidos 50 mLL",
     "price": 99900,
     "image": "/images/CuidadoFacial/Detalle/regeneradora.jpg",
@@ -402,7 +496,7 @@
     }
   },
   {
-    "id": "21",
+    "id": "26",
     "title": "Sérum Facial Con Vitamina C Mayakú 50 mL",
     "price": 124900,
     "image": "/images/CuidadoFacial/Detalle/serum.jpg",
@@ -423,7 +517,7 @@
     }
   },
   {
-    "id": "22",
+    "id": "27",
     "title": "Leche Desmaquilladora Arroz 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
@@ -442,7 +536,7 @@
     }
   },
   {
-    "id": "23",
+    "id": "28",
     "title": "Leche Desmaquilladora Uva y Argán 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-UVA.png",
@@ -461,7 +555,7 @@
     }
   },
   {
-    "id": "24",
+    "id": "29",
     "title": "Leche Desmaquilladora Perejil 120 mL",
     "price": 37900,
     "image": "/images/CuidadoFacial/LECHE-PEREJIL.png",
@@ -480,7 +574,7 @@
     }
   },
   {
-    "id": "25",
+    "id": "30",
     "title": "Leche Limpiadora Caléndula y Manzanilla 120 mL",
     "price":  42900,
     "image": "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
@@ -499,7 +593,7 @@
     }
   },
   {
-    "id": "26",
+    "id": "31",
     "title": "Mascarilla Aloe Vera 60 mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
@@ -518,7 +612,7 @@
     }
   },
     {
-    "id": "27",
+    "id": "32",
     "title": "Mascarilla Calendula Y Manzanilla 60mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
@@ -537,7 +631,7 @@
     }
   },
    {
-    "id": "28",
+    "id": "33",
     "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
     "price":  73900,
     "image": "/images/CuidadoFacial/Detalle/protector.jpg",
@@ -557,7 +651,7 @@
     }
   },
    {
-    "id": "29",
+    "id": "34",
     "title": "Sérum Antiedad 30 mL",
     "price":  64900,
     "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
@@ -576,7 +670,7 @@
     }
   },
   {
-    "id": "30",
+    "id": "35",
     "title": "Tónico Natural Rosas 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
@@ -595,7 +689,7 @@
     }
   },
   {
-    "id": "31",
+    "id": "36",
     "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
@@ -614,7 +708,7 @@
     }
   },
    {
-    "id": "32",
+    "id": "37",
     "title": "Tónico Natural Té Verde 120 mL",
     "price":  31900,
     "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
@@ -633,7 +727,7 @@
     }
   },
    {
-    "id": "33",
+    "id": "38",
     "title": "Pasta Dental Sólida",
     "price":  27000,
     "image": "/images/CuidadoFacial/PastaDentalOiris.webp",
@@ -652,7 +746,7 @@
     }
   },
 {
-    "id": "34",
+    "id": "39",
     "title": "Jabón De Arroz",
     "price":  13000,
     "image": "/images/CuidadoFacial/Detalle/arroz1.webp",
@@ -671,7 +765,7 @@
     }
   },
 {
-    "id": "35",
+    "id": "40",
     "title": "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
@@ -690,7 +784,7 @@
     }
   },
 {
-    "id": "36",
+    "id": "41",
     "title": "Jabón Purify para el Acné (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
@@ -709,7 +803,7 @@
     }
   },
   {
-    "id": "37",
+    "id": "42",
     "title": "Jabón Baby (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/JabonBaby.jpg",
@@ -727,7 +821,7 @@
     }
   },
     {
-    "id": "38",
+    "id": "43",
     "title": "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
@@ -746,7 +840,7 @@
     }
   },
     {
-    "id": "39",
+    "id": "44",
     "title": "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
     "price":  52900,
     "image": "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
@@ -765,7 +859,7 @@
     }
   },
 {
-    "id": "40",
+    "id": "45",
     "title": "Complejo Revitalizante 60 mL",
     "price":  55900,
     "image": "/images/CuidadoFacial/Complejo1.jpeg",
@@ -784,7 +878,7 @@
     }
   },
 {
-    "id": "41",
+    "id": "46",
     "title": "Crema Facial con Aloe Vera y Pepino 60 mL",
     "price":  49900,
     "image": "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg",
@@ -802,12 +896,31 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
+
+   {
+    "id": "47",
+    "title": "Jabón de rostro carbón activado",
+    "price": 12000,
+    "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/jabonRostroCarbonActivado.jpg",
+    "description": "Jabón para la cara hecho a mano con ingredientes 100% naturales  que ayudan a eliminar impurezas para purificar la piel sin dañarla. Tiene una capacidad de absorción extremadamente poderosa que captura y elimina las impurezas/toxinas sin dañar la piel.La manteca de cacao presente en su composición proporcionará una acción curativa para la piel irritada o manchada.",
+    "usage": "Humedece el rostro y frota el jabón con las manos hasta obtener un poco de espuma. Aplica con las llema de los dedos, masajea y enjuaga. Úsalo tres o cuatro veces a la semana.",
+    "images": [
+      "/images/CuidadoCorporal/CuidadoCorporalDetalle/jabonRostroCarbonActivado.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+
    {
   "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
 },
-   
-     {
-    "id": "42",
+   {
+    "id": "48",
     "title": "Brillo Labial Morning Kiss",
     "price":  32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
@@ -827,7 +940,7 @@
     }
   },
    {
-    "id": "43",
+    "id": "49",
     "title": "Corrector Facial Piel Canela - Toffee",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
@@ -847,7 +960,7 @@
     }
   },
    {
-    "id": "44",
+    "id": "50",
     "title": "Corrector Facial Tono Medio - Latte",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
@@ -867,7 +980,7 @@
     }
   },
   {
-    "id": "45",
+    "id": "51",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
@@ -887,7 +1000,7 @@
     }
   },
   {
-    "id": "46",
+    "id": "52",
     "title": "Polvo Matificante",
     "price":  42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -908,7 +1021,7 @@
     }
   },
   {
-    "id": "47",
+    "id": "53",
     "title": "Polvo Matificante Latte",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
@@ -929,7 +1042,7 @@
     }
   },
   {
-    "id": "48",
+    "id": "54",
     "title": "Polvo Matificante Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
@@ -950,7 +1063,7 @@
     }
   },
   {
-    "id": "49",
+    "id": "55",
     "title": "Hidratante y Protector Labial Frutos Rojos",
     "price":  13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -970,7 +1083,7 @@
     }
   },
    {
-    "id": "50",
+    "id": "56",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
@@ -989,7 +1102,7 @@
     }
   },
     {
-    "id": "51",
+    "id": "57",
     "title": "Hidratante y Protector Labial Menta ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
@@ -1008,7 +1121,7 @@
     }
   },
      {
-    "id": "52",
+    "id": "58",
     "title": "Rubor Rosa",
     "price":  49500,
     "image": "/images/Maquillaje/RuborRosa.png",
@@ -1030,7 +1143,7 @@
     }
   },
    {
-    "id": "53",
+    "id": "59",
     "title": "Rubor tono coral",
     "price":  49500,
     "image": "/images/Maquillaje/RuborCoral.png",
@@ -1052,7 +1165,7 @@
     }
   },
    {
-    "id": "54",
+    "id": "60",
     "title": "Recarga Polvo Matificante Latte",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
@@ -1072,7 +1185,7 @@
     }
   },
    {
-    "id": "55",
+    "id": "61",
     "title": "Recarga Polvo Matificante Toffe",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
@@ -1092,7 +1205,7 @@
     }
   },
    {
-    "id": "56",
+    "id": "62",
     "title": "Recarga Polvo Matificante Vainilla",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",

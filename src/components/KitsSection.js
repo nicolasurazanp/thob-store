@@ -87,14 +87,14 @@ const KitsSection = ({ addToCart }) => {
     {
       id: 7,
       name: "KIT CUIDADO CORPORAL",
-      price: "$128800",
-      description: "Este kit es para ti si buscas una experiencia de cuidado corporal completa, que nutra y revitalice tu piel desde la ducha hasta la hidratación final.",
-      image: "/images/KitsTOHB/Kit Cuidado Corporal.jpg",
+      price: "165.700",
+      description: "Para pieles maduras, este kit ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
+      image: "/images/KitsTOHB/kitCuidadoCorporal.jpg",
       products: [
-        "Pasta Dental Solida",
-        " Protector Solar con Extractos Botánicos / SPF 50+ de 80 ml",
-        "Desodorante Natural Caléndula y Manzanilla 60 mL ",
-        "Descuento del 5%"
+        "Sérum Antiedad 30 mL",
+        "Protector solar",
+        "Hidratante labial",
+        "Jabón facial de arroz"
       ]
     },
     {
@@ -106,6 +106,56 @@ const KitsSection = ({ addToCart }) => {
       products: [
         "Crema Nutritiva Capilar Chocolate Y Coco 500 mL",
         "Shampoo Natural Romero 280 mL  "
+      ]
+    },
+    { 
+      id: 9,
+      name: "KIT CUIDADO FACIAL PIELES DELICADAS",
+      price: "$163.700",
+      description: "Kit de cuidado facial completo para pieles delicadas Este kit contiene una Fórmula con ingredientes bio-activos que hidratan, nutren, protegen y suavizan la piel regenerando y mejorando su apariencia. Evita la pérdida de agua, Ideal para todo tipo de piel, especialmente piel delicada, con barros y/o espinillas.",
+      image: "/images/KitsTOHB/kistCuidadoFacialCompletoPielDelicada.jpg",
+      products: [
+        "Complejo Revitalizante 60 mL",
+        "Protector solar",
+        "Mascarilla Facial Caléndula y manzanilla 60 g",
+        "Jabón facial Purify para el Acné"
+      ]
+    },
+    { 
+      id: 10,
+      name: "KIT CUIDADO FACIAL PIELES MADURAS",
+      price: "$139800",
+      description: "kit de cuidado facial para pieles madurasEste kit Humecta, nutre, suaviza y combate los radicales libres que ocasionan el envejecimiento prematuro, previniendo la aparición de arrugas y atenuando las líneas de expresión. Ayuda a unificar el tono de la piel y a mejorar la textura incrementando su firmeza y elasticidad. Para todo tipo de piel, especialmente piel seca o madura.",
+      image: "/images/KitsTOHB/kitCuidadoFacialPielMadura.jpg",
+      products: [
+        "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
+        "Jabón de Arroz",
+        "Protector solar"
+      ]
+    },
+    { 
+      id: 11,
+      name: "KIT CUIDADO FACIAL PARA HOMBRES",
+      price: "$115800",
+      description: "Kit de cuidado facial para hombre Este kit Enriquecido con ingredientes activos naturales que ayudan a mantener la piel hidratada, contiene caléndula para evitar la irritación.",
+      image: "/images/KitsTOHB/kitCuidadoFacialHombre.jpg",
+      products: [
+        "Desodorante Natural Té Verde 60 mL",
+        "Protector solar",
+        "Jabón Shaving Coral - Para afeitar"
+      ]
+    },
+    { 
+      id: 11,
+      name: "KIT CUIDADO MIXTO PRESENTACION SOLIDA",
+      price: "$80000",
+      description: "Kit de cuidado mixto en presentación solida Este kit Enriquecido con ingredientes activos naturales que proporciona un suave pero profundo efecto exfoliante dejando la piel regenerada y libre de impurezas, gracias a sus componentes orgánicos.",
+      image: "/images/KitsTOHB/kitCuidadoMixto.jpg",
+      products: [
+        "Shampoo Caída solido",
+        "Jabón corporal de café",
+        "Jabón exfoliante: Café y Canela",
+        "Crema Humectante Sólida"
       ]
     }
   ];

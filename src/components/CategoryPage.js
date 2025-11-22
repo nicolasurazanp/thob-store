@@ -66,7 +66,7 @@ const CategoryPage = ({ addToCart }) => {
             { id: 46, name: "Crema Facial con Aloe Vera y Pepino 60 mL", brand: "TOHB", price: 49900, image: "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg" },
             { id: 47, name: "Jabón de rostro carbón activado", brand: "TOHB", price: 12000, image: "/images/CuidadoCorporal/CuidadoCorporalDetalle/jabonRostroCarbonActivado.jpg" },
         ],
-         "maquillaje": [
+    "maquillaje": [
             { id: 48, name: "Brillo Labial Morning Kiss", brand: "TOHB", price: 32000, image: "/images/Maquillaje/brilloLabial.jpg" },
             { id: 49, name: "Corrector Facial Piel Canela - Toffee", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png" },
             { id: 50, name: "Corrector Facial Tono Medio - Latte", brand: "TOHB", price: 42000, image: "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png" },
@@ -82,6 +82,19 @@ const CategoryPage = ({ addToCart }) => {
             { id: 60, name: "Recarga Polvo Matificante Latte", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvolatte.webp" },
             { id: 61, name: "Recarga Polvo Matificante Toffe", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvotoffe.webp" },
             { id: 62, name: "Recarga Polvo Matificante Vainilla", brand: "TOHB", price: 21000, image: "/images/Maquillaje/recargapolvovainilla.webp" }
+        ],
+        "kits": [
+            { id: 63, name: "Kit Rutina de Cuidado Facial Esencial para piel delicada", brand: "TOHB", price: 152700, image: "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel delicada.jpeg" },
+            { id: 64, name: "Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta", brand: "TOHB", price: 146700, image: "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta.jpeg" },
+            { id: 65, name: "Kit Rutina de Cuidado Facial Esencial para piel seca", brand: "TOHB", price: 149700, image: "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel seca.jpeg" },
+            { id: 66, name: "KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1", brand: "TOHB", price: 91500, image: "/images/KitsTOHB/KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1.jpeg" },
+            { id: 67, name: "KIT LUCE HERMOSA EN SOLO 3 PASOS", brand: "TOHB", price: 141000, image: "/images/KitsTOHB/KIT LUCE HERMOSA EN SOLO 3 PASOS.jpg" },
+            { id: 68, name: "KIT RUTINA FACIAL AVANZADO", brand: "TOHB", price: 304700, image: "/images/KitsTOHB/Kit Rutina Facil Avanzado.jpg" },
+            { id: 69, name: "KIT CUIDADO CAPILAR", brand: "TOHB", price: 93800, image: "/images/KitsTOHB/kit Cuidado Capilar.jpg" },
+            { id: 70, name: "KIT CUIDADO FACIAL PIELES DELICADAS", brand: "TOHB", price: 163700, image: "/images/KitsTOHB/kistCuidadoFacialCompletoPielDelicada.jpg" },
+            { id: 71, name: "KIT CUIDADO FACIAL PIELES MADURAS", brand: "TOHB", price: 139800, image: "/images/KitsTOHB/kitCuidadoFacialPielMadura.jpg" },
+            { id: 72, name: "KIT CUIDADO FACIAL PARA HOMBRES", brand: "TOHB", price: 115800, image: "/images/KitsTOHB/kitCuidadoFacialHombre.jpg" },
+            { id: 73, name: "KIT CUIDADO MIXTO PRESENTACION SOLIDA", brand: "TOHB", price: 80000, image: "/images/KitsTOHB/kitCuidadoMixto.jpg" }
         ],
         // Agregar más categorías...
     }), []); 
@@ -137,11 +150,23 @@ const CategoryPage = ({ addToCart }) => {
                             className="product-card"
                             onClick={() => handleProductClick(product.id)}
                         >
-                            <img src={product.image} alt={product.name} />
-                            <h4>{product.name}</h4>
-                            <p>{product.brand}</p>
-                            <p>Desde: {formatCOP(product.price)}</p>
-                            <button className="details-btn">Ver Detalles</button>
+                                    <img src={product.image} alt={product.name} />
+                                    <h4>{product.name}</h4>
+                                    <p>{product.brand}</p>
+                                    <p>Desde: {formatCOP(product.price)}</p>
+                                    <div className="product-actions">
+                                        <button
+                                            className="add-btn"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                // Añadir al carrito con la forma esperada
+                                                addToCart({ id: product.id, name: product.name, price: product.price, image: product.image, quantity: 1 });
+                                            }}
+                                        >
+                                            Agregar
+                                        </button>
+                                        <button className="details-btn">Ver Detalles</button>
+                                    </div>
                         </div>
                     ))
                 )}

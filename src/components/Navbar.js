@@ -38,6 +38,7 @@ const Navbar = ({ cartItems }) => {
               <Link to="/cuidado-capilar">Cuidado Capilar</Link>
               <Link to="/cuidado-corporal">Cuidado Corporal</Link>
               <Link to="/cuidado-facial">Cuidado Facial</Link>
+              <Link to="/kits">Kits</Link>
               <Link to="/maquillaje">Maquillaje</Link>
             </div>
           )}

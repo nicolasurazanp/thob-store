@@ -548,8 +548,15 @@ import Reviews from './Reviews'; // Importamos el componente de las reseñas
                     <h3>Descripción:</h3>
                     <p>{product.description}</p>
 
-                    <h3>Modo de uso:</h3>
-                    <p>{product.usage}</p>
+                    {/* Mostrar 'Modo de uso' como un segundo título inmediatamente después de la descripción
+                        (se renderiza siempre que exista product.usage). Esto coloca el encabezado y el texto
+                        dentro del mismo bloque de descripción, no en un div separado. */}
+                    {product.usage && (
+                        <>
+                            <h3>Modo de uso:</h3>
+                            <p>{product.usage}</p>
+                        </>
+                    )}
                 </div>
             </div>
 

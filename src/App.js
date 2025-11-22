@@ -13,7 +13,6 @@ import AnnouncementBar from './components/AnnouncementBar';
 import CategoryPage from './components/CategoryPage';
 import ProductDetail from './components/ProductDetail';
 import CartPage from './components/CartPage';  // Asegúrate de importar CartPage
-import KitsSection from './components/KitsSection';
 import './App.css';
 
 
@@ -63,7 +62,7 @@ const App = () => {
         <Alert message={alert} onClose={() => setAlert("")} />
         <Navbar cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />
         <Routes>
-          <Route path="/" element={<><Hero /> <FeaturedProducts /> <KitsSection addToCart={addToCart} /> <Categories /> <Reviews /></>} />
+          <Route path="/" element={<><Hero /> <FeaturedProducts /> <Categories /> <Reviews /></>} />
           <Route path="/:category" element={<CategoryPage addToCart={addToCart} />} />
           <Route path="/cart" element={<CartPage cartItems={cart} addToCart={addToCart} removeFromCart={removeFromCart} />} />
           <Route path="/product/:productId" element={<ProductDetail addToCart={addToCart} />} />

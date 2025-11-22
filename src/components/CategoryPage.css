@@ -97,6 +97,42 @@ h2 {
     background-color: #388e3c;
 }
 
+/* Acciones de producto: agregar + detalles */
+.product-card .product-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.product-card .add-btn {
+    background: linear-gradient(90deg, #ff8a42 0%, #ff6b6b 100%);
+    color: #fff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(255,107,107,0.18);
+    transition: transform 0.12s ease, box-shadow 0.12s ease, opacity 0.12s ease;
+}
+
+.product-card .add-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(255,107,107,0.22);
+    opacity: 0.98;
+}
+
+/* Ajustes móviles para el botón agregar */
+@media (max-width: 768px) {
+    .product-card .add-btn {
+        padding: 12px 18px;
+        font-size: 16px;
+    }
+}
+
 /* Ajustes para dispositivos móviles */
 @media (max-width: 768px) {
     /* Aseguramos que las cards se acomoden bien */

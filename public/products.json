@@ -10,7 +10,7 @@
       "/images/CuidadoCapilar/CREMA-CAPILAR-CACAO.png",
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/NUTRITIVA-CAPILAR-CACAO-700x700.png"
     ],
-      "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -37,7 +37,7 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
+  {
     "id": "3",
     "title": "Shampoo Natural Coco y Almendras 280 mL",
     "price": 40900,
@@ -95,14 +95,15 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-{
+  {
     "id": "6",
     "title": "Acondicionador Solido",
     "price": 24000,
     "image": "//images/CuidadoCapilar/CuidadoCapilarDetalle/acondicionador.webp",
-    "description":[ "El más aclamado por todos ustedes ha llegado.",
-    "Nuestro acondicionador sólido esta diseñado para dejar tu cabello suave para un cepillado sin fricción, ¿lo mejor? no contamina, no esta diseñado con BTMs  y nos aseguramos que sus compuestos no contaminarán la vida marina.",
-    "Sentiras la suavidad desde su primer uso"
+    "description": [
+      "El más aclamado por todos ustedes ha llegado.",
+      "Nuestro acondicionador sólido esta diseñado para dejar tu cabello suave para un cepillado sin fricción, ¿lo mejor? no contamina, no esta diseñado con BTMs  y nos aseguramos que sus compuestos no contaminarán la vida marina.",
+      "Sentiras la suavidad desde su primer uso"
     ],
     "usage": "Solo debes aplicarlo de raíz a punta (si tienes cabello seco) o de medio a punta (si tienes cabello con tendencia grasa), dejar reposar por 1 mínuto y procedes a enjuagar.",
     "storage": "Mantener seco entre usos. Recomendamos guardar el acondicionador Oiris en una jabonera con buen drenaje.",
@@ -123,7 +124,7 @@
     "title": "Cera Para Peinar",
     "price": 12000,
     "image": "/images/CuidadoCapilar/CuidadoCapilarDetalle/CeraParaPeinarOiris-1_720x.webp",
-    "description":"Nuestra cera para peinar es 100% natural y contiene cera de abejas. Está hecha específicamente para nutrir tu cabello y dejarlo brillante al peinarse. Todos pueden usarlo, porque este producto es unisex.",
+    "description": "Nuestra cera para peinar es 100% natural y contiene cera de abejas. Está hecha específicamente para nutrir tu cabello y dejarlo brillante al peinarse. Todos pueden usarlo, porque este producto es unisex.",
     "usage": "Para usarlo, frota la cera 100% natural con las manos hasta derretirla. Cuando obtengas la cantidad deseada aplica sobre el cabello ligeramente húmedo.",
     "ingredients": "Cera de abeja, Manteca de cacao, Aceite de ricino, Aceite de coco, Aceite de almendras. alcohol cetearílico (derivado natural de los aceites).",
     "images": [
@@ -139,17 +140,16 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
+  {
     "id": "8",
     "title": "Shampoo Rise & Shine Verde Romero (Anticaspa)",
     "price": 24000,
     "image": "/images/CuidadoCapilar/CuidadoCapilarDetalle/shampooAnticaspa2Image.jpeg",
-    "description":"¡Libérate de la caspa de forma natural con el Shampoo Rise & Shine Verde Romero! Gracias al Aceite de Ricino, Romero y Flor de Sauco que humectan tu cuero cabelludo y controlan los microorganismos causantes de la caspa.",
+    "description": "¡Libérate de la caspa de forma natural con el Shampoo Rise & Shine Verde Romero! Gracias al Aceite de Ricino, Romero y Flor de Sauco que humectan tu cuero cabelludo y controlan los microorganismos causantes de la caspa.",
     "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
     "images": [
       "/images/CuidadoCapilar/CuidadoCapilarDetalle/shampooAnticaspa2Image.jpeg",
       "/images/CuidadoCapilar/ShampooAnticaspaSolo_720x.webp"
-
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -159,16 +159,15 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
+  {
     "id": "9",
     "title": "Champú Sólido de Naranja",
     "price": 16000,
     "image": "/images/CuidadoCapilar/ChampuNaranjaOiris40gr_540x.webp",
-    "description":"Champú sólido 100% natural esta diseñado para restaurar la suavidad y el brillo de tu cabello. Este champú dejará un ligero olor a naranja y es ideal para cabellos grasos, voluminosos, opacos y ásperos. La arcilla blanca en este champú es perfecta para balancear la el cebo en el cabello graso, y cuando se combina con el polvo de naranja desencadenan propiedades desenredantes. El aceite de coco ayuda a fortalecer el cabello dañado y le da brillo. El aceite de ricino estimula el crecimiento del cabello.",
+    "description": "Champú sólido 100% natural esta diseñado para restaurar la suavidad y el brillo de tu cabello. Este champú dejará un ligero olor a naranja y es ideal para cabellos grasos, voluminosos, opacos y ásperos. La arcilla blanca en este champú es perfecta para balancear la el cebo en el cabello graso, y cuando se combina con el polvo de naranja desencadenan propiedades desenredantes. El aceite de coco ayuda a fortalecer el cabello dañado y le da brillo. El aceite de ricino estimula el crecimiento del cabello.",
     "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
     "images": [
       "/images/CuidadoCapilar/ChampuNaranjaOiris40gr_540x.webp"
-
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -183,11 +182,10 @@
     "title": "Shampoo Rise & Shine Azabache Laurel",
     "price": 25000,
     "image": "/images/CuidadoCapilar/cabelloGraso.jpg",
-    "description":" Limpia profundamente tu cabello con el Shampoo Cabello Graso. Con Aceite de Coco, Carbón Activado de Coco y Laurel que te ayudan a regular la grasa de tu cuero cabelludo.",
+    "description": " Limpia profundamente tu cabello con el Shampoo Cabello Graso. Con Aceite de Coco, Carbón Activado de Coco y Laurel que te ayudan a regular la grasa de tu cuero cabelludo.",
     "usage": "Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
     "images": [
       "/images/CuidadoCapilar/cabelloGraso.jpg"
-
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -197,17 +195,15 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
-   {
+  {
     "id": "11",
     "title": "Shampoo Caída",
     "price": 37000,
     "image": "/images/CuidadoCapilar/ShampooCaida.jpg",
-    "description":"  ¡Fortalece tu cabello y limpia delicadamente con el Shampoo Caída! Cargado de Aceite de Argán, Flor de Cayeno y Arcilla Roja que milenariamente nutren tus folículos pilosos, refuerzan tus hebras capilares y te ayudan a devolver el vigor a tu cabello.",
+    "description": "  ¡Fortalece tu cabello y limpia delicadamente con el Shampoo Caída! Cargado de Aceite de Argán, Flor de Cayeno y Arcilla Roja que milenariamente nutren tus folículos pilosos, refuerzan tus hebras capilares y te ayudan a devolver el vigor a tu cabello.",
     "usage": "  Humedecer el cabello y frotar la barra húmeda entre las manos para generar espuma. Masajear el cabello con la espuma o deslizar la barra directamente sobre el cabello. Enjuagar con abundante agua.",
     "images": [
       "/images/CuidadoCapilar/ShampooCaida.jpg"
-
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -217,11 +213,9 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-  
-   {
-     "_comment": "Fin Categoria Capilar - Inicio Categoria Corporal"
-   },
-
+  {
+    "_comment": "Fin Categoria Capilar - Inicio Categoria Corporal"
+  },
   {
     "id": "12",
     "title": "Desodorante Natural Té Verde 60mL",
@@ -300,7 +294,7 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
- {
+  {
     "id": "16",
     "title": "Jabón Corporal Avena g",
     "price": 10000,
@@ -319,7 +313,7 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
+  {
     "id": "17",
     "title": "Jabón Corporal De Café ",
     "price": 10000,
@@ -339,8 +333,7 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
- 
-{
+  {
     "id": "18",
     "title": "Crema Humectante Sólida",
     "price": 20000,
@@ -358,7 +351,6 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
   {
     "id": "19",
     "title": "Jabón exfoliante De Limón y Amapola",
@@ -377,7 +369,6 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
   {
     "id": "20",
     "title": "Jabón exfoliante De Café y Canela",
@@ -396,20 +387,20 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
-{
-  "_comment": "Fin Categoria Corporal - Inicio Categoria Facial"
-},
-
+  {
+    "_comment": "Fin Categoria Corporal - Inicio Categoria Facial"
+  },
   {
     "id": "21",
-    "title": "Jabón Artesanal Arroz 100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel seca.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
+    "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
+    "price": 73900,
+    "image": "/images/CuidadoFacial/Detalle/protector.jpg",
+    "description": "Que nunca te falte en tu rutina diaria la protección de tu piel, cuídala de manera natural. Su fórmula con ingredientes activos naturales de origen vegetal y mineral es de fácil absorción. Actúa como una barrera física brindando una adecuada protección solar contra los rayos UVA / UVB y/o cualquier fuente de luz  artificial, cuidándote sin ocasionar efectos secundarios. Protege y suaviza la piel. Ideal Para todo Tipo de piel.",
+    "usage": "Aplicar en el rostro y cuello una fina capa del protector solar y masajear hasta su completa absorción.",
     "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png"
+      "/images/CuidadoFacial/Detalle/protector.jpg",
+      "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
+      "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -421,13 +412,14 @@
   },
   {
     "id": "22",
-    "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada, con barros y/o espinillas.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
+    "title": "Mascarilla Aloe Vera 60 mL",
+    "price": 19900,
+    "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
+    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro ",
+    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjuagar con abundante agua.",
     "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png"
+      "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
+      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -439,13 +431,14 @@
   },
   {
     "id": "23",
-    "title": "Jabón Artesanal Aloe Vera  100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
+    "title": "Mascarilla Calendula Y Manzanilla 60mL",
+    "price": 19900,
+    "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
+    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro! ",
+    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
     "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png"
+      "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
+      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -457,15 +450,15 @@
   },
   {
     "id": "24",
-    "title": "Crema Contorno Ojos con Ácido Hialurónico 30 mL",
-    "price": 79900,
-    "image": "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
-    "description": "Sus ingredientes activos incrementan la producción de colágeno y elastina nutriendo, hidratando y suavizando la delicada piel del contorno de los ojos, previniendo y reduciendo arrugas, ojeras y líneas de expresión.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en el área de los ojos con suaves masajes de afuera hacia adentro. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
+    "price": 73900,
+    "image": "/images/CuidadoFacial/Detalle/protector.jpg",
+    "description": "Que nunca te falte en tu rutina diaria la protección de tu piel, cuídala de manera natural. Su fórmula con ingredientes activos naturales de origen vegetal y mineral es de fácil absorción. Actúa como una barrera física brindando una adecuada protección solar contra los rayos UVA / UVB y/o cualquier fuente de luz  artificial, cuidándote sin ocasionar efectos secundarios. Protege y suaviza la piel. Ideal Para todo Tipo de piel.",
+    "usage": "Aplicar en el rostro y cuello una fina capa del protector solar y masajear hasta su completa absorción.",
     "images": [
-      "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
-      "/images/CuidadoFacial/Detalle/contorno de ojos.jpg",
-      "/images/CuidadoFacial/Detalle/CREMA-CONTORNO-DE-OJOS-CON-ACIDO-HIALURONICO.png"
+      "/images/CuidadoFacial/Detalle/protector.jpg",
+      "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
+      "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -477,15 +470,14 @@
   },
   {
     "id": "25",
-    "title": "Crema Regeneradora con Complejos de Aminoácidos 50 mLL",
-    "price": 99900,
-    "image": "/images/CuidadoFacial/Detalle/regeneradora.jpg",
-    "description": "Enriquecida con ácido hialurónico de origen vegano, un poderoso complejo de aminoácidos esenciales, extracto de uchuva, vitamina E y aloe vera, ingredientes que nutren y restauran la barrera protectora de la piel. Hidrata, nutre, regenera y suaviza las líneas de expresión.",
+    "title": "Sérum Antiedad 30 mL",
+    "price": 64900,
+    "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
+    "description": "Formulación con Colágeno y Elastina que ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
     "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
     "images": [
-      "/images/CuidadoFacial/Detalle/regeneradora.jpg",
-      "/images/CuidadoFacial/Detalle/CREMA-REGENERADORA-1.png",
-      "/images/CuidadoFacial/CREMA-REGENERADORA.png"
+      "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
+      "/images/CuidadoFacial/Detalle/SERUM-ANTIEDAD-1.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -497,16 +489,14 @@
   },
   {
     "id": "26",
-    "title": "Sérum Facial Con Vitamina C Mayakú 50 mL",
-    "price": 124900,
-    "image": "/images/CuidadoFacial/Detalle/serum.jpg",
-    "description": "Suero facial a base de extractos botánicos, ácido hialurónico y vitamina C liposomada de última generación rica en antioxidantes que protegen las células cutáneas de los radicales libres.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente el Sérum antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "title": "Tónico Natural Rosas 120 mL",
+    "price": 31900,
+    "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
+    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para todo tipo de piel",
+    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
     "images": [
-      "/images/CuidadoFacial/Detalle/serum.jpg",
-      "/images/CuidadoFacial/Detalle/DERMATOLOGICA.jpg",
-      "/images/CuidadoFacial/Detalle/VITAMINA C.jpg",
-      "/images/CuidadoFacial/SERUM-VITAMINA-C.png"
+      "/images/CuidadoFacial/TONICO-ROSAS.png",
+      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -518,14 +508,14 @@
   },
   {
     "id": "27",
-    "title": "Leche Desmaquilladora Arroz 120 mL",
-    "price": 37900,
-    "image": "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza. Ideal para piel seca",
-    "usage": "Aplicar todas las noches sobre el rostro y el cuello, haciendo masajes circulares, retirar con un algodón o pañito hasta que se retiren todas las impurezas de la piel.",
+    "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
+    "price": 31900,
+    "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
+    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
+    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
     "images": [
-      "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
-      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
+      "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
+      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -537,14 +527,14 @@
   },
   {
     "id": "28",
-    "title": "Leche Desmaquilladora Uva y Argán 120 mL",
-    "price": 37900,
-    "image": "/images/CuidadoFacial/LECHE-UVA.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza.",
-    "usage": "Aplicar todas las noches sobre el rostro y el cuello, haciendo masajes circulares, retirar con un algodón o pañito hasta que se retiren todas las impurezas de la piel.",
+    "title": "Tónico Natural Té Verde 120 mL",
+    "price": 31900,
+    "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
+    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
+    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
     "images": [
-      "/images/CuidadoFacial/LECHE-UVA.png",
-      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
+      "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
+      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -556,14 +546,14 @@
   },
   {
     "id": "29",
-    "title": "Leche Desmaquilladora Perejil 120 mL",
-    "price": 37900,
-    "image": "/images/CuidadoFacial/LECHE-PEREJIL.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza. Ideal para unificar el tono de la piel.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "title": "Pasta Dental Sólida",
+    "price": 27000,
+    "image": "/images/CuidadoFacial/PastaDentalOiris.webp",
+    "description": "Esta pasta sólida (25gr) es el próximo paso más hacia una vida con cero residuos. La arcilla blanca y el carbonato de calcio tienen propiedades purificadoras y limpiadoras que respetan el esmalte de tus dientes. El aceite de coco ayuda a reducir la placa dental. Y  las gotas de menta piperita te dejarán una sensación de frescura. Todos los ingredientes son de origen natural. No apto para mujeres embarazadas y niños menores de 6 años.",
+    "usage": "Humedece el cepillo de dientes y frótalo suavemente en la pasta dental hasta obtener la espuma deseada, lava los dientes y enjuaga. ",
     "images": [
-      "/images/CuidadoFacial/LECHE-PEREJIL.png",
-      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
+      "/images/CuidadoFacial/Detalle/Pasta_dentalq.webp",
+      "/images/CuidadoFacial/PastaDentalOiris.webp"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -575,14 +565,14 @@
   },
   {
     "id": "30",
-    "title": "Leche Limpiadora Caléndula y Manzanilla 120 mL",
-    "price":  42900,
-    "image": "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humectan, nutre y suaviza.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "title": "Jabón De Arroz",
+    "price": 13000,
+    "image": "/images/CuidadoFacial/Detalle/arroz1.webp",
+    "description": "Este Jabón de Arroz de 55 gr, 100% natural y hecho a mano, contiene polvo de arroz como ingrediente principal. El polvo de arroz tiene propiedades antioxidantes, ayuda a iluminar e igualar la tez, a difumina las arrugas, reducir el aspecto de los poros dilatados y ayuda a eliminar manchas. Este jabón Oiris es perfecto para para pieles sensibles, irritadas, con acné o granos e incluso para la piel del bebé.",
+    "usage": "Humedece el rostro,  frota el jabón con las manos hasta obtener un poco de espuma y aplica utilizando las yemas de los dedos.",
     "images": [
-      "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
-      "/images/CuidadoFacial/Detalle/LIMPIADORA-DE-CALENDULA-Y-MANZANILLA.png"
+      "/images/CuidadoFacial/Detalle/arroz1.webp",
+      "/images/CuidadoFacial/JabonArrozOiris_540x.webp"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -594,16 +584,16 @@
   },
   {
     "id": "31",
-    "title": "Mascarilla Aloe Vera 60 mL",
-    "price":  19900,
-    "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
-    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro ",
-    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjuagar con abundante agua.",
+    "title": "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)",
+    "price": 14000,
+    "image": "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
+    "description": "Gracias al Aguacate y Karité, este jabón es un poderoso antioxidante para tu piel. Experimenta todas sus bondades y siente tu piel completamente hidratada y tersa. Con el uso continuo, te ayudará a evitar y disminuir las líneas de expresión.",
+    "usage": "Distribuir el jabón por el rostro. Dejar actuar mínimo durante 2 minutos. Enjuagar con abundante agua.",
     "images": [
-      "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
-      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
+      "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
+      "/images/CuidadoFacial/JabonAntiageNatiu_720x.webp"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -611,18 +601,18 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-    {
+  {
     "id": "32",
-    "title": "Mascarilla Calendula Y Manzanilla 60mL",
-    "price":  19900,
-    "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
-    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro! ",
-    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
+    "title": "Jabón Purify para el Acné (Natiú Artesanal)",
+    "price": 14000,
+    "image": "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
+    "description": "Te ayuda a combatir las bacterias que causan el acné, funciona como un antibiótico natural en tu piel, favorece la limpieza de los poros y regula la producción de las glándulas sebáceas. Es uno de los favoritos Natiú porque te hace sonreír con plena confianza",
+    "usage": "Frotar el jabón en las manos y aplicar la espuma en el rostro. Dejar actuar con suaves masajes. Enjuagar con abundante agua.",
     "images": [
-      "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
-      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
+      "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
+      "/images/CuidadoFacial/JabonPurify1.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -630,19 +620,17 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
+  {
     "id": "33",
-    "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
-    "price":  73900,
-    "image": "/images/CuidadoFacial/Detalle/protector.jpg",
-    "description": "Que nunca te falte en tu rutina diaria la protección de tu piel, cuídala de manera natural. Su fórmula con ingredientes activos naturales de origen vegetal y mineral es de fácil absorción. Actúa como una barrera física brindando una adecuada protección solar contra los rayos UVA / UVB y/o cualquier fuente de luz  artificial, cuidándote sin ocasionar efectos secundarios. Protege y suaviza la piel. Ideal Para todo Tipo de piel.",
-    "usage": "Aplicar en el rostro y cuello una fina capa del protector solar y masajear hasta su completa absorción.",
+    "title": "Jabón Baby (Natiú Artesanal)",
+    "price": 14000,
+    "image": "/images/CuidadoFacial/JabonBaby.jpg",
+    "description": "Con manzanilla y avena, nuestro Jabón Artesanal Baby es un delicado jabón antimicrobiano y es un hidratante natural. Repara las pieles y humecta suavemente, por lo cual es indicado para bebés, niños, adultos mayores y piel muy delicada.",
+    "usage": "Distribuir el jabón por cuerpo y rostro. Dejar actuar durante algunos segundos. Enjuagar con abundante agua.",
     "images": [
-      "/images/CuidadoFacial/Detalle/protector.jpg",
-      "/images/CuidadoFacial/Detalle/PROTECTOR-SOLAR.png",
-      "/images/CuidadoFacial/PROTECTOR-SOLAR-80.png"
+      "/images/CuidadoFacial/JabonBaby.jpg"
     ],
- "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -650,18 +638,18 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
+  {
     "id": "34",
-    "title": "Sérum Antiedad 30 mL",
-    "price":  64900,
-    "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
-    "description": "Formulación con Colágeno y Elastina que ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
+    "title": "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)",
+    "price": 14000,
+    "image": "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
+    "description": "El Jabón Shaving Coral está indicado para rasurar cualquier zona de la piel, incluyendo zona íntima. Ideal para reemplazar cualquier espuma sintética que utilices para afeitar ya que te deja la piel suave e hidratada, como si utilizaras after shave o crema hidratante.",
+    "usage": "Humedecer el jabón y frotar hasta hacer suficiente espuma. Aplicar la espuma sobre el área a tratar. Deslizar la cuchilla suavemente y repetir la acción si es necesario. Al finalizar, aplicar nuevamente abundante espuma y enjuagar.",
     "images": [
-      "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
-      "/images/CuidadoFacial/Detalle/SERUM-ANTIEDAD-1.png"
+      "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
+      "/images/CuidadoFacial/JabonCoralDepilar1.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -671,16 +659,16 @@
   },
   {
     "id": "35",
-    "title": "Tónico Natural Rosas 120 mL",
-    "price":  31900,
-    "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
-    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para todo tipo de piel",
-    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
+    "title": "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
+    "price": 52900,
+    "image": "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
+    "description": "Humecta, nutre, suaviza y combate los radicales libres que ocasionan el envejecimiento prematuro, previniendo la aparición de arrugas y atenuando las líneas de expresión. Ayuda a unificar el tono de la piel y a mejorar la textura incrementando su firmeza y elasticidad. Para todo tipo de piel, especialmente piel seca o madura.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
     "images": [
-      "/images/CuidadoFacial/TONICO-ROSAS.png",
-      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
+      "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
+      "/images/CuidadoFacial/Detalle/Crema Facial con Ácido Hialurónico y Colágeno 60 mL 2 Detalle.jpeg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -690,111 +678,16 @@
   },
   {
     "id": "36",
-    "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
-    "price":  31900,
-    "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
-    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
-    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
+    "title": "Complejo Revitalizante 60 mL",
+    "price": 55900,
+    "image": "/images/CuidadoFacial/Complejo1.jpeg",
+    "description": "Fórmula con ingredientes bio-activos que hidratan, nutren, protegen y suavizan la piel regenerando y mejorando su apariencia. Evita la pérdida de agua. Ideal para todo tipo de piel, especialmente piel delicada, con barros y/o espinillas.",
+    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
     "images": [
-      "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
-      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
+      "/images/CuidadoFacial/Complejo1.jpeg",
+      "/images/CuidadoFacial/Detalle/Complejo2.jpeg"
     ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-   {
-    "id": "37",
-    "title": "Tónico Natural Té Verde 120 mL",
-    "price":  31900,
-    "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
-    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
-    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
-    "images": [
-      "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
-      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-   {
-    "id": "38",
-    "title": "Pasta Dental Sólida",
-    "price":  27000,
-    "image": "/images/CuidadoFacial/PastaDentalOiris.webp",
-    "description": "Esta pasta sólida (25gr) es el próximo paso más hacia una vida con cero residuos. La arcilla blanca y el carbonato de calcio tienen propiedades purificadoras y limpiadoras que respetan el esmalte de tus dientes. El aceite de coco ayuda a reducir la placa dental. Y  las gotas de menta piperita te dejarán una sensación de frescura. Todos los ingredientes son de origen natural. No apto para mujeres embarazadas y niños menores de 6 años.",
-    "usage": "Humedece el cepillo de dientes y frótalo suavemente en la pasta dental hasta obtener la espuma deseada, lava los dientes y enjuaga. ",
-    "images": [
-      "/images/CuidadoFacial/Detalle/Pasta_dentalq.webp",
-      "/images/CuidadoFacial/PastaDentalOiris.webp"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-{
-    "id": "39",
-    "title": "Jabón De Arroz",
-    "price":  13000,
-    "image": "/images/CuidadoFacial/Detalle/arroz1.webp",
-    "description": "Este Jabón de Arroz de 55 gr, 100% natural y hecho a mano, contiene polvo de arroz como ingrediente principal. El polvo de arroz tiene propiedades antioxidantes, ayuda a iluminar e igualar la tez, a difumina las arrugas, reducir el aspecto de los poros dilatados y ayuda a eliminar manchas. Este jabón Oiris es perfecto para para pieles sensibles, irritadas, con acné o granos e incluso para la piel del bebé.",
-    "usage": "Humedece el rostro,  frota el jabón con las manos hasta obtener un poco de espuma y aplica utilizando las yemas de los dedos.",
-    "images": [
-      "/images/CuidadoFacial/Detalle/arroz1.webp",
-      "/images/CuidadoFacial/JabonArrozOiris_540x.webp"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-{
-    "id": "40",
-    "title": "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)",
-    "price":  14000,
-    "image": "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
-    "description": "Gracias al Aguacate y Karité, este jabón es un poderoso antioxidante para tu piel. Experimenta todas sus bondades y siente tu piel completamente hidratada y tersa. Con el uso continuo, te ayudará a evitar y disminuir las líneas de expresión.",
-    "usage": "Distribuir el jabón por el rostro. Dejar actuar mínimo durante 2 minutos. Enjuagar con abundante agua.",
-    "images": [
-      "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
-      "/images/CuidadoFacial/JabonAntiageNatiu_720x.webp"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-{
-    "id": "41",
-    "title": "Jabón Purify para el Acné (Natiú Artesanal)",
-    "price":  14000,
-    "image": "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
-    "description": "Te ayuda a combatir las bacterias que causan el acné, funciona como un antibiótico natural en tu piel, favorece la limpieza de los poros y regula la producción de las glándulas sebáceas. Es uno de los favoritos Natiú porque te hace sonreír con plena confianza",
-    "usage": "Frotar el jabón en las manos y aplicar la espuma en el rostro. Dejar actuar con suaves masajes. Enjuagar con abundante agua.",
-    "images": [
-      "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
-      "/images/CuidadoFacial/JabonPurify1.jpg"
-    ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -803,84 +696,9 @@
     }
   },
   {
-    "id": "42",
-    "title": "Jabón Baby (Natiú Artesanal)",
-    "price":  14000,
-    "image": "/images/CuidadoFacial/JabonBaby.jpg",
-    "description": "Con manzanilla y avena, nuestro Jabón Artesanal Baby es un delicado jabón antimicrobiano y es un hidratante natural. Repara las pieles y humecta suavemente, por lo cual es indicado para bebés, niños, adultos mayores y piel muy delicada.",
-    "usage": "Distribuir el jabón por cuerpo y rostro. Dejar actuar durante algunos segundos. Enjuagar con abundante agua.",
-    "images": [
-      "/images/CuidadoFacial/JabonBaby.jpg"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-    {
-    "id": "43",
-    "title": "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)",
-    "price":  14000,
-    "image": "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
-    "description": "El Jabón Shaving Coral está indicado para rasurar cualquier zona de la piel, incluyendo zona íntima. Ideal para reemplazar cualquier espuma sintética que utilices para afeitar ya que te deja la piel suave e hidratada, como si utilizaras after shave o crema hidratante.",
-    "usage": "Humedecer el jabón y frotar hasta hacer suficiente espuma. Aplicar la espuma sobre el área a tratar. Deslizar la cuchilla suavemente y repetir la acción si es necesario. Al finalizar, aplicar nuevamente abundante espuma y enjuagar.",
-    "images": [
-      "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
-      "/images/CuidadoFacial/JabonCoralDepilar1.jpg"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-    {
-    "id": "44",
-    "title": "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
-    "price":  52900,
-    "image": "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
-    "description": "Humecta, nutre, suaviza y combate los radicales libres que ocasionan el envejecimiento prematuro, previniendo la aparición de arrugas y atenuando las líneas de expresión. Ayuda a unificar el tono de la piel y a mejorar la textura incrementando su firmeza y elasticidad. Para todo tipo de piel, especialmente piel seca o madura.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
-      "/images/CuidadoFacial/Detalle/Crema Facial con Ácido Hialurónico y Colágeno 60 mL 2 Detalle.jpeg"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-{
-    "id": "45",
-    "title": "Complejo Revitalizante 60 mL",
-    "price":  55900,
-    "image": "/images/CuidadoFacial/Complejo1.jpeg",
-    "description": "Fórmula con ingredientes bio-activos que hidratan, nutren, protegen y suavizan la piel regenerando y mejorando su apariencia. Evita la pérdida de agua. Ideal para todo tipo de piel, especialmente piel delicada, con barros y/o espinillas.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/Complejo1.jpeg",
-      "/images/CuidadoFacial/Detalle/Complejo2.jpeg"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-{
-    "id": "46",
+    "id": "37",
     "title": "Crema Facial con Aloe Vera y Pepino 60 mL",
-    "price":  49900,
+    "price": 49900,
     "image": "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg",
     "description": "Enriquecida con ingredientes activos naturales que permiten recuperar la humedad natural de la piel y devolver su suavidad, luminosidad, firmeza y tersura. Ayuda a atenuar líneas de expresión, fortalecer la barrera cutánea y unificar el tono de la piel. Ideal para piel mixta y/o grasa.",
     "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
@@ -888,7 +706,7 @@
       "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg",
       "/images/CuidadoFacial/Detalle/CremaFacialAloeVeraYPepino2.jpeg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -896,9 +714,8 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
-   {
-    "id": "47",
+  {
+    "id": "38",
     "title": "Jabón de rostro carbón activado",
     "price": 12000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/jabonRostroCarbonActivado.jpg",
@@ -915,14 +732,13 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-
-   {
-  "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
-},
-   {
-    "id": "48",
+  {
+    "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
+  },
+  {
+    "id": "39",
     "title": "Brillo Labial Morning Kiss",
-    "price":  32000,
+    "price": 32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
     "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
     "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
@@ -931,7 +747,7 @@
       "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -939,10 +755,10 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "49",
+  {
+    "id": "40",
     "title": "Corrector Facial Piel Canela - Toffee",
-    "price":  42000,
+    "price": 42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
     "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa. ",
     "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
@@ -951,7 +767,7 @@
       "/images/Maquillaje/Detalle/Detalle3Maquillaje.png",
       "/images/Maquillaje/Detalle/Detalle4Maquillaje.png"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -959,10 +775,10 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "50",
+  {
+    "id": "41",
     "title": "Corrector Facial Tono Medio - Latte",
-    "price":  42000,
+    "price": 42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
     "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa. ",
     "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
@@ -971,7 +787,7 @@
       "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -980,9 +796,9 @@
     }
   },
   {
-    "id": "51",
+    "id": "42",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
-    "price":  42000,
+    "price": 42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
     "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa.",
     "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
@@ -991,7 +807,7 @@
       "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1000,9 +816,9 @@
     }
   },
   {
-    "id": "52",
+    "id": "43",
     "title": "Polvo Matificante",
-    "price":  42000,
+    "price": 42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
     "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
     "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
@@ -1012,7 +828,7 @@
       "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1021,9 +837,9 @@
     }
   },
   {
-    "id": "53",
+    "id": "44",
     "title": "Polvo Matificante Latte",
-    "price":  42000,
+    "price": 42000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
     "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
     "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
@@ -1033,7 +849,7 @@
       "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1042,9 +858,9 @@
     }
   },
   {
-    "id": "54",
+    "id": "45",
     "title": "Polvo Matificante Vainilla",
-    "price":  42000,
+    "price": 42000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
     "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
     "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
@@ -1054,7 +870,7 @@
       "/images/Maquillaje/Detalle/Detalle6Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle7Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1063,9 +879,9 @@
     }
   },
   {
-    "id": "55",
+    "id": "46",
     "title": "Hidratante y Protector Labial Frutos Rojos",
-    "price":  13900,
+    "price": 13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
     "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
     "usage": "Aplicar una capa fina en los labios, varias veces al día.",
@@ -1074,7 +890,7 @@
       "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg",
       "/images/Maquillaje/Detalle/Detalle9Maquillaje.png"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1082,10 +898,10 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "56",
+  {
+    "id": "47",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
-    "price":  13900,
+    "price": 13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
     "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
     "usage": "Aplicar una capa fina en los labios, varias veces al día.",
@@ -1093,7 +909,7 @@
       "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
       "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1101,10 +917,10 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-    {
-    "id": "57",
+  {
+    "id": "48",
     "title": "Hidratante y Protector Labial Menta ",
-    "price":  13900,
+    "price": 13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
     "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
     "usage": "Aplicar una capa fina en los labios, varias veces al día.",
@@ -1112,7 +928,7 @@
       "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
       "/images/Maquillaje/Detalle/Detalle8Maquillaje.jpg"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1120,21 +936,21 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-     {
-    "id": "58",
+  {
+    "id": "49",
     "title": "Rubor Rosa",
-    "price":  49500,
+    "price": 49500,
     "image": "/images/Maquillaje/RuborRosa.png",
     "description": "El Rubor Chirpy Makeup que define su rostro y aporta un aspecto radiante y saludable. Su textura aterciopelada brinda a la piel un acabado natural, formulado con aceites de ricino y jojoba que nutren y suavizan la piel, evitando sequedad, fecula de maíz que garantiza una larga duración en el rostro con un acabado fresco y natural. Tono Rosa",
     "ingredients": "Aceite de ricino, aceite de jojoba, fecula de maiz, acido estearico, vitamina e, oxido de zinc, benzoato de sodio y óxidos de hierro (pigmentos minerales).",
-    "caracteristics":"Rubor elaborado con ingredientes de origen natural, 100% veganos, libres de crueldad animal y con envases eco conscientes.",
-    "usage":"Aplicar uniformemente sobre el rostro, puede usarse como sombra, rubor y labial a toquecitos.Aplicando la barra directamente sobre el rostro o con los dedos para activar el producto, difuminar con los dedos o con brocha.",
+    "caracteristics": "Rubor elaborado con ingredientes de origen natural, 100% veganos, libres de crueldad animal y con envases eco conscientes.",
+    "usage": "Aplicar uniformemente sobre el rostro, puede usarse como sombra, rubor y labial a toquecitos.Aplicando la barra directamente sobre el rostro o con los dedos para activar el producto, difuminar con los dedos o con brocha.",
     "images": [
       "/images/Maquillaje/RuborRosa.png",
       "/images/Maquillaje/Detalle/Detalle10Maquillaje.png",
       "/images/Maquillaje/Detalle/RuborRosa2.png"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1142,21 +958,21 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "59",
+  {
+    "id": "50",
     "title": "Rubor tono coral",
-    "price":  49500,
+    "price": 49500,
     "image": "/images/Maquillaje/RuborCoral.png",
     "description": "El Rubor Chirpy Makeup que define su rostro y aporta un aspecto radiante y saludable. Su textura aterciopelada brinda a la piel un acabado natural, formulado con aceites de ricino y jojoba que nutren y suavizan la piel, evitando sequedad, fecula de maíz que garantiza una larga duración en el rostro con un acabado fresco y natural. Tono Coral",
     "ingredients": "Aceite de ricino, aceite de jojoba, fecula de maiz, acido estearico, vitamina e, oxido de zinc, benzoato de sodio y óxidos de hierro (pigmentos minerales).",
-    "caracteristics":"Rubor elaborado con ingredientes de origen natural, 100% veganos, libres de crueldad animal y con envases eco conscientes.",
-    "usage":"Aplicar uniformemente sobre el rostro, puede usarse como sombra, rubor y labial a toquecitos.Aplicando la barra directamente sobre el rostro o con los dedos para activar el producto, difuminar con los dedos o con brocha.",
+    "caracteristics": "Rubor elaborado con ingredientes de origen natural, 100% veganos, libres de crueldad animal y con envases eco conscientes.",
+    "usage": "Aplicar uniformemente sobre el rostro, puede usarse como sombra, rubor y labial a toquecitos.Aplicando la barra directamente sobre el rostro o con los dedos para activar el producto, difuminar con los dedos o con brocha.",
     "images": [
       "/images/Maquillaje/RuborCoral.png",
       "/images/Maquillaje/Detalle/Detalle10Maquillaje.png",
       "/images/Maquillaje/Detalle/RuborCoral2.png"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1164,19 +980,19 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "60",
+  {
+    "id": "51",
     "title": "Recarga Polvo Matificante Latte",
-    "price":  21000,
+    "price": 21000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
     "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
     "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
-    "caracteristics":"Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
-    "usage":"Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "caracteristics": "Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
+    "usage": "Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
     "images": [
       "/images/Maquillaje/recargapolvolatte.webp"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1184,19 +1000,19 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "61",
+  {
+    "id": "52",
     "title": "Recarga Polvo Matificante Toffe",
-    "price":  21000,
+    "price": 21000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
     "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
     "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
-    "caracteristics":"Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
-    "usage":"Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "caracteristics": "Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
+    "usage": "Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
     "images": [
       "/images/Maquillaje/recargapolvotoffe.webp"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
@@ -1204,24 +1020,222 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
-   {
-    "id": "62",
+  {
+    "id": "53",
     "title": "Recarga Polvo Matificante Vainilla",
-    "price":  21000,
+    "price": 21000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",
     "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
     "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
-    "caracteristics":"Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
-    "usage":"Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
+    "caracteristics": "Recarga Polvo matificante Chirpy Makeup — base en polvo que matifica, sella y suaviza con acabado natural. Con arroz, arcilla y pigmentos minerales que controlan el brillo y unifican el tono. ",
+    "usage": "Recarga tu estuche original de polvos matificantes Chirpy Makeup. Despues de recargarlo aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
     "images": [
       "/images/Maquillaje/recargapolvovainilla.webp"
     ],
-  "shippingInfo": {
+    "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
       "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
       "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
       "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "54",
+    "title": "Kit Rutina de Cuidado Facial Esencial para piel delicada",
+    "price": 152700,
+    "image": "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel delicada.jpeg",
+    "description": "Kit esencial para piel delicada: jabón de caléndula, crema revitalizante y protector solar biodegradable.",
+    "usage": "Limpiar el rostro con el jabón de caléndula, aplicar la crema revitalizante en rostro y cuello mañana y noche, y finalizar con protector solar antes de la exposición al sol. Para piel muy sensible, probar primero en una pequeña área.",
+    "images": [
+      "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel delicada.jpeg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "55",
+    "title": "Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta",
+    "price": 146700,
+    "image": "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta.jpeg",
+    "description": "Kit pensado para piel grasa/mixta: jabón de aloe, crema con aloe y protector solar.",
+    "usage": "Lavar el rostro con el jabón de aloe, secar suavemente y aplicar la crema ligera de aloe por la mañana y/o por la noche según necesidad. Usar protector solar durante el día. En pieles muy grasas, usar la crema sólo por la noche si fuese necesario.",
+    "images": [
+      "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta.jpeg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "56",
+    "title": "Kit Rutina de Cuidado Facial Esencial para piel seca",
+    "price": 149700,
+    "image": "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel seca.jpeg",
+    "description": "Kit hidratante para piel seca: jabón de arroz, crema con ácido hialurónico y protector solar.",
+    "usage": "Limpiar con el jabón de arroz, aplicar la crema con ácido hialurónico en rostro y cuello por la mañana y por la noche para máxima hidratación, y usar protector solar al salir al exterior. Para una hidratación extra, aplicar una capa adicional por la noche.",
+    "images": [
+      "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel seca.jpeg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "57",
+    "title": "KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1",
+    "price": 91500,
+    "image": "/images/KitsTOHB/KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1.jpeg",
+    "description": "Combo corrector + rubor multifuncional. Ideal para looks rápidos y prácticos.",
+    "usage": "Aplicar el corrector en ojeras y zonas a corregir a toquecitos, difuminar con los dedos o esponja. Sellar con polvo si se desea mayor duración. Aplicar rubor en los pómulos y difuminar para un acabado natural. Uso diario según preferencia.",
+    "images": [
+      "/images/KitsTOHB/KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1.jpeg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "58",
+    "title": "KIT LUCE HERMOSA EN SOLO 3 PASOS",
+    "price": 141000,
+    "image": "/images/KitsTOHB/KIT LUCE HERMOSA EN SOLO 3 PASOS.jpg",
+    "description": "Color, corrección y practicidad: corrector, rubor y polvo matificante.",
+    "usage": "Primero aplica el corrector en las zonas a corregir, luego aplica el polvo matificante para sellar y finalmente el rubor en los pómulos. Ideal para rutinas rápidas; reaplica según sea necesario durante el día.",
+    "images": [
+      "/images/KitsTOHB/KIT LUCE HERMOSA EN SOLO 3 PASOS.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "59",
+    "title": "KIT RUTINA FACIAL AVANZADO",
+    "price": 304700,
+    "image": "/images/KitsTOHB/Kit Rutina Facil Avanzado.jpg",
+    "description": "Rutina avanzada con crema regeneradora, sérum de vitamina C y contorno de ojos.",
+    "usage": "Limpiar el rostro antes de aplicar productos. Por la mañana, aplicar el sérum de vitamina C y protector solar; por la noche, aplicar la crema regeneradora y el contorno de ojos. Seguir las instrucciones de cada producto individual dentro del kit.",
+    "images": [
+      "/images/KitsTOHB/Kit Rutina Facil Avanzado.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "60",
+    "title": "KIT CUIDADO CAPILAR",
+    "price": 93800,
+    "image": "/images/KitsTOHB/kit Cuidado Capilar.jpg",
+    "description": "Pack capilar con crema nutritiva y shampoo para mantener tu cabello fuerte y brillante.",
+    "usage": "Usar el shampoo para limpiar el cabello, enjuagar y aplicar la crema nutritiva en medios y puntas. Dejar actuar 3-5 minutos y enjuagar. Repetir según la frecuencia de lavado habitual.",
+    "images": [
+      "/images/KitsTOHB/kit Cuidado Capilar.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "61",
+    "title": "KIT CUIDADO FACIAL PIELES DELICADAS",
+    "price": 163700,
+    "image": "/images/KitsTOHB/kistCuidadoFacialCompletoPielDelicada.jpg",
+    "description": "Kit completo con complejo revitalizante, protector solar y mascarilla calmante.",
+    "usage": "Limpiar la piel, aplicar el complejo revitalizante según indicación (mañana y/o noche), usar la mascarilla calmante 1-2 veces por semana y aplicar protector solar cada mañana antes de la exposición.",
+    "images": [
+      "/images/KitsTOHB/kistCuidadoFacialCompletoPielDelicada.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "62",
+    "title": "KIT CUIDADO FACIAL PIELES MADURAS",
+    "price": 139800,
+    "image": "/images/KitsTOHB/kitCuidadoFacialPielMadura.jpg",
+    "description": "Formulado para piel madura: crema antiedad, protector solar y limpiador suave.",
+    "usage": "Limpiar con el limpiador suave, aplicar la crema antiedad por la noche y el protector solar por la mañana. Para mejores resultados, seguir una rutina consistente y complementaria.",
+    "images": [
+      "/images/KitsTOHB/kitCuidadoFacialPielMadura.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "63",
+    "title": "KIT CUIDADO FACIAL PARA HOMBRES",
+    "price": 115800,
+    "image": "/images/KitsTOHB/kitCuidadoFacialHombre.jpg",
+    "description": "Kit masculino con desodorante, protector solar y jabón para afeitar.",
+    "usage": "Usar el jabón para afeitar para una espuma protectora antes del afeitado, limpiar el rostro después y aplicar protector solar en las zonas expuestas. Usar desodorante según necesidad.",
+    "images": [
+      "/images/KitsTOHB/kitCuidadoFacialHombre.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
+    }
+  },
+  {
+    "id": "64",
+    "title": "KIT CUIDADO MIXTO PRESENTACION SOLIDA",
+    "price": 80000,
+    "image": "/images/KitsTOHB/kitCuidadoMixto.jpg",
+    "description": "Kit mixto en presentación sólida: shampoo, jabón corporal y crema humectante sólida.",
+    "usage": "Humedecer el cabello y usar el shampoo sólido para generar espuma, enjuagar; usar el jabón corporal durante la ducha y aplicar la crema humectante sólida en la piel seca después de secar. Mantener los productos secos entre usos.",
+    "images": [
+      "/images/KitsTOHB/kitCuidadoMixto.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "1-4 días",
+      "caliTime": "1-2 días",
+      "restOfCountryTime": "3-8 días",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "TOHB"
     }
   }
 ]

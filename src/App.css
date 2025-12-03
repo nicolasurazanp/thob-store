@@ -2,7 +2,7 @@
 .hero-section {
     width: 100%; /* Asegura que el contenedor ocupe el 100% del ancho de la pantalla */
     height: 100vh; /* La altura ocupará el 100% de la pantalla */
-    background-image: url('/public/images/General/bannerFinal.jpeg'); /* Imagen de fondo */
+    background-image: url('/public/images/General/BannerNavideñoTHOB.png'); /* Imagen de fondo */
     background-size: 100% 100%; /* Asegura que la imagen se estire para ocupar todo el contenedor */
     background-position: center center; /* Centra la imagen de fondo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */

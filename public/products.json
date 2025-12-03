@@ -400,200 +400,8 @@
 {
   "_comment": "Fin Categoria Corporal - Inicio Categoria Facial"
 },
-
   {
     "id": "21",
-    "title": "Jabón Artesanal Arroz 100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel seca.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
-    "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ARROZ.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "22",
-    "title": "Jabón Artesanal Caléndula y Manzanilla 100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada, con barros y/o espinillas.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes.",
-    "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-CALENDULA.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "23",
-    "title": "Jabón Artesanal Aloe Vera  100 g",
-    "price": 22900,
-    "image": "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png",
-    "description": "Ideal para regalarle a tu piel hidratación, nutrición, suavidad y vitalidad. Elaborado con glicerina vegetal, manteca de carité y aceite de chía orgánico. Ideal para piel delicada.",
-    "usage": "Lavar el rostro todas las mañanas y noches realizando suaves masajes. Enjuagar con abundante agua.",
-    "images": [
-      "/images/CuidadoCorporal/JABON-ARTESANAL-DE-ALOE-VERA.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "24",
-    "title": "Crema Contorno Ojos con Ácido Hialurónico 30 mL",
-    "price": 79900,
-    "image": "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
-    "description": "Sus ingredientes activos incrementan la producción de colágeno y elastina nutriendo, hidratando y suavizando la delicada piel del contorno de los ojos, previniendo y reduciendo arrugas, ojeras y líneas de expresión.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en el área de los ojos con suaves masajes de afuera hacia adentro. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/CREMA-CONTORNO-DE-OJOS.png",
-      "/images/CuidadoFacial/Detalle/contorno de ojos.jpg",
-      "/images/CuidadoFacial/Detalle/CREMA-CONTORNO-DE-OJOS-CON-ACIDO-HIALURONICO.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "25",
-    "title": "Crema Regeneradora con Complejos de Aminoácidos 50 mLL",
-    "price": 99900,
-    "image": "/images/CuidadoFacial/Detalle/regeneradora.jpg",
-    "description": "Enriquecida con ácido hialurónico de origen vegano, un poderoso complejo de aminoácidos esenciales, extracto de uchuva, vitamina E y aloe vera, ingredientes que nutren y restauran la barrera protectora de la piel. Hidrata, nutre, regenera y suaviza las líneas de expresión.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/Detalle/regeneradora.jpg",
-      "/images/CuidadoFacial/Detalle/CREMA-REGENERADORA-1.png",
-      "/images/CuidadoFacial/CREMA-REGENERADORA.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "26",
-    "title": "Sérum Facial Con Vitamina C Mayakú 50 mL",
-    "price": 124900,
-    "image": "/images/CuidadoFacial/Detalle/serum.jpg",
-    "description": "Suero facial a base de extractos botánicos, ácido hialurónico y vitamina C liposomada de última generación rica en antioxidantes que protegen las células cutáneas de los radicales libres.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente el Sérum antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/Detalle/serum.jpg",
-      "/images/CuidadoFacial/Detalle/DERMATOLOGICA.jpg",
-      "/images/CuidadoFacial/Detalle/VITAMINA C.jpg",
-      "/images/CuidadoFacial/SERUM-VITAMINA-C.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "27",
-    "title": "Leche Desmaquilladora Arroz 120 mL",
-    "price": 37900,
-    "image": "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza. Ideal para piel seca",
-    "usage": "Aplicar todas las noches sobre el rostro y el cuello, haciendo masajes circulares, retirar con un algodón o pañito hasta que se retiren todas las impurezas de la piel.",
-    "images": [
-      "/images/CuidadoFacial/LECHE-DE-ARROZ.png",
-      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "28",
-    "title": "Leche Desmaquilladora Uva y Argán 120 mL",
-    "price": 37900,
-    "image": "/images/CuidadoFacial/LECHE-UVA.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza.",
-    "usage": "Aplicar todas las noches sobre el rostro y el cuello, haciendo masajes circulares, retirar con un algodón o pañito hasta que se retiren todas las impurezas de la piel.",
-    "images": [
-      "/images/CuidadoFacial/LECHE-UVA.png",
-      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "29",
-    "title": "Leche Desmaquilladora Perejil 120 mL",
-    "price": 37900,
-    "image": "/images/CuidadoFacial/LECHE-PEREJIL.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humecta, nutre y suaviza. Ideal para unificar el tono de la piel.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/LECHE-PEREJIL.png",
-      "/images/CuidadoFacial/Detalle/DESMAQUILLADORAS-UVA-PEREJIL-ARROZ-TE-VERDE.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "30",
-    "title": "Leche Limpiadora Caléndula y Manzanilla 120 mL",
-    "price":  42900,
-    "image": "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
-    "description": "Limpia y remueve el maquillaje, las impurezas y la polución de tu piel, mientras la hidrata, humectan, nutre y suaviza.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/LECHE-CALENDULA-120-png.png",
-      "/images/CuidadoFacial/Detalle/LIMPIADORA-DE-CALENDULA-Y-MANZANILLA.png"
-    ],
-    "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "31",
     "title": "Mascarilla Aloe Vera 60 mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
@@ -612,7 +420,7 @@
     }
   },
     {
-    "id": "32",
+    "id": "22",
     "title": "Mascarilla Calendula Y Manzanilla 60mL",
     "price":  19900,
     "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
@@ -631,7 +439,7 @@
     }
   },
    {
-    "id": "33",
+    "id": "23",
     "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
     "price":  73900,
     "image": "/images/CuidadoFacial/Detalle/protector.jpg",
@@ -650,84 +458,10 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
+ 
+  
    {
-    "id": "34",
-    "title": "Sérum Antiedad 30 mL",
-    "price":  64900,
-    "image": "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
-    "description": "Formulación con Colágeno y Elastina que ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
-    "usage": "Después de limpiar la piel aplica una cantidad suficiente de producto en rostro y cuello con suaves masajes de abajo hacia arriba y de adentro hacia afuera. Espera que se absorba completamente la crema antes de aplicar otro producto (ejemplo: protector solar o maquillaje). Usar en la mañana y/o en la noche.",
-    "images": [
-      "/images/CuidadoFacial/SERUM-ANTIEDAD.png",
-      "/images/CuidadoFacial/Detalle/SERUM-ANTIEDAD-1.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "35",
-    "title": "Tónico Natural Rosas 120 mL",
-    "price":  31900,
-    "image": "/images/CuidadoFacial/TONICO-ROSAS.png",
-    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para todo tipo de piel",
-    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
-    "images": [
-      "/images/CuidadoFacial/TONICO-ROSAS.png",
-      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-  {
-    "id": "36",
-    "title": "Tónico Natural Caléndula y Manzanilla 120 mL",
-    "price":  31900,
-    "image": "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
-    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
-    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
-    "images": [
-      "/images/CuidadoFacial/TONICO-CALENDULA-Y-MANZANILLA-1.png",
-      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-   {
-    "id": "37",
-    "title": "Tónico Natural Té Verde 120 mL",
-    "price":  31900,
-    "image": "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
-    "description": "Nuestra línea de tónicos ayuda a mejorar la apariencia de los poros, hidratar, tonificar, refrescar y purificar la piel. Ideal para piel delicada.",
-    "usage": "Después de limpiar la piel, aplica el tónico en el rostro y el cuello. Espera a que se absorba completamente y luego realiza suaves toques en el rostro para completar su absorción.",
-    "images": [
-      "/images/CuidadoFacial/TONICO-TE-VERDE-1.png",
-      "/images/CuidadoFacial/Detalle/TONICO-CALENDULA-Y-MANZANILLA.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-   {
-    "id": "38",
+    "id": "24",
     "title": "Pasta Dental Sólida",
     "price":  27000,
     "image": "/images/CuidadoFacial/PastaDentalOiris.webp",
@@ -746,7 +480,7 @@
     }
   },
 {
-    "id": "39",
+    "id": "25",
     "title": "Jabón De Arroz",
     "price":  13000,
     "image": "/images/CuidadoFacial/Detalle/arroz1.webp",
@@ -765,7 +499,7 @@
     }
   },
 {
-    "id": "40",
+    "id": "26",
     "title": "Jabón Anti Age - Hiper Hidratante (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/JabonAntiage1.webp",
@@ -784,7 +518,7 @@
     }
   },
 {
-    "id": "41",
+    "id": "27",
     "title": "Jabón Purify para el Acné (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/JabonPurify2.jpg",
@@ -803,7 +537,7 @@
     }
   },
   {
-    "id": "42",
+    "id": "28",
     "title": "Jabón Baby (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/JabonBaby.jpg",
@@ -821,7 +555,7 @@
     }
   },
     {
-    "id": "43",
+    "id": "29",
     "title": "Jabón Shaving Coral - Para Depilar (Natiú Artesanal)",
     "price":  14000,
     "image": "/images/CuidadoFacial/Detalle/Afeitar2_720x.webp",
@@ -840,7 +574,7 @@
     }
   },
     {
-    "id": "44",
+    "id": "30",
     "title": "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
     "price":  52900,
     "image": "/images/CuidadoFacial/Crema Facial con Ácido Hialurónico y Colágeno 60 mL.jpeg",
@@ -859,7 +593,7 @@
     }
   },
 {
-    "id": "45",
+    "id": "31",
     "title": "Complejo Revitalizante 60 mL",
     "price":  55900,
     "image": "/images/CuidadoFacial/Complejo1.jpeg",
@@ -878,7 +612,7 @@
     }
   },
 {
-    "id": "46",
+    "id": "32",
     "title": "Crema Facial con Aloe Vera y Pepino 60 mL",
     "price":  49900,
     "image": "/images/CuidadoFacial/CremaFacialAloeVeraYPepino.jpeg",
@@ -898,7 +632,7 @@
   },
 
    {
-    "id": "47",
+    "id": "33",
     "title": "Jabón de rostro carbón activado",
     "price": 12000,
     "image": "/images/CuidadoCorporal/CuidadoCorporalDetalle/jabonRostroCarbonActivado.jpg",
@@ -915,12 +649,195 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   },
+  {
+    "id": "34",
+    "title": "Complejo antiedad Contorno de ojos 18ml",
+    "price": 74900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Antiedad1.jpg",
+    "description": "Nuestro contorno de ojos está formulado con una cuidadosa combinación de activos especialmente diseñados para esta delicada área, que es más fina, tiene menos glándulas sebáceas y genera menos colágeno que el resto del rostro. Esta fórmula aborda las necesidades específicas del contorno de ojos, que tiende a ser más propenso a arrugas.",
+    "usage": "Presiona suavemente el envase para extraer una cantidad similar al tamaño de un grano de arroz por cada ojo. Utiliza la boquilla metálica para masajear suavemente el producto por todo el contorno de los ojos, siguiendo la línea ósea que rodea el ojo y la zona de la ojera. Si prefieres, puedes finalizar dando ligeros toques con la yema del dedo anular hasta que el producto se absorba completamente. Apto para Todo tipo de piel",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Antiedad1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Antiedad2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Antiedad3.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Antiedad4.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+ {
+    "id": "35",
+    "title": "Espuma Limpiadora Facial Cúrcuma",
+    "price": 37900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Espuma1.jpg",
+    "description": "Nuestra espuma facial está especialmente formulada para pieles secas y sensibles. Limpia profundamente sin irritar ni resecar, gracias a su fórmula tipo Syndet, que respeta la barrera natural de la piel.Enriquecida con extractos calmantes como centella asiática y cúrcuma, reduce el enrojecimiento y la irritación, mientras que la niacinamida y el pantenol hidratan y restauran, dejando la piel flexible y equilibrada. Su textura ligera y espumosa proporciona una experiencia refrescante y confortable en cada uso.",
+    "usage": "Con el rostro húmedo, aplica la cantidad deseada de espuma necesaria, con la ayuda de tus manos esparce por todo el rostro y masajea, enjuaga con abundante agua hasta retirar la totalidad del producto.Es de uso diario, se puede usar am y pm según la necesidad de piel.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Espuma1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Espuma2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Espuma3.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "36",
+    "title": "Hidratante Facial Bio Complejo – 50ml",
+    "price": 59900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Hidratante1.jpg",
+    "description": "Formulada con más de 15 activos y dos tipos de ácido hialurónico, esta crema ofrece hidratación profunda y duradera, ideal para pieles secas, deshidratadas o fatigadas. Su complejo de superalimentos verdes revitaliza y tonifica la piel, previene líneas de expresión y mejora su textura, brindando nutrición intensiva y reparadora.",
+    "usage": "Con el rostro limpio y seco, aplica directamente hasta su total absorción. Cubre rostro, cuello y escote.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Hidratante1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Hidratante2.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+ {
+    "id": "37",
+    "title": "Jabón limpiador facial caléndula y manzanilla",
+    "price": 36900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Limpiador1.jpg",
+    "description": "Jabón limpiador facial que actúa en la piel como controlador de grasa, limpia las impurezas y células muertas de la piel sin resecar, hidratándola y nutriéndola. Formulado con extracto de caléndula con propiedades antinflamatorias, cicatrizantes y calmantes, y debido a los carotenos, flavonoides y polisacáridos brinda propiedades antienvejecimiento. Además, formulada con manzanilla que por su contenido de azuleno es un magnífico anti-inflamatorio,  vitaminas del grupo B y diversos glúcidos que pueden participar en su acción calmante. Contiene hidrosol de romero y menta, reemplazando el agua en la formulación, con propiedades antioxidantes y purificantes, extracto de ortiga y corteza de drago con propiedades antisépticas y antioxidantes, ayudando a eliminar las bacterias y mantener la piel saludable.",
+    "usage": "Aplica sobre el rostro húmedo haciendo suaves movimientos de forma circular hasta hacer espuma, luego enjuaga con abundante agua hasta que no quede rastro de jabón. Evita el contacto con ojos.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Limpiador1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Limpiador2.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "38",
+    "title": "Mousse desmaquillante",
+    "price": 22900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Desmaquillante1.jpg",
+    "description": "Nuestro limpiador facial desmaquillante de primer paso está formulado con postbióticos que nutren y fortalecen el microbioma natural de tu piel, brindando un equilibrio biológico esencial para mantener una piel fortalecida y limpia.Está enriquecido con aceite de cacay, extracto de arroz, aloe vera y avena que promueven una piel más luminosa y sana.",
+    "usage": "Aplica directamente sobre el rostro y el cuello haciendo suaves movimientos circulares con ayuda de las manos, retirar las impurezas de la piel con la ayuda de algodón o toallitas y agua.Frecuencia: Este producto puede usarse diariamente en la rutina de limpieza nocturna. Si es tu único limpiador, puedes utilizarlo tanto en la mañana como en la noche.Único limpiador: Limpia, desmaquilla y humecta al mismo tiempo, dependiendo del tipo de piel requiere o no enjuague.Doble limpieza: Ayuda a disolver suavemente los residuos más difíciles de retirar y prepara la piel creando una capa protectora para el segundo paso de limpieza, ayudando a preservar los lípidos naturales y el equilibrio de la piel.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Desmaquillante1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Desmaquillante2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Desmaquillante3.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Desmaquillante4.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "39",
+    "title": "Serum facial intensivo Fitoretinol 30ml",
+    "price": 72900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Serum1.jpg",
+    "description": "Nuestro Sérum Facial Intensivo Fito-Retinol es una alternativa 100% natural al retinol, con alta tolerancia cutánea y efectos similares a la vitamina A. Ayuda a prevenir el envejecimiento, promueve la renovación celular, aclara manchas y estimula la producción de colágeno.",
+    "usage": "Aplicar después de la limpieza y antes del hidratante habitual.Con la piel limpia y seca, aplica de 3 a 4 gotas en el rostro y masajea suavemente hasta su completa absorción.Si tienes fito retinol (bio-retinol), niacinamida y vitamina C en tu rutina, puedes combinarlos con cuidado evaluando tolerancia, pero también es una buena idea alternarlos según la sensibilidad de tu piel y los objetivos de tu cuidado.El Fito-Retinol no es fotosensible, por lo que puede usarse tanto en la mañana como en la noche.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Serum1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Serum2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Serum3.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Serum4.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "40",
+    "title": "Serum Facial RevitaC 30ml",
+    "price": 72900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial1.jpg",
+    "description": "Nuestro Suero Facial RevitaC es una fórmula avanzada de vitamina C encapsulada y potenciada con lúcuma como activo principal. Aporta beneficios antioxidantes ofreciendo una solución completa para mejorar la salud de la piel opaca, con manchas y sin brillo. Mejora notablemente la apariencia de la piel, proporcionando beneficios antioxidantes, hidratando y combatiendo los signos del envejecimiento. Previene y reduce la inflamación de la piel en condiciones de acné, ayudando a que las pieles tengan un proceso de cicatrización mínimamente visible ¡Excelentes beneficios en un solo producto!Cuenta con certificado dermatológico y se ha desarrollado cuidadosamente para garantizar la máxima eficacia y seguridad para todo tipo de piel.",
+    "usage": "Aplicar después de la limpieza y antes del hidratante habitual.Con la piel limpia y seca, aplica de 3 a 4 gotas en el rostro y masajea suavemente hasta su completa absorción.Si tienes fito retinol (bio-retinol), niacinamida y vitamina C en tu rutina, puedes combinarlos con cuidado evaluando tolerancia, pero también es una buena idea alternarlos según la sensibilidad de tu piel y los objetivos de tu cuidado.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial3.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial4.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "40",
+    "title": "Serum Facial RevitaC 30ml",
+    "price": 72900,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial1.jpg",
+    "description": "Nuestro Suero Facial RevitaC es una fórmula avanzada de vitamina C encapsulada y potenciada con lúcuma como activo principal. Aporta beneficios antioxidantes ofreciendo una solución completa para mejorar la salud de la piel opaca, con manchas y sin brillo. Mejora notablemente la apariencia de la piel, proporcionando beneficios antioxidantes, hidratando y combatiendo los signos del envejecimiento. Previene y reduce la inflamación de la piel en condiciones de acné, ayudando a que las pieles tengan un proceso de cicatrización mínimamente visible ¡Excelentes beneficios en un solo producto!Cuenta con certificado dermatológico y se ha desarrollado cuidadosamente para garantizar la máxima eficacia y seguridad para todo tipo de piel.",
+    "usage": "Aplicar después de la limpieza y antes del hidratante habitual.Con la piel limpia y seca, aplica de 3 a 4 gotas en el rostro y masajea suavemente hasta su completa absorción.Si tienes fito retinol (bio-retinol), niacinamida y vitamina C en tu rutina, puedes combinarlos con cuidado evaluando tolerancia, pero también es una buena idea alternarlos según la sensibilidad de tu piel y los objetivos de tu cuidado.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial3.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial4.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "41",
+    "title": "SERUM EXFOLIANTE ÁCIDO GLICÓLICO 5% + LÁCTICO 5%- 30ML",
+    "price": 49000,
+    "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Exfoliante1.jpg",
+    "description": "Nuestro suero exfoliante AHA a base de ácido glicólico 5% + ácido láctico 5% tiene como función exfoliar suavemente la piel removiendo las células muertas adheridas a la piel, esto proporciona suavidad y luminosidad, unifica el tono de la piel, disminuye lesiones de acné, mejora textura y arrugas, entre otros beneficios.",
+    "usage": "Con la piel limpia, aplica las gotas necesarias para cubrir todo el rostro y esparce hasta su total absorción. Puedes aplicarlo con tus manos o con un algodón.",
+    "images": [
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Exfoliante1.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Exfoliante2.jpg",
+      "/images/CuidadoFacial/CuidadoFacilV1.2/Exfoliante3.jpg"
+    ],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
 
    {
   "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
 },
    {
-    "id": "48",
+    "id": "34",
     "title": "Brillo Labial Morning Kiss",
     "price":  32000,
     "image": "/images/Maquillaje/brilloLabial.jpg",
@@ -940,7 +857,7 @@
     }
   },
    {
-    "id": "49",
+    "id": "35",
     "title": "Corrector Facial Piel Canela - Toffee",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
@@ -960,7 +877,7 @@
     }
   },
    {
-    "id": "50",
+    "id": "36",
     "title": "Corrector Facial Tono Medio - Latte",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
@@ -980,7 +897,7 @@
     }
   },
   {
-    "id": "51",
+    "id": "37",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
@@ -1000,7 +917,7 @@
     }
   },
   {
-    "id": "52",
+    "id": "38",
     "title": "Polvo Matificante",
     "price":  42000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -1021,7 +938,7 @@
     }
   },
   {
-    "id": "53",
+    "id": "39",
     "title": "Polvo Matificante Latte",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
@@ -1042,7 +959,7 @@
     }
   },
   {
-    "id": "54",
+    "id": "40",
     "title": "Polvo Matificante Vainilla",
     "price":  42000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
@@ -1063,7 +980,7 @@
     }
   },
   {
-    "id": "55",
+    "id": "41",
     "title": "Hidratante y Protector Labial Frutos Rojos",
     "price":  13900,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
@@ -1083,7 +1000,7 @@
     }
   },
    {
-    "id": "56",
+    "id": "42",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
@@ -1102,7 +1019,7 @@
     }
   },
     {
-    "id": "57",
+    "id": "43",
     "title": "Hidratante y Protector Labial Menta ",
     "price":  13900,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
@@ -1121,7 +1038,7 @@
     }
   },
      {
-    "id": "58",
+    "id": "44",
     "title": "Rubor Rosa",
     "price":  49500,
     "image": "/images/Maquillaje/RuborRosa.png",
@@ -1143,7 +1060,7 @@
     }
   },
    {
-    "id": "59",
+    "id": "45",
     "title": "Rubor tono coral",
     "price":  49500,
     "image": "/images/Maquillaje/RuborCoral.png",
@@ -1165,7 +1082,7 @@
     }
   },
    {
-    "id": "60",
+    "id": "46",
     "title": "Recarga Polvo Matificante Latte",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
@@ -1185,7 +1102,7 @@
     }
   },
    {
-    "id": "61",
+    "id": "47",
     "title": "Recarga Polvo Matificante Toffe",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
@@ -1205,7 +1122,7 @@
     }
   },
    {
-    "id": "62",
+    "id": "48",
     "title": "Recarga Polvo Matificante Vainilla",
     "price":  21000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",

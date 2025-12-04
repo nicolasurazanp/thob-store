@@ -10,47 +10,9 @@ const formatCOP = (value) => {
 
 const KitsSection = ({ addToCart }) => {
   const kits = [
+    
     {
       id: 1,
-      name: "Kit Rutina de Cuidado Facial Esencial para piel delicada",
-      price: "$152700",
-      description: " Tu piel merece fórmulas conscientes. Diseñamos tres kits esenciales de limpieza, hidratación y protección para acompañar tu rutina diaria según tu tipo de piel, con ingredientes botánicos cultivados en Colombia.",
-      image: "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel delicada.jpeg",
-      products: [
-        "Kit para piel delicada",
-        "Jabón artesanal de caléndula y manzanilla",
-        "Crema facial con complejo revitalizante",
-        "Protector solar natural biodegradable"
-      ]
-    },
-    {
-      id: 2,
-      name: "Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta",
-      price: "$146700",
-      description: "Tu piel merece fórmulas conscientes. Diseñamos tres kits esenciales de limpieza, hidratación y protección para acompañar tu rutina diaria según tu tipo de piel, con ingredientes botánicos cultivados en Colombia.",
-      image: "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel grasa o mixta.jpeg",
-      products: [
-        "Kit para piel grasa o mixta",
-        "Jabón artesanal de aloe vera",
-        "Crema facial con aloe vera y pepino",
-        "Protector solar natural biodegradable"
-      ]
-    },
-    {
-      id: 3,
-      name: "Kit Rutina de Cuidado Facial Esencial para piel seca",
-      price: "$149700",
-      description: " Tu piel merece fórmulas conscientes. Diseñamos tres kits esenciales de limpieza, hidratación y protección para acompañar tu rutina diaria según tu tipo de piel, con ingredientes botánicos cultivados en Colombia.",
-      image: "/images/KitsTOHB/Kit Rutina de Cuidado Facial Esencial para piel seca.jpeg",
-      products: [
-        "Kit para piel seca O madura",
-        "Jabón artesanal de arroz",
-        "Crema facial con ácido hialurónico y colágeno",
-        "Protector solar natural biodegradable"
-      ]
-    },
-    {
-      id: 4,
       name: "KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1",
       price: "$91500",
       description: "EN OFERTA CON ENVIO GRATIS 🌸 Unos minutos, toda la diferencia",
@@ -61,7 +23,7 @@ const KitsSection = ({ addToCart }) => {
       ]
     },
      {
-      id: 5,
+      id: 2,
       name: "KIT LUCE HERMOSA EN SOLO 3 PASOS",
       price: "$141000",
       description: " Color, corrección y practicidad los esenciales para estar siempre linda.",
@@ -72,20 +34,9 @@ const KitsSection = ({ addToCart }) => {
         "Polvo matificante para sellar el maquillaje con acabado natural"
       ]
     },
+   
     {
-      id: 6,
-      name: "KIT RUTINA FACIAL AVANZADO",
-      price: "$304700",
-      description: "Una rutina consciente para pieles que quieren sentirse y verse renovadas. Este kit es para ti si buscas algo más que cuidado: quieres resultados visibles, sensaciones naturales y una experiencia que conecte con tu piel en cada paso.",
-      image: "/images/KitsTOHB/Kit Rutina Facil Avanzado.jpg",
-      products: [
-        "Crema Regeneradora con Complejos de Aminoácidos 50 mL  ",
-        " Sérum Facial Con Vitamina C Mayakú 50 mL",
-        " Crema Contorno Ojos con Ácido Hialurónico 30 mL"
-      ]
-    },
-    {
-      id: 7,
+      id: 3,
       name: "KIT CUIDADO CORPORAL",
       price: "165.700",
       description: "Para pieles maduras, este kit ayuda a acondicionar y preparar la piel ante la posibilidad de aparición prematura de las señales del paso del tiempo, atenuando y disminuyendo las líneas de expresión, brindando un aspecto fresco a la piel y mejorando su elasticidad, firmeza y lozanía.",
@@ -98,7 +49,7 @@ const KitsSection = ({ addToCart }) => {
       ]
     },
     {
-      id: 8,
+      id: 4,
       name: "KIT CUIDADO CAPILAR",
       price: "$93800",
       description: "Formula con espumantes 100% biodegradables derivados de glucosas vegetales que limpian, hidratan y restauran la fibra capilar, protegiendo el color, aportando sedosidad y realzando el brillo natural del cabello. Libre de sal, sulfatos y amidas. ",
@@ -108,33 +59,9 @@ const KitsSection = ({ addToCart }) => {
         "Shampoo Natural Romero 280 mL  "
       ]
     },
+    
     { 
-      id: 9,
-      name: "KIT CUIDADO FACIAL PIELES DELICADAS",
-      price: "$163.700",
-      description: "Kit de cuidado facial completo para pieles delicadas Este kit contiene una Fórmula con ingredientes bio-activos que hidratan, nutren, protegen y suavizan la piel regenerando y mejorando su apariencia. Evita la pérdida de agua, Ideal para todo tipo de piel, especialmente piel delicada, con barros y/o espinillas.",
-      image: "/images/KitsTOHB/kistCuidadoFacialCompletoPielDelicada.jpg",
-      products: [
-        "Complejo Revitalizante 60 mL",
-        "Protector solar",
-        "Mascarilla Facial Caléndula y manzanilla 60 g",
-        "Jabón facial Purify para el Acné"
-      ]
-    },
-    { 
-      id: 10,
-      name: "KIT CUIDADO FACIAL PIELES MADURAS",
-      price: "$139800",
-      description: "kit de cuidado facial para pieles madurasEste kit Humecta, nutre, suaviza y combate los radicales libres que ocasionan el envejecimiento prematuro, previniendo la aparición de arrugas y atenuando las líneas de expresión. Ayuda a unificar el tono de la piel y a mejorar la textura incrementando su firmeza y elasticidad. Para todo tipo de piel, especialmente piel seca o madura.",
-      image: "/images/KitsTOHB/kitCuidadoFacialPielMadura.jpg",
-      products: [
-        "Crema Facial con Ácido Hialurónico y Colágeno 60 mL",
-        "Jabón de Arroz",
-        "Protector solar"
-      ]
-    },
-    { 
-      id: 11,
+      id: 5,
       name: "KIT CUIDADO FACIAL PARA HOMBRES",
       price: "$115800",
       description: "Kit de cuidado facial para hombre Este kit Enriquecido con ingredientes activos naturales que ayudan a mantener la piel hidratada, contiene caléndula para evitar la irritación.",
@@ -146,7 +73,7 @@ const KitsSection = ({ addToCart }) => {
       ]
     },
     { 
-      id: 11,
+      id: 6,
       name: "KIT CUIDADO MIXTO PRESENTACION SOLIDA",
       price: "$80000",
       description: "Kit de cuidado mixto en presentación solida Este kit Enriquecido con ingredientes activos naturales que proporciona un suave pero profundo efecto exfoliante dejando la piel regenerada y libre de impurezas, gracias a sus componentes orgánicos.",

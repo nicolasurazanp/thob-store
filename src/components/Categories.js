@@ -8,7 +8,9 @@ const Categories = () => {
         { id: 1, name: 'Cuidado Capilar', image: '/images/General/cuidadoCapilar.webp', link: '/cuidado-capilar' },
         { id: 2, name: 'Cuidado Corporal', image: '/images/General/CuidadoCorporal.png', link: '/cuidado-corporal' },
         { id: 3, name: 'Cuidado Facial', image: '/images/General/cuidadoFacial.webp', link: '/cuidado-facial' },
-        { id: 4, name: 'Maquillaje', image: '/images/General/CategoriaMaquillajeF.png', link: '/maquillaje' }
+        { id: 4, name: 'Maquillaje', image: '/images/General/CategoriaMaquillajeF.png', link: '/maquillaje' },
+        // Nueva categoría 'Kits' — imagen dejada vacía para que el usuario la agregue
+        { id: 5, name: 'Kits', image: '/images/KitsTOHB/kitsPortada.jpg', link: '/kits' }
     ];
 
     return (

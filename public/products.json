@@ -1186,4 +1186,101 @@
       "brandInfo": "Somos una marca Colombiana"
     }
   }
+ ,
+  {
+    "id": "63",
+    "title": "KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1",
+    "price": 91500,
+    "category": "kits",
+    "image": "/images/KitsTOHB/KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1.jpeg",
+    "description": "Kit especial que incluye corrector 2 en 1 y rubor 3 en 1 para un acabado natural y práctico.",
+    "images": ["/images/KitsTOHB/KIT CORRECTOR FACIAL 2 EN 1 Y RUBOR 3 EN 1.jpeg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "64",
+    "title": "KIT LUCE HERMOSA EN SOLO 3 PASOS",
+    "price": 141000,
+    "category": "kits",
+    "image": "/images/KitsTOHB/KIT LUCE HERMOSA EN SOLO 3 PASOS.jpg",
+    "description": "Color, corrección y practicidad: corrector, rubor y polvo matificante en presentación práctica.",
+    "images": ["/images/KitsTOHB/KIT LUCE HERMOSA EN SOLO 3 PASOS.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "65",
+    "title": "KIT CUIDADO CORPORAL",
+    "price": 165700,
+    "category": "kits",
+    "image": "/images/KitsTOHB/kitCuidadoCorporal.jpg",
+    "description": "Kit para cuidado corporal que acondiciona y nutre la piel con activos naturales.",
+    "images": ["/images/KitsTOHB/kitCuidadoCorporal.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "66",
+    "title": "KIT CUIDADO CAPILAR",
+    "price": 93800,
+    "category": "kits",
+    "image": "/images/KitsTOHB/kit Cuidado Capilar.jpg",
+    "description": "Kit para cuidado capilar: crema nutritiva y shampoo para una rutina completa.",
+    "images": ["/images/KitsTOHB/kit Cuidado Capilar.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "67",
+    "title": "KIT CUIDADO FACIAL PARA HOMBRES",
+    "price": 115800,
+    "category": "kits",
+    "image": "/images/KitsTOHB/kitCuidadoFacialHombre.jpg",
+    "description": "Kit facial pensado para las necesidades de la piel masculina, con ingredientes calmantes y protectores.",
+    "images": ["/images/KitsTOHB/kitCuidadoFacialHombre.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "68",
+    "title": "KIT CUIDADO MIXTO PRESENTACION SOLIDA",
+    "price": 80000,
+    "category": "kits",
+    "image": "/images/KitsTOHB/kitCuidadoMixto.jpg",
+    "description": "Kit mixto en presentación sólida con shampoo y jabones artesanales para una rutina sostenible.",
+    "images": ["/images/KitsTOHB/kitCuidadoMixto.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  }
 ]

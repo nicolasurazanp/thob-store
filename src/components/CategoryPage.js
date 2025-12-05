@@ -9,7 +9,7 @@ const CATEGORY_ID_MAP = {
     'cuidado-corporal': [12,13,14,15,16,17,18,19,20,21,22],
     'cuidado-facial': [23,24,25,26,27,28,29,30,31,35,36,37,38,39,40,41,42,43,44,45,46],
     'maquillaje': [47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62],
-    'kits': [63,64,65,66,67,68]
+    'kits': [63,64,65,66,67,68,69,70,71,72,73,74]
 };
 
 const CategoryPage = ({ addToCart }) => {
@@ -84,37 +84,40 @@ const CategoryPage = ({ addToCart }) => {
                 ) : sortedProducts.length === 0 ? (
                     <p>No se encontraron productos en esta categoría.</p>
                 ) : (
-                    sortedProducts.map(product => (
-                        <div
-                            key={product.id}
-                            className="product-card"
-                            onClick={() => handleProductClick(product.id)}
-                        >
-                            <img src={product.image} alt={product.title || product.name} />
-                            <h4>{product.title || product.name}</h4>
-                            <p>{product.brand || 'TOHB'}</p>
-                            <p>Desde: {formatCOP(product.price)}</p>
+                    sortedProducts.map(product => {
+                        const isCoverImage = category === 'kits' && [66, 67, 68].includes(Number(product.id));
+                        return (
+                            <div
+                                key={product.id}
+                                className={"product-card" + (isCoverImage ? ' cover-image' : '')}
+                                onClick={() => handleProductClick(product.id)}
+                            >
+                                <img src={product.image} alt={product.title || product.name} />
+                                <h4>{product.title || product.name}</h4>
+                                <p>{product.brand || 'TOHB'}</p>
+                                <p>Desde: {formatCOP(product.price)}</p>
 
-                            {category === 'kits' ? (
-                                <button
-                                    className="add-to-cart-btn"
-                                    onClick={(e) => {
-                                        e.stopPropagation();
-                                        const kitForCart = {
-                                            id: product.id,
-                                            name: product.title || product.name,
-                                            price: product.price,
-                                            image: product.image,
-                                            quantity: 1
-                                        };
-                                        addToCart(kitForCart);
-                                    }}
-                                >Agregar al carrito</button>
-                            ) : (
-                                <button className="details-btn">Ver Detalles</button>
-                            )}
-                        </div>
-                    ))
+                                {category === 'kits' ? (
+                                    <button
+                                        className="add-to-cart-btn"
+                                        onClick={(e) => {
+                                            e.stopPropagation();
+                                            const kitForCart = {
+                                                id: product.id,
+                                                name: product.title || product.name,
+                                                price: product.price,
+                                                image: product.image,
+                                                quantity: 1
+                                            };
+                                            addToCart(kitForCart);
+                                        }}
+                                    >Agregar al carrito</button>
+                                ) : (
+                                    <button className="details-btn">Ver Detalles</button>
+                                )}
+                            </div>
+                        );
+                    })
                 )}
             </div>
         </div>

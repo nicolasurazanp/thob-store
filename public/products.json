@@ -1282,5 +1282,102 @@
       "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
       "brandInfo": "Somos una marca Colombiana"
     }
+  },
+  {
+    "id": "69",
+    "title": "KIT PARA PIEL MADURA",
+    "price": 147800,
+    "category": "kits",
+    "image": "/images/KitsTOHB/KitPielMadura.jpg",
+    "description": "reduce ojeras y lineas de expresión",
+    "images": ["/images/KitsTOHB/KitPielMadura.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "70",
+    "title": "KIT PARA UNA PIEL LIBRE DE ACNE ",
+    "price": 97000,
+    "category": "kits",
+    "image": "/images/KitsTOHB/KitPielLibreAcne.jpg",
+    "description": "Controla el exceso de grasa y previene brotes de acné",
+    "images": ["/images/KitsTOHB/KitPielLibreAcne.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "71",
+    "title": "KIT ANTIMANCHAS",
+    "price": 173900,
+    "category": "kits",
+    "image": "/images/KitsTOHB/KitAntimanchas.jpg",
+    "description": "Reduce manchas e ilumina la piel",
+    "images": ["/images/KitsTOHB/KitAntimanchas.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "72",
+    "title": "RUTINA ANTIEDAD",
+    "price": 220700,
+    "category": "kits",
+    "image": "/images/KitsTOHB/RutinaAntiedad.jpg",
+    "description": "Rutina completa que ayuda a reducir arrugas y líneas de expresión. ",
+    "images": ["/images/KitsTOHB/RutinaAntiedad.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+  {
+    "id": "73",
+    "title": "RUTINA ANTIOXIDANTE",
+    "price": 195700,
+    "category": "kits",
+    "image": "/images/KitsTOHB/RutinaAntioxidante.jpg",
+    "description": "Rutina completa que protege la piel de los radicales libres y el envejecimiento prematuro.",
+    "images": ["/images/KitsTOHB/RutinaAntioxidante.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
+  },
+   {
+    "id": "74",
+    "title": "KIT HIDRATACION PROFUNDA",
+    "price": 195700,
+    "category": "kits",
+    "image": "/images/KitsTOHB/KitHidratacionProfunda.jpg",
+    "description": "Rutina completa que brinda hidratación intensa y duradera para una piel suave y flexible.",
+    "images": ["/images/KitsTOHB/KitHidratacionProfunda.jpg"],
+    "shippingInfo": {
+      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
+      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
+      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
+      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
+      "brandInfo": "Somos una marca Colombiana"
+    }
   }
+  
 ]

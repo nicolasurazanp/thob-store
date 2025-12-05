@@ -97,6 +97,34 @@ h2 {
     background-color: #388e3c;
 }
 
+/* Botón de agregar al carrito para kits */
+.product-card .add-to-cart-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-top: 10px;
+}
+
+.product-card .add-to-cart-btn:hover {
+    background-color: #388e3c;
+}
+
+/* Imágenes más grandes solo para kits */
+.category-page:has(.product-card .add-to-cart-btn) .product-card img {
+    height: 300px;
+    object-fit: contain;
+}
+
+/* object-fit: cover solo para los kits que tengan la clase .cover-image (ids 66,67,68) */
+.category-page:has(.product-card .add-to-cart-btn) .product-card.cover-image img {
+    object-fit: cover;
+}
+
 /* Ajustes para dispositivos móviles */
 @media (max-width: 768px) {
     /* Aseguramos que las cards se acomoden bien */

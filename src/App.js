@@ -32,6 +32,11 @@ const App = () => {
 
   // Función para agregar productos al carrito (incluyendo cantidades)
   const addToCart = (product) => {
+    if (product.soldOut) {
+      showAlert("Este producto se encuentra agotado");
+      return;
+    }
+
     setCart((prevCart) => {
       const productIndex = prevCart.findIndex((item) => item.id === product.id);
       let updatedCart;

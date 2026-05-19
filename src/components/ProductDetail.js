@@ -489,6 +489,7 @@ import Reviews from './Reviews'; // Importamos el componente de las reseñas
 
     // Obtenemos los sellos del producto según su id
     const productSeals = sealsByProduct[product.id] || []; // Si no se encuentra el id, no mostramos sellos
+    const isSoldOut = Boolean(product.soldOut);
 
     return (
         <>
@@ -517,11 +518,14 @@ import Reviews from './Reviews'; // Importamos el componente de las reseñas
 
                 <div className="product-info">
                     <h2>{product.title}</h2>
+                    {isSoldOut && <span className="product-sold-out-badge">Agotado</span>}
                     <p className="price">${product.price}</p>
                     {/* Agregar al carrito en la página de detalles */}
                     <button
-                        className="add-to-cart"
+                        className={`add-to-cart${isSoldOut ? ' sold-out-btn' : ''}`}
+                        disabled={isSoldOut}
                         onClick={() => {
+                            if (isSoldOut) return;
                             const productToCart = {
                                 ...product,
                                 quantity: 1,
@@ -530,7 +534,7 @@ import Reviews from './Reviews'; // Importamos el componente de las reseñas
                             addToCart(productToCart);
                         }}
                     >
-                        Agregar al carrito
+                        {isSoldOut ? 'Agotado' : 'Agregar al carrito'}
                     </button>
 
                     {/* Aquí se agrega la nueva lista de información de envío */}

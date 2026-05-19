@@ -7,8 +7,8 @@ import './CategoryPage.css';
 const CATEGORY_ID_MAP = {
     'cuidado-capilar': [1,2,3,4,5,6,7,8,9,10,11],
     'cuidado-corporal': [12,13,14,15,16,17,18,19,20,21,22],
-    'cuidado-facial': [23,24,25,26,27,28,29,30,31,35,36,37,38,39,40,41,42,43,44,45,46],
-    'maquillaje': [47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62],
+    'cuidado-facial': [25,26,27,28,29,30,31,35,36,37,38,39,40,41,42,43,44,45,46],
+    'maquillaje': [48,49,50,51,52,53,54,55,56,57,58,59,60,61,62],
     'kits': [63,64,65,66,67,68,69,70,71,72,73,74]
 };
 
@@ -86,18 +86,22 @@ const CategoryPage = ({ addToCart }) => {
                 ) : (
                     sortedProducts.map(product => {
                         const isCoverImage = category === 'kits' && [66, 67, 68].includes(Number(product.id));
+                        const isSoldOut = Boolean(product.soldOut);
                         return (
                             <div
                                 key={product.id}
-                                className={"product-card" + (isCoverImage ? ' cover-image' : '')}
+                                className={"product-card" + (isCoverImage ? ' cover-image' : '') + (isSoldOut ? ' sold-out' : '')}
                                 onClick={() => handleProductClick(product.id)}
                             >
+                                {isSoldOut && <span className="sold-out-badge">Agotado</span>}
                                 <img src={product.image} alt={product.title || product.name} />
                                 <h4>{product.title || product.name}</h4>
                                 <p>{product.brand || 'TOHB'}</p>
                                 <p>Desde: {formatCOP(product.price)}</p>
 
-                                {category === 'kits' ? (
+                                {isSoldOut ? (
+                                    <button className="details-btn sold-out-btn" disabled>Agotado</button>
+                                ) : category === 'kits' ? (
                                     <button
                                         className="add-to-cart-btn"
                                         onClick={(e) => {

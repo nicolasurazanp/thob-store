@@ -54,7 +54,8 @@
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
       "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
       "brandInfo": "Somos una marca Colombiana"
-    }
+    },
+    "soldOut": true
   },
   {
     "id": "4",
@@ -73,7 +74,8 @@
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
       "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
       "brandInfo": "Somos una marca Colombiana"
-    }
+    },
+    "soldOut": true
   },
   {
     "id": "5",
@@ -93,13 +95,14 @@
       "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
       "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
       "brandInfo": "Somos una marca Colombiana"
-    }
+    },
+    "soldOut": true
   },
 {
     "id": "6",
     "title": "Acondicionador Solido",
     "price": 24000,
-    "image": "//images/CuidadoCapilar/CuidadoCapilarDetalle/acondicionador.webp",
+    "image": "/images/CuidadoCapilar/CuidadoCapilarDetalle/acondicionador.webp",
     "description":[ "El más aclamado por todos ustedes ha llegado.",
     "Nuestro acondicionador sólido esta diseñado para dejar tu cabello suave para un cepillado sin fricción, ¿lo mejor? no contamina, no esta diseñado con BTMs  y nos aseguramos que sus compuestos no contaminarán la vida marina.",
     "Sentiras la suavidad desde su primer uso"
@@ -440,47 +443,9 @@
   "_comment": "Fin Categoria Corporal - Inicio Categoria Facial"
 },
   {
-    "id": "23",
-    "title": "Mascarilla Aloe Vera 60 mL",
-    "price":  19900,
-    "image": "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
-    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro ",
-    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjuagar con abundante agua.",
-    "images": [
-      "/images/CuidadoFacial/MASCARILLA-ALOE-VERA-60.png",
-      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-    {
-    "id": "24",
-    "title": "Mascarilla Calendula Y Manzanilla 60mL",
-    "price":  19900,
-    "image": "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
-    "description": "Nuestras mascarillas faciales aportan hidratación, nutrición y equilibran el pH de la piel, previniendo su envejecimiento prematuro, purificándola y absorbiendo las impurezas presentes en ella. ¡Regálale suavidad y tersura a tu rostro! ",
-    "usage": "Aplicar una fina capa en el cuello y el rostro, con suaves masajes circulares. Dejar actuar entre 15-30 minutos. Enjugar con abundante agua.",
-    "images": [
-      "/images/CuidadoFacial/MASCARILLA-CALENDULA-60.png",
-      "/images/CuidadoFacial/Detalle/MASCARILLA-CALENDULA-Y-MANZANILLA.png"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-   {
     "id": "25",
     "title": "Protector Solar con Extractos Botánicos / SPF 50+L",
-    "price":  73900,
+    "price":  86000,
     "image": "/images/CuidadoFacial/Detalle/protector.jpg",
     "description": "Que nunca te falte en tu rutina diaria la protección de tu piel, cuídala de manera natural. Su fórmula con ingredientes activos naturales de origen vegetal y mineral es de fácil absorción. Actúa como una barrera física brindando una adecuada protección solar contra los rayos UVA / UVB y/o cualquier fuente de luz  artificial, cuidándote sin ocasionar efectos secundarios. Protege y suaviza la piel. Ideal Para todo Tipo de piel.",
     "usage": "Aplicar en el rostro y cuello una fina capa del protector solar y masajear hasta su completa absorción.",
@@ -635,7 +600,7 @@
   {
     "id": "36",
     "title": "Complejo antiedad Contorno de ojos 18ml",
-    "price": 74900,
+    "price": 81000,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Antiedad1.jpg",
     "description": "Nuestro contorno de ojos está formulado con una cuidadosa combinación de activos especialmente diseñados para esta delicada área, que es más fina, tiene menos glándulas sebáceas y genera menos colágeno que el resto del rostro. Esta fórmula aborda las necesidades específicas del contorno de ojos, que tiende a ser más propenso a arrugas.",
     "usage": "Presiona suavemente el envase para extraer una cantidad similar al tamaño de un grano de arroz por cada ojo. Utiliza la boquilla metálica para masajear suavemente el producto por todo el contorno de los ojos, siguiendo la línea ósea que rodea el ojo y la zona de la ojera. Si prefieres, puedes finalizar dando ligeros toques con la yema del dedo anular hasta que el producto se absorba completamente. Apto para Todo tipo de piel",
@@ -656,7 +621,7 @@
  {
     "id": "37",
     "title": "Espuma Limpiadora Facial Cúrcuma",
-    "price": 37900,
+    "price": 42900,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Espuma1.jpg",
     "description": "Nuestra espuma facial está especialmente formulada para pieles secas y sensibles. Limpia profundamente sin irritar ni resecar, gracias a su fórmula tipo Syndet, que respeta la barrera natural de la piel.Enriquecida con extractos calmantes como centella asiática y cúrcuma, reduce el enrojecimiento y la irritación, mientras que la niacinamida y el pantenol hidratan y restauran, dejando la piel flexible y equilibrada. Su textura ligera y espumosa proporciona una experiencia refrescante y confortable en cada uso.",
     "usage": "Con el rostro húmedo, aplica la cantidad deseada de espuma necesaria, con la ayuda de tus manos esparce por todo el rostro y masajea, enjuaga con abundante agua hasta retirar la totalidad del producto.Es de uso diario, se puede usar am y pm según la necesidad de piel.",
@@ -676,7 +641,7 @@
   {
     "id": "38",
     "title": "Hidratante Facial Bio Complejo – 50ml",
-    "price": 59900,
+    "price": 68900,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Hidratante1.jpg",
     "description": "Formulada con más de 15 activos y dos tipos de ácido hialurónico, esta crema ofrece hidratación profunda y duradera, ideal para pieles secas, deshidratadas o fatigadas. Su complejo de superalimentos verdes revitaliza y tonifica la piel, previene líneas de expresión y mejora su textura, brindando nutrición intensiva y reparadora.",
     "usage": "Con el rostro limpio y seco, aplica directamente hasta su total absorción. Cubre rostro, cuello y escote.",
@@ -695,7 +660,7 @@
  {
     "id": "39",
     "title": "Jabón limpiador facial caléndula y manzanilla",
-    "price": 36900,
+    "price": 44000,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Limpiador1.jpg",
     "description": "Jabón limpiador facial que actúa en la piel como controlador de grasa, limpia las impurezas y células muertas de la piel sin resecar, hidratándola y nutriéndola. Formulado con extracto de caléndula con propiedades antinflamatorias, cicatrizantes y calmantes, y debido a los carotenos, flavonoides y polisacáridos brinda propiedades antienvejecimiento. Además, formulada con manzanilla que por su contenido de azuleno es un magnífico anti-inflamatorio,  vitaminas del grupo B y diversos glúcidos que pueden participar en su acción calmante. Contiene hidrosol de romero y menta, reemplazando el agua en la formulación, con propiedades antioxidantes y purificantes, extracto de ortiga y corteza de drago con propiedades antisépticas y antioxidantes, ayudando a eliminar las bacterias y mantener la piel saludable.",
     "usage": "Aplica sobre el rostro húmedo haciendo suaves movimientos de forma circular hasta hacer espuma, luego enjuaga con abundante agua hasta que no quede rastro de jabón. Evita el contacto con ojos.",
@@ -714,7 +679,7 @@
   {
     "id": "40",
     "title": "Mousse desmaquillante",
-    "price": 22900,
+    "price": 27900,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Desmaquillante1.jpg",
     "description": "Nuestro limpiador facial desmaquillante de primer paso está formulado con postbióticos que nutren y fortalecen el microbioma natural de tu piel, brindando un equilibrio biológico esencial para mantener una piel fortalecida y limpia.Está enriquecido con aceite de cacay, extracto de arroz, aloe vera y avena que promueven una piel más luminosa y sana.",
     "usage": "Aplica directamente sobre el rostro y el cuello haciendo suaves movimientos circulares con ayuda de las manos, retirar las impurezas de la piel con la ayuda de algodón o toallitas y agua.Frecuencia: Este producto puede usarse diariamente en la rutina de limpieza nocturna. Si es tu único limpiador, puedes utilizarlo tanto en la mañana como en la noche.Único limpiador: Limpia, desmaquilla y humecta al mismo tiempo, dependiendo del tipo de piel requiere o no enjuague.Doble limpieza: Ayuda a disolver suavemente los residuos más difíciles de retirar y prepara la piel creando una capa protectora para el segundo paso de limpieza, ayudando a preservar los lípidos naturales y el equilibrio de la piel.",
@@ -735,7 +700,7 @@
    {
     "id": "41",
     "title": "Serum facial intensivo Fitoretinol 30ml",
-    "price": 72900,
+    "price": 79900,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Serum1.jpg",
     "description": "Nuestro Sérum Facial Intensivo Fito-Retinol es una alternativa 100% natural al retinol, con alta tolerancia cutánea y efectos similares a la vitamina A. Ayuda a prevenir el envejecimiento, promueve la renovación celular, aclara manchas y estimula la producción de colágeno.",
     "usage": "Aplicar después de la limpieza y antes del hidratante habitual.Con la piel limpia y seca, aplica de 3 a 4 gotas en el rostro y masajea suavemente hasta su completa absorción.Si tienes fito retinol (bio-retinol), niacinamida y vitamina C en tu rutina, puedes combinarlos con cuidado evaluando tolerancia, pero también es una buena idea alternarlos según la sensibilidad de tu piel y los objetivos de tu cuidado.El Fito-Retinol no es fotosensible, por lo que puede usarse tanto en la mañana como en la noche.",
@@ -756,7 +721,7 @@
    {
     "id": "42",
     "title": "Serum Facial RevitaC 30ml",
-    "price": 72900,
+    "price": 79900,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/SerumFacial1.jpg",
     "description": "Nuestro Suero Facial RevitaC es una fórmula avanzada de vitamina C encapsulada y potenciada con lúcuma como activo principal. Aporta beneficios antioxidantes ofreciendo una solución completa para mejorar la salud de la piel opaca, con manchas y sin brillo. Mejora notablemente la apariencia de la piel, proporcionando beneficios antioxidantes, hidratando y combatiendo los signos del envejecimiento. Previene y reduce la inflamación de la piel en condiciones de acné, ayudando a que las pieles tengan un proceso de cicatrización mínimamente visible ¡Excelentes beneficios en un solo producto!Cuenta con certificado dermatológico y se ha desarrollado cuidadosamente para garantizar la máxima eficacia y seguridad para todo tipo de piel.",
     "usage": "Aplicar después de la limpieza y antes del hidratante habitual.Con la piel limpia y seca, aplica de 3 a 4 gotas en el rostro y masajea suavemente hasta su completa absorción.Si tienes fito retinol (bio-retinol), niacinamida y vitamina C en tu rutina, puedes combinarlos con cuidado evaluando tolerancia, pero también es una buena idea alternarlos según la sensibilidad de tu piel y los objetivos de tu cuidado.",
@@ -778,7 +743,7 @@
   {
     "id": "43",
     "title": "SERUM EXFOLIANTE ÁCIDO GLICÓLICO 5% + LÁCTICO 5%- 30ML",
-    "price": 49000,
+    "price": 55000,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Exfoliante1.jpg",
     "description": "Nuestro suero exfoliante AHA a base de ácido glicólico 5% + ácido láctico 5% tiene como función exfoliar suavemente la piel removiendo las células muertas adheridas a la piel, esto proporciona suavidad y luminosidad, unifica el tono de la piel, disminuye lesiones de acné, mejora textura y arrugas, entre otros beneficios.",
     "usage": "Con la piel limpia, aplica las gotas necesarias para cubrir todo el rostro y esparce hasta su total absorción. Puedes aplicarlo con tus manos o con un algodón.",
@@ -798,7 +763,7 @@
    {
     "id": "44",
     "title": "Serum niacinamida al 4% y ácido hialurónico al 2%- 30ml",
-    "price": 52000,
+    "price": 57000,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Niacimida1.jpg",
     "description": "Nuestro suero de niacinamida al 4% y ácido hialurónico al 2% tiene como función disminuir la sobreproducción de sebo, regular los niveles de hidratación de la piel y prolongarla por más tiempo, gracias a la vitamina B3 se reducen imperfecciones y enrojecimiento.",
     "usage": "Aplica las gotas necesarias para cubrir todo el rostro, esparce con la ayuda de las manos hasta su total absorción.Importante No olvides usar hidratante en la misma rutina para que el ácido hialurónico haga su trabajo correctamente, No use este producto si es alérgico a alguno de los ingredientes de este serum, La niacinamida se puede mezclar con vitamina c en la misma rutina (Consultar el fabricante de la vitamina c si posee restricciones).",
@@ -818,7 +783,7 @@
     {
     "id": "45",
     "title": "Hidratante facial Soufflé 50ml",
-    "price": 59900,
+    "price": 68000,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Souffle1.jpg",
     "description": "Formulada con activos botánicos, ácido hialurónico y aceites naturales, esta hidratante de rápida absorción ofrece una hidratación extrema y duradera. Ayuda a mejorar la elasticidad, tono y densidad de la piel, mientras calma la irritación y el enrojecimiento, incluso en pieles sensibles. Ideal para todo tipo de piel, incluyendo pieles grasas y con tendencia acneica, ya que no obstruye los poros ni estimula la producción de grasa.",
     "usage": "Toma la cantidad de producto necesaria y aplica sobre rostro, cuello y escote, haciendo ligeras presiones y movimientos circulares para mejorar su absorción.",
@@ -839,7 +804,7 @@
    {
     "id": "46",
     "title": "Oleum facial iluminador 30ml",
-    "price": 46900,
+    "price": 55000,
     "image": "/images/CuidadoFacial/CuidadoFacilV1.2/Oleum1.jpg",
     "description": "Nuestro Oleum es un suero facial tipo aceite que humecta profundamente y actúa como barrera protectora mejorando y prolongando los niveles de humedad de nuestra piel. Gracias a sus aceites no comedogénicos brindan un glow natural y saludable, siendo así un complemento perfecto para nuestra rutina de cuidado facial.",
     "usage": "Humectante facial: Aplica unas gotas de Oleum al finalizar tu rutina de cuidado de la piel para asegurar una hidratación prolongada e intensa Con la palma de las manos, calienta entre dos y cuatro gotas de Oleum facial y aplícalo con una ligera presión en el rostro, cuello y escote. Masajea suavemente en círculos hasta que se absorba completamente; Masaje facial: Utiliza el Oleum para realizar masajes de yoga facial o drenaje linfático, ayudando a relajar los músculos faciales, mejorar la circulación sanguínea y promover una apariencia radiante y rejuvenecida; Tratamiento nocturno: Aplica una capa fina de Oleum antes de acostarte y déjalo actuar durante la noche como un tratamiento intensivo para revitalizar y reparar la piel mientras duermes; Primer de maquillaje: Utiliza unas gotas de Oleum como primer de maquillaje para crear una base suave y uniforme, facilitando la aplicación de la base de maquillaje y prolongando su duración; Tratamiento de cutículas: Masajea unas gotas de Oleum en las cutículas de las uñas para suavizarlas, hidratarlas y promover uñas más saludables; Tratamiento de puntos secos: Utiliza el Oleum para tratar áreas secas y ásperas de la piel, como codos, rodillas o talones, proporcionando una hidratación intensiva, restauración de la piel, aportando suavidad y elasticidad. ",
@@ -863,29 +828,9 @@
   "_comment": "Fin Categoria Facial - Inicio Categoria Maquillaje"
 },
    {
-    "id": "47",
-    "title": "Brillo Labial Morning Kiss",
-    "price":  32000,
-    "image": "/images/Maquillaje/brilloLabial.jpg",
-    "description": "Brillo labial con un toque de color frambuesa , sin igual para labios resecos y con ardor, sensación de alivio inmediata, emoliente, 100% ingredientes naturales.",
-    "usage": "Aplicar uniformemente sobre la piel de los labios, puede usarse diariamente o varias veces durante el día.",
-    "images": [
-      "/images/Maquillaje/brilloLabial.jpg",
-      "/images/Maquillaje/Detalle/Detalle1Maquillaje.jpg",
-      "/images/Maquillaje/Detalle/Detalle2Maquillaje.jpg"
-    ],
-  "shippingInfo": {
-      "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
-      "caliTime": "En Cali recibes entre 1 y 2 días hábiles",
-      "restOfCountryTime": "Resto del país de 3 a 8 días hábiles",
-      "freeShipping": "Por compras mayores a $180.000 el envío es GRATIS",
-      "brandInfo": "Somos una marca Colombiana"
-    }
-  },
-   {
     "id": "48",
     "title": "Corrector Facial Piel Canela - Toffee",
-    "price":  42000,
+    "price":  58000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-21-58 Corrector Facial Piel Canela - Toffee – Chirpy MakeUp.png",
     "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa. ",
     "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
@@ -905,7 +850,7 @@
    {
     "id": "49",
     "title": "Corrector Facial Tono Medio - Latte",
-    "price":  42000,
+    "price":  58000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-23-14 Corrector Facial Tono Medio - Latte – Chirpy MakeUp.png",
     "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa. ",
     "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
@@ -925,7 +870,7 @@
   {
     "id": "50",
     "title": "Corrector Facial Piel Super Clara - Vainilla",
-    "price":  42000,
+    "price":  58000,
     "image": "/images/Maquillaje/Screenshot 2025-08-17 at 01-24-25 Corrector Facial Piel super clara - Vainilla – Chirpy MakeUp.png",
     "description": "El corrector de ojeras Chirpy Makeup actúa como una crema correctiva mientras da cobertura con un aspecto natural. Rico en aceite de aguacate, mantecas y ceras vegetales que ofrecen una hidratación intensa, regeneración de la piel y mantener una piel saludable y luminosa.",
     "usage": "Aplicar uniformemente sobre el rostro la piel del rostro hasta obtener el cubrimiento deseado. puede aplicarse directamente con los dedos sobre el rostro a toquecitos y difuminar con brocha o esponja, se recomienda sellar con polvos.",
@@ -945,7 +890,7 @@
   {
     "id": "51",
     "title": "Polvo Matificante",
-    "price":  42000,
+    "price":  58000,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
     "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
     "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
@@ -966,7 +911,7 @@
   {
     "id": "52",
     "title": "Polvo Matificante Latte",
-    "price":  42000,
+    "price":  58000,
     "image": "/images/Maquillaje/PolvoMatificanteLatte.webp",
     "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
     "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
@@ -987,7 +932,7 @@
   {
     "id": "53",
     "title": "Polvo Matificante Vainilla",
-    "price":  42000,
+    "price":  58000,
     "image": "/images/Maquillaje/PolvoMatificanteVainilla.webp",
     "description": "Super Fácil de usar, el polvo matificante Chirpy Makeup Libre de Talco es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural",
     "usage": "Aplicar uniformemente sobre la zona T del rostro en pieles mixtas a grasas o en todo el rostro como sellador del maquillaje.",
@@ -1008,7 +953,7 @@
   {
     "id": "54",
     "title": "Hidratante y Protector Labial Frutos Rojos",
-    "price":  13900,
+    "price":  16500,
     "image": "/images/Maquillaje/polvoMatificante.jpg",
     "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
     "usage": "Aplicar una capa fina en los labios, varias veces al día.",
@@ -1028,7 +973,7 @@
    {
     "id": "55",
     "title": "Hidratante y Protector Labial Caléndula y Manzanilla ",
-    "price":  13900,
+    "price":  16500,
     "image": "/images/Maquillaje/HIDRATANTE-PARA-LABIOS-CALENDULA.png",
     "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
     "usage": "Aplicar una capa fina en los labios, varias veces al día.",
@@ -1047,7 +992,7 @@
     {
     "id": "56",
     "title": "Hidratante y Protector Labial Menta ",
-    "price":  13900,
+    "price":  16500,
     "image": "/images/Maquillaje/HIDRTANTE-PARA-LABIOS-MENTA.png",
     "description": "Hechos a base de ingredientes naturales (caléndula, manzanilla y aceite de oliva) que combinados forman una barrera que protege los labios de agentes externos como el sol, el viento y la polución, aportándoles hidratación, humectación y nutrición. La perfecta combinación de ingredientes naturales. Solo para uso externo.",
     "usage": "Aplicar una capa fina en los labios, varias veces al día.",
@@ -1066,7 +1011,7 @@
      {
     "id": "57",
     "title": "Rubor Rosa",
-    "price":  49500,
+    "price":  58000,
     "image": "/images/Maquillaje/RuborRosa.png",
     "description": "El Rubor Chirpy Makeup que define su rostro y aporta un aspecto radiante y saludable. Su textura aterciopelada brinda a la piel un acabado natural, formulado con aceites de ricino y jojoba que nutren y suavizan la piel, evitando sequedad, fecula de maíz que garantiza una larga duración en el rostro con un acabado fresco y natural. Tono Rosa",
     "ingredients": "Aceite de ricino, aceite de jojoba, fecula de maiz, acido estearico, vitamina e, oxido de zinc, benzoato de sodio y óxidos de hierro (pigmentos minerales).",
@@ -1088,7 +1033,7 @@
    {
     "id": "58",
     "title": "Rubor tono coral",
-    "price":  49500,
+    "price":  58000,
     "image": "/images/Maquillaje/RuborCoral.png",
     "description": "El Rubor Chirpy Makeup que define su rostro y aporta un aspecto radiante y saludable. Su textura aterciopelada brinda a la piel un acabado natural, formulado con aceites de ricino y jojoba que nutren y suavizan la piel, evitando sequedad, fecula de maíz que garantiza una larga duración en el rostro con un acabado fresco y natural. Tono Coral",
     "ingredients": "Aceite de ricino, aceite de jojoba, fecula de maiz, acido estearico, vitamina e, oxido de zinc, benzoato de sodio y óxidos de hierro (pigmentos minerales).",
@@ -1110,7 +1055,7 @@
    {
     "id": "59",
     "title": "Recarga Polvo Matificante Latte",
-    "price":  21000,
+    "price":  33000,
     "image": "/images/Maquillaje/recargapolvolatte.webp",
     "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
     "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
@@ -1130,7 +1075,7 @@
    {
     "id": "60",
     "title": "Recarga Polvo Matificante Toffe",
-    "price":  21000,
+    "price":  33000,
     "image": "/images/Maquillaje/recargapolvotoffe.webp",
     "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
     "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
@@ -1150,7 +1095,7 @@
    {
     "id": "61",
     "title": "Recarga Polvo Matificante Vainilla",
-    "price":  21000,
+    "price":  33000,
     "image": "/images/Maquillaje/recargapolvovainilla.webp",
     "description": "Super Fácil de usar, recarga el polvo matificante Chirpy Makeup que es una base de maquillaje en polvo que matifica, sella el maquillaje y suaviza el rostro, con un acabado natural, formulado con polvo de arroz, arcilla caolín, estearato de magnesio y pigmentos minerales absorbe eficazmente el exceso de grasa, mejora la textura y el tono, ofreciendo un acabado natural. ",
     "ingredients": "Estearato de magnesio, arcilla caolín, oxido de zinc, polvo de arroz, micro esferas de sílice y óxidos de hierro (pigmentos minerales).",
@@ -1170,7 +1115,7 @@
   {
     "id": "62",
     "title": "Labial Chocolate",
-    "price":  49500,
+    "price":  58000,
     "image": "/images/Maquillaje/LabialChocolate.jpg",
     "description":"El labial Chirpy Makeup deja los labios suaves e hidratados. De textura cremosa, fijación duradera y color chocolate, Con 5 diferentes formas de uso. Rico en aceite de jojoba, ricino, mantecas y ceras vegetales. Mientras el aceite de jojoba nutre y se absorbe rápidamente, el de ricino forma una barrera protectora que sella la hidratación. Alivia labios secos o agrietados, regenerándolos y dejándolos suaves y saludables.",
     "usage":"Aplicar uniformemente sobre los labios de una manera homogénea y constante, hasta obtener los resultados deseados y la incorporación total del producto en los labios.",

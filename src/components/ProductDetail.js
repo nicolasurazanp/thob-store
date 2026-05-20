@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import './ProductDetail.css';
+import { formatCOP } from '../utils/formatCurrency';
 import ProductSeals from './ProductSeals'; // Importamos el componente de los sellos
 import Reviews from './Reviews'; // Importamos el componente de las reseñas
 
@@ -519,7 +520,7 @@ import Reviews from './Reviews'; // Importamos el componente de las reseñas
                 <div className="product-info">
                     <h2>{product.title}</h2>
                     {isSoldOut && <span className="product-sold-out-badge">Agotado</span>}
-                    <p className="price">${product.price}</p>
+                    <p className="price">{formatCOP(product.price)}</p>
                     {/* Agregar al carrito en la página de detalles */}
                     <button
                         className={`add-to-cart${isSoldOut ? ' sold-out-btn' : ''}`}

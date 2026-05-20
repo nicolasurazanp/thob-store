@@ -2,11 +2,7 @@
 
 import React from 'react';
 import './KitsSection.css';
-
-// Formateador para COP
-const formatCOP = (value) => {
-  return new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', minimumFractionDigits: 0 }).format(value);
-};
+import { formatCOP } from '../utils/formatCurrency';
 
 const KitsSection = ({ addToCart }) => {
   const kits = [

@@ -1,6 +1,7 @@
 // src/components/CartPage.js
 import React from 'react';
 import './CartPage.css';
+import { formatCOP } from '../utils/formatCurrency';
 
 const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
     // Calcular el subtotal
@@ -14,11 +15,6 @@ const CartPage = ({ cartItems, addToCart, removeFromCart }) => {
 
     const subtotal = calculateSubtotal();
     const total = subtotal; // Aquí puedes agregar impuestos o descuentos si lo deseas
-
-    // Formateador para COP
-    const formatCOP = (value) => {
-        return new Intl.NumberFormat('es-CO', { style: 'currency', currency: 'COP', minimumFractionDigits: 0 }).format(value);
-    };
 
     // Maneja el cambio de cantidad (sumar o restar)
     const handleQuantityChange = (product, quantity) => {

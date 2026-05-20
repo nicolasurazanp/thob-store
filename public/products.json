@@ -227,14 +227,13 @@
 
   {
     "id": "12",
-    "title": "Desodorante Natural Té Verde 60mL",
-    "price": 27900,
-    "image": "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
+    "title": "Desodorante de alumbre lavanda 60ml",
+    "price": 42900,
+    "image": "/images/CuidadoCorporal/CorporalV1.2/DesodoranteAlumbreLavanda60ml.jpeg",
     "description": "Elaborados con alumbre potásico, magnesio y extractos botánicos, ingredientes naturales con propiedades desodorizantes que protegen eficazmente de los malos olores, brindando hidratación y máximo cuidado de la piel.",
     "usage": "Aplicar una fina capa sobre la piel limpia y seca.  Reaplicar las veces que sean necesarias para una mayor protección.",
     "images": [
-      "/images/CuidadoCorporal/DESODORANTE-TE-VERDE.png",
-      "/images/CuidadoCorporal/CuidadoCorporalDetalle/DESODORANTES.png"
+      "/images/CuidadoCorporal/CorporalV1.2/DesodoranteAlumbreLavanda60ml.jpeg"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",
@@ -246,14 +245,13 @@
   },
   {
     "id": "13",
-    "title": "Desodorante Natural Calendula Y Manzanilla 60mL",
-    "price": 27900,
-    "image": "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
+    "title": "Desodorante de alumbre salvia y laurel 60ml",
+    "price": 42900,
+    "image": "/images/CuidadoCorporal/CorporalV1.2/DesodotanteAlumbreSalviayLaurel60ml.jpeg",
     "description": "Elaborados con alumbre potásico, magnesio y extractos botánicos, ingredientes naturales con propiedades desodorizantes que protegen eficazmente de los malos olores, brindando hidratación y máximo cuidado de la piel.",
     "usage": "Aplicar una fina capa sobre la piel limpia y seca.  Reaplicar las veces que sean necesarias para una mayor protección.",
     "images": [
-      "/images/CuidadoCorporal/DESODORANTE-CALENDULA-Y-MANZANILLA.png",
-      "/images/CuidadoCorporal/CuidadoCorporalDetalle/DESODORANTES.png"
+      "/images/CuidadoCorporal/CorporalV1.2/DesodotanteAlumbreSalviayLaurel60ml.jpeg"
     ],
     "shippingInfo": {
       "deliveryTime": "Ciudades principales de 1 a 4 días hábiles",

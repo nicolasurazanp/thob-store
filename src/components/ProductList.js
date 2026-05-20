@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom'; // Para la navegación entre páginas
 import './ProductList.css';
+import { formatCOP } from '../utils/formatCurrency';
 
 const ProductList = () => {
     const [products, setProducts] = useState([]);
@@ -19,7 +20,7 @@ const ProductList = () => {
                 <div key={product.id} className="product-card">
                     <img src={product.image} alt={product.title} />
                     <h3>{product.title}</h3>
-                    <p>${product.price}</p>
+                    <p>{formatCOP(product.price)}</p>
                     <Link to={`/product/${product.id}`} className="product-link">Ver Detalles</Link>
                 </div>
             ))}
